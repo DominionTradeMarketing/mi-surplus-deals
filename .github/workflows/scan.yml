@@ -1,0 +1,42 @@
+name: Scan Michigan surplus
+
+on:
+  schedule:
+    # 23:47 UTC daily = 7:47 PM ET (EDT) / 6:47 PM ET (EST), before Claude's 8:33 PM ET scoring run
+    - cron: "47 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run scanner
+        run: python scanner/scan.py
+      - name: Upload debug HTML
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-html
+          path: debug/
+          retention-days: 3
+          if-no-files-found: ignore
+      - name: Commit results
+        run: |
+          git config user.name "surplus-scanner"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Scan $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

@@ -1,0 +1,23 @@
+{
+  "max_price": 5000,
+  "max_hours_left": 96,
+  "publicsurplus_max_pages": 40,
+  "municibid_max_pages": 5,
+  "municibid_region_id": "3777819",
+  "categories": {
+    "vehicles": [
+      "\\b(19|20)\\d\\d\\b.*\\b(ford|chevy|chevrolet|gmc|dodge|ram|jeep|toyota|honda|nissan|kia|hyundai|subaru|buick|chrysler|isuzu|freightliner|international)\\b",
+      "\\b(truck|pickup|van|minivan|suv|sedan|vehicle|car|explorer|impala|tahoe|silverado|f-?150|f-?250|f-?350|e-?350|transit|caravan|crown vic|taurus|malibu|trailer|utv|atv|gator|golf cart|motorcycle|bus)\\b"
+    ],
+    "tools_equipment": [
+      "\\b(mower|zero.?turn|tractor|skid.?steer|bobcat|excavator|backhoe|loader|forklift|generator|compressor|welder|pressure washer|snow ?blower|plow|salt spreader|chainsaw|trimmer|leaf blower|tools?|drill|saw|lathe|mill|grinder|jack|lift|pump|toolbox|tool chest|dewalt|milwaukee|makita|snap.?on|craftsman|stihl|husqvarna|kubota|john deere|toro|exmark|scag|honda engine|equipment)\\b"
+    ],
+    "electronics": [
+      "\\b(laptop|macbook|ipad|imac|mac mini|chromebook|computer|desktop|pc|workstation|server|monitor|switch|router|cisco|ubiquiti|projector|camera|tv|television|printer|3d printer|oscilloscope|multimeter|power supply|function generator|signal generator|spectrum analyzer|fluke|tektronix|keysight|agilent|rigol|soldering|electronics?|ipad|iphone|tablet|dell|lenovo|thinkpad|hp elitebook|surface)\\b"
+    ]
+  },
+  "exclude": [
+    "\\b(books?|textbooks?|desk|chairs?|table|cabinet|shelving|love ?seat|sofa|couch|bed|mattress|clothing|uniforms?|toys?|lot of paper|scrap metal only)\\b",
+    "\\b(parts only|for parts|salvage title|no title|bill of sale only)\\b"
+  ]
+}
