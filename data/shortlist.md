@@ -1,11 +1,11 @@
-# MI surplus shortlist — 2026-10-28T03:48+00:00 UTC
-11 candidates from 318 Michigan listings
+# MI surplus shortlist — 2026-10-28T03:50+00:00 UTC
+11 candidates from 467 Michigan listings
 
-- **MacBook Pro (13-inch, M2, 2022) w/TouchBar** — $325 — 15 hours 12 mins — electronics — Public Surplus — NEW
+- **MacBook Pro (13-inch, M2, 2022) w/TouchBar** — $325 — 15 hours 9 mins — electronics — Public Surplus — NEW
   https://www.publicsurplus.com/sms/auction/view?auc=4113240
-- **MacBook Pro (16-inch, 2023)** — $500 — 15 hours 12 mins — electronics — Public Surplus — NEW
+- **MacBook Pro (16-inch, 2023)** — $500 — 15 hours 9 mins — electronics — Public Surplus — NEW
   https://www.publicsurplus.com/sms/auction/view?auc=4113153
-- **MacBook Pro (16-inch, 2023)** — $500 — 15 hours 12 mins — electronics — Public Surplus — NEW
+- **MacBook Pro (16-inch, 2023)** — $500 — 15 hours 9 mins — electronics — Public Surplus — NEW
   https://www.publicsurplus.com/sms/auction/view?auc=4113160
 - **JX75 John Deere push mower** — $25 — 2 days 17 hours — tools_equipment — Public Surplus — NEW
   https://www.publicsurplus.com/sms/auction/view?auc=4108746
