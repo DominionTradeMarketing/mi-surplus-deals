@@ -4,8 +4,6 @@
   "publicsurplus_max_pages": 40,
   "municibid_max_pages": 5,
   "municibid_region_id": "3777819",
-  "miedema_max_auctions": 10,
-  "miedema_max_pages": 5,
   "categories": {
     "vehicles": [
       "\\b(19|20)\\d\\d\\b.*\\b(ford|chevy|chevrolet|gmc|dodge|ram|jeep|toyota|honda|nissan|kia|hyundai|subaru|buick|chrysler|isuzu|freightliner|international)\\b",
@@ -20,7 +18,9 @@
   },
   "exclude": [
     "\\b(books?|textbooks?|desk|chairs?|table|cabinet|shelving|love ?seat|sofa|couch|bed|mattress|clothing|uniforms?|toys?|lot of paper|scrap metal only)\\b",
-    "\\b(parts only|for parts|salvage title|no title|bill of sale only)\\b"
+    "\\b(parts only|for parts|salvage title|no title|bill of sale only)\\b",
+    "\\b(case|cases|bag|backpack|stand|blades?|bits?|hitch|hitches|lights?|decor|wreath|model kit|die ?cast|tonka|nylint|ertl|toy|pedal|lp|vinyl|record|replacement|tempered glass|screen protector|charger|lock|locks|manual|brochure|poster|sign|1:\\d+|figurine|ornament|watercolor|painting|print)\\b",
+    " - lp\\b"
   ],
   "hibid_queries": [
     "pickup truck",

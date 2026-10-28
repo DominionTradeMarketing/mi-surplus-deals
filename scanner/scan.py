@@ -305,7 +305,7 @@ def main() -> int:
     DATA.mkdir(exist_ok=True)
     listings: list[dict] = []
     for name, fn in (("Public Surplus", scrape_publicsurplus), ("Municibid", scrape_municibid),
-                     ("HiBid", scrape_hibid), ("Miedema", scrape_miedema)):
+                     ("HiBid", scrape_hibid)):
         try:
             items = fn()
             log(f"{name}: {len(items)} Michigan listings")
