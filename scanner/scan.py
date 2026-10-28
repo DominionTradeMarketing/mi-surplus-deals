@@ -202,19 +202,26 @@ def date_hours(mdy: str) -> float | None:
 def parse_cards(html: str, link_re: str, base: str, source: str, prefix: str) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     out: dict[str, dict] = {}
-    for a in soup.find_all("a", href=re.compile(link_re)):
-        lid = re.search(link_re, a["href"]).group(1)
-        title = (a.get("title") or a.get_text(" ", strip=True)).strip()
-        if lid in out or len(title) < 4 or title.lower() in {"view", "bid", "details", "bid now"}:
+    rx = re.compile(link_re)
+    groups: dict[str, list] = {}
+    for a in soup.find_all("a", href=rx):
+        groups.setdefault(rx.search(a["href"]).group(1), []).append(a)
+
+    def ids_in(node) -> set:
+        return {rx.search(x["href"]).group(1) for x in node.find_all("a", href=rx)}
+
+    junk = re.compile(r"^(lot\s*#?\s*\d+|view|bid|details|bid now|\d+|watch|more info)$", re.I)
+    for lid, anchors in groups.items():
+        texts = [(x.get("title") or x.get_text(" ", strip=True)).strip() for x in anchors]
+        texts = [t for t in texts if len(t) >= 4 and not junk.match(t)]
+        if not texts:
             continue
+        title = max(texts, key=len)
+        a = anchors[0]
         card = a
-        for _ in range(7):
-            if card.parent is None:
-                break
+        while card.parent is not None and card.parent.name not in ("body", "html", "[document]") \
+                and ids_in(card.parent) <= {lid}:
             card = card.parent
-            t = card.get_text(" ", strip=True)
-            if re.search(r"\$\s*[\d,]+|USD", t) and len(t) > len(title) + 10:
-                break
         text = card.get_text(" ", strip=True)
         m_price = re.search(r"(?:Current|High)\s*Bid:?\s*\$?\s*([\d,]+(?:\.\d\d)?)", text, re.I) \
             or re.search(r"\$\s*([\d,]+(?:\.\d\d)?)", text)
