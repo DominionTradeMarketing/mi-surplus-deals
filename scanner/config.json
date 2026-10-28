@@ -4,7 +4,6 @@
   "publicsurplus_max_pages": 40,
   "municibid_max_pages": 5,
   "municibid_region_id": "3777819",
-  "hibid_max_pages": 15,
   "miedema_max_auctions": 10,
   "miedema_max_pages": 5,
   "categories": {
@@ -22,5 +21,31 @@
   "exclude": [
     "\\b(books?|textbooks?|desk|chairs?|table|cabinet|shelving|love ?seat|sofa|couch|bed|mattress|clothing|uniforms?|toys?|lot of paper|scrap metal only)\\b",
     "\\b(parts only|for parts|salvage title|no title|bill of sale only)\\b"
+  ],
+  "hibid_queries": [
+    "pickup truck",
+    "truck",
+    "van",
+    "trailer",
+    "car",
+    "zero turn mower",
+    "lawn mower",
+    "tractor",
+    "skid steer",
+    "generator",
+    "air compressor",
+    "welder",
+    "pressure washer",
+    "snow blower",
+    "tools",
+    "milwaukee",
+    "dewalt",
+    "snap on",
+    "laptop",
+    "macbook",
+    "computer",
+    "monitor",
+    "oscilloscope",
+    "electronics"
   ]
 }

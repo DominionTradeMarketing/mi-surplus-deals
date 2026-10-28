@@ -191,6 +191,14 @@ def hours_left_compact(text: str) -> float | None:
     return round(best, 2) if best is not None else hours_left(text)
 
 
+def date_hours(mdy: str) -> float | None:
+    try:
+        dt = datetime.strptime(mdy, "%m/%d/%Y").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return None
+    return round((dt - NOW).total_seconds() / 3600 + 24, 1)  # assume end of that day
+
+
 def parse_cards(html: str, link_re: str, base: str, source: str, prefix: str) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     out: dict[str, dict] = {}
@@ -208,11 +216,12 @@ def parse_cards(html: str, link_re: str, base: str, source: str, prefix: str) ->
             if re.search(r"\$\s*[\d,]+|USD", t) and len(t) > len(title) + 10:
                 break
         text = card.get_text(" ", strip=True)
-        m_price = re.search(r"(?:Current Bid|High Bid|Bid)[^$\d]{0,20}\$?\s*([\d,]+(?:\.\d\d)?)\s*(?:USD)?", text, re.I) \
+        m_price = re.search(r"(?:Current|High)\s*Bid:?\s*\$?\s*([\d,]+(?:\.\d\d)?)", text, re.I) \
             or re.search(r"\$\s*([\d,]+(?:\.\d\d)?)", text)
         m_bids = re.search(r"(\d+)\s*Bids?\b", text, re.I)
-        m_loc = re.search(r"([A-Z][A-Za-z\.\s]{2,30}),\s*(MI|Michigan)\b", text)
-        left = re.search(r"(\d+d\s*\d*h?\s*\d*m?|\d+h\s*\d*m?\s*\d*s?|\d+m\s*\d*s?)\b", text)
+        m_loc = re.search(r"((?:[A-Z][a-z\.]+\s)?[A-Z][a-z\.]+),\s*(MI|Michigan)\b", text)
+        left = re.search(r"\b(\d{1,3}d(?:\s+\d{1,2}h)?(?:\s+\d{1,2}m)?|\d{1,2}h(?:\s+\d{1,2}m)?|\d{1,2}m\s+\d{1,2}s)\b", text)
+        m_date = re.search(r"(\d{1,2}/\d{1,2}/\d{4})", text)
         if re.search(r"\b(closed|sold|ended)\b", text, re.I) and not left:
             continue
         href = a["href"]
@@ -222,8 +231,8 @@ def parse_cards(html: str, link_re: str, base: str, source: str, prefix: str) ->
             "title": title,
             "price": float(m_price.group(1).replace(",", "")) if m_price else None,
             "bids": int(m_bids.group(1)) if m_bids else None,
-            "time_left": left.group(1) if left else "",
-            "hours_left": hours_left_compact(left.group(1)) if left else None,
+            "time_left": left.group(1) if left else (f"closes/opens {m_date.group(1)}" if m_date else ""),
+            "hours_left": hours_left_compact(left.group(1)) if left else date_hours(m_date.group(1)) if m_date else None,
             "location": f"{m_loc.group(1).strip()}, MI" if m_loc else "MI",
             "url": href if href.startswith("http") else base + href,
         }
@@ -232,21 +241,19 @@ def parse_cards(html: str, link_re: str, base: str, source: str, prefix: str) ->
 
 # ---------------------------------------------------------------- HiBid (Michigan)
 def scrape_hibid() -> list[dict]:
+    from urllib.parse import quote
     items: dict[str, dict] = {}
-    for page in range(1, CONFIG["hibid_max_pages"] + 1):
-        url = f"https://hibid.com/michigan/lots?status=OPEN&filter=ONLINE&ipp=100&apage={page}&lot_sort=TIME_LEFT"
-        html = get(url)
+    for q in CONFIG["hibid_queries"]:
+        html = get(f"https://hibid.com/michigan/lots?q={quote(q)}")
         if not html:
-            break
-        if page == 1:
-            save_debug("hibid_p1.html", html)
+            continue
+        if q == CONFIG["hibid_queries"][0]:
+            save_debug("hibid_q0.html", html)
         found = parse_cards(html, r"/lot/(\d+)/", "https://hibid.com", "HiBid", "hb")
         new = [f for f in found if f["id"] not in items]
         for f in new:
             items[f["id"]] = f
-        log(f"HiBid page {page}: {len(new)} new lots")
-        if not new:
-            break
+        log(f"HiBid '{q}': {len(new)} new lots")
         time.sleep(2)
     return list(items.values())
 
@@ -263,7 +270,7 @@ def scrape_miedema() -> list[dict]:
     items: dict[str, dict] = {}
     for aid in ids[: CONFIG["miedema_max_auctions"]]:
         for page in range(1, CONFIG["miedema_max_pages"] + 1):
-            ah = get(f"{base}/auction/{aid}/lots?page={page}&limit=100") or ""
+            ah = get(f"{base}/?auction_id={aid}&page={page}&limit=100") or ""
             if aid == ids[0] and page == 1:
                 save_debug("miedema_auction.html", ah)
             found = parse_cards(ah, r"/lot/(\d+)", base, "Miedema", "md")
