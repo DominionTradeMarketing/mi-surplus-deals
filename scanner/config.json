@@ -4,6 +4,9 @@
   "publicsurplus_max_pages": 40,
   "municibid_max_pages": 5,
   "municibid_region_id": "3777819",
+  "hibid_max_pages": 15,
+  "miedema_max_auctions": 10,
+  "miedema_max_pages": 5,
   "categories": {
     "vehicles": [
       "\\b(19|20)\\d\\d\\b.*\\b(ford|chevy|chevrolet|gmc|dodge|ram|jeep|toyota|honda|nissan|kia|hyundai|subaru|buick|chrysler|isuzu|freightliner|international)\\b",

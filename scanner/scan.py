@@ -178,6 +178,104 @@ def scrape_municibid() -> list[dict]:
     return list(out.values())
 
 
+# ---------------------------------------------------------------- generic card parser
+def hours_left_compact(text: str) -> float | None:
+    """'1d 4h 3m', '5h 2m', '45m 10s' -> hours (HiBid-style countdowns)."""
+    m = re.search(r"\b(?:(\d+)\s*d)?\s*(?:(\d+)\s*h)?\s*(?:(\d+)\s*m)?\s*(?:(\d+)\s*s)?\b", text or "")
+    best = None
+    for d, h, mi, s in re.findall(r"(?:(\d+)d\s*)?(?:(\d+)h\s*)?(?:(\d+)m\s*)?(?:(\d+)s)?", text or ""):
+        if not any((d, h, mi)):
+            continue
+        val = int(d or 0) * 24 + int(h or 0) + int(mi or 0) / 60 + int(s or 0) / 3600
+        best = val if best is None else min(best, val)
+    return round(best, 2) if best is not None else hours_left(text)
+
+
+def parse_cards(html: str, link_re: str, base: str, source: str, prefix: str) -> list[dict]:
+    soup = BeautifulSoup(html, "html.parser")
+    out: dict[str, dict] = {}
+    for a in soup.find_all("a", href=re.compile(link_re)):
+        lid = re.search(link_re, a["href"]).group(1)
+        title = (a.get("title") or a.get_text(" ", strip=True)).strip()
+        if lid in out or len(title) < 4 or title.lower() in {"view", "bid", "details", "bid now"}:
+            continue
+        card = a
+        for _ in range(7):
+            if card.parent is None:
+                break
+            card = card.parent
+            t = card.get_text(" ", strip=True)
+            if re.search(r"\$\s*[\d,]+|USD", t) and len(t) > len(title) + 10:
+                break
+        text = card.get_text(" ", strip=True)
+        m_price = re.search(r"(?:Current Bid|High Bid|Bid)[^$\d]{0,20}\$?\s*([\d,]+(?:\.\d\d)?)\s*(?:USD)?", text, re.I) \
+            or re.search(r"\$\s*([\d,]+(?:\.\d\d)?)", text)
+        m_bids = re.search(r"(\d+)\s*Bids?\b", text, re.I)
+        m_loc = re.search(r"([A-Z][A-Za-z\.\s]{2,30}),\s*(MI|Michigan)\b", text)
+        left = re.search(r"(\d+d\s*\d*h?\s*\d*m?|\d+h\s*\d*m?\s*\d*s?|\d+m\s*\d*s?)\b", text)
+        if re.search(r"\b(closed|sold|ended)\b", text, re.I) and not left:
+            continue
+        href = a["href"]
+        out[lid] = {
+            "source": source,
+            "id": f"{prefix}-{lid}",
+            "title": title,
+            "price": float(m_price.group(1).replace(",", "")) if m_price else None,
+            "bids": int(m_bids.group(1)) if m_bids else None,
+            "time_left": left.group(1) if left else "",
+            "hours_left": hours_left_compact(left.group(1)) if left else None,
+            "location": f"{m_loc.group(1).strip()}, MI" if m_loc else "MI",
+            "url": href if href.startswith("http") else base + href,
+        }
+    return list(out.values())
+
+
+# ---------------------------------------------------------------- HiBid (Michigan)
+def scrape_hibid() -> list[dict]:
+    items: dict[str, dict] = {}
+    for page in range(1, CONFIG["hibid_max_pages"] + 1):
+        url = f"https://hibid.com/michigan/lots?status=OPEN&filter=ONLINE&ipp=100&apage={page}&lot_sort=TIME_LEFT"
+        html = get(url)
+        if not html:
+            break
+        if page == 1:
+            save_debug("hibid_p1.html", html)
+        found = parse_cards(html, r"/lot/(\d+)/", "https://hibid.com", "HiBid", "hb")
+        new = [f for f in found if f["id"] not in items]
+        for f in new:
+            items[f["id"]] = f
+        log(f"HiBid page {page}: {len(new)} new lots")
+        if not new:
+            break
+        time.sleep(2)
+    return list(items.values())
+
+
+# ---------------------------------------------------------------- Miedema
+def scrape_miedema() -> list[dict]:
+    base = "https://bid.miedemaauctioneering.com"
+    html = get(base + "/")
+    if not html:
+        return []
+    save_debug("miedema_home.html", html)
+    ids = sorted(set(re.findall(r"auction(?:_id=|/)(\d+)", html)))
+    log(f"Miedema: {len(ids)} auctions found")
+    items: dict[str, dict] = {}
+    for aid in ids[: CONFIG["miedema_max_auctions"]]:
+        for page in range(1, CONFIG["miedema_max_pages"] + 1):
+            ah = get(f"{base}/auction/{aid}/lots?page={page}&limit=100") or ""
+            if aid == ids[0] and page == 1:
+                save_debug("miedema_auction.html", ah)
+            found = parse_cards(ah, r"/lot/(\d+)", base, "Miedema", "md")
+            new = [f for f in found if f["id"] not in items]
+            for f in new:
+                items[f["id"]] = f
+            if not new:
+                break
+            time.sleep(1.5)
+    return list(items.values())
+
+
 # ---------------------------------------------------------------- filtering
 def categorize(title: str) -> str | None:
     t = f" {title.lower()} "
@@ -192,7 +290,8 @@ def categorize(title: str) -> str | None:
 def main() -> int:
     DATA.mkdir(exist_ok=True)
     listings: list[dict] = []
-    for name, fn in (("Public Surplus", scrape_publicsurplus), ("Municibid", scrape_municibid)):
+    for name, fn in (("Public Surplus", scrape_publicsurplus), ("Municibid", scrape_municibid),
+                     ("HiBid", scrape_hibid), ("Miedema", scrape_miedema)):
         try:
             items = fn()
             log(f"{name}: {len(items)} Michigan listings")
