@@ -1,68 +1,20 @@
-# MI surplus shortlist — 2026-11-15T20:22+00:00 UTC
-571 candidates from 3579 Michigan listings (108 server/PC parts, listed first)
+# MI surplus shortlist — 2026-11-15T20:25+00:00 UTC
+554 candidates from 3582 Michigan listings (45 server/PC parts, listed first)
 
-- **Haier Electric Wine Server** — $0 — 3d 3h 48m — server_pc — HiBid — NEW
-  https://hibid.com/michigan/lot/331292528/haier-electric-wine-server
-- **Pink Etched Depression Glass Servers** — $5 — n/a — server_pc — HiBid — NEW
-  https://hibid.com/michigan/lot/329438292/pink-etched-depression-glass-servers
-- **Dell Precision 5560 i7 11th Gen Nvidia T1200 Laptop GPU Windows 11 Pro** — $425 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-precision-5560-i7-11th-gen-nvidia-t1200-laptop-gpu-windows-11-pro
-- **Dell Latitude 7490 i5 8th Gen 16GB DDR4 Windows 11 Pro** — $150 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-7490-i5-8th-gen-windows-11-pro-2
 - **Assorted 128GB mSATA SSD** — $16 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/assorted-128gb-msata-ssd
 - **32GB SSD mSATA Solid State Drive** — $10 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/32gb-ssd-msata-solid-state-drive-1
-- **Microsoft Surface Pro 6 256GB i5-8350U Windows 11 Pro *White Spot on Screen*** — $200 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/microsoft-surface-pro-6-256gb-i5-8350u-windows-11-pro-white-spot-on-screen
-- **Apple iMac 27" 3.2Ghz i5 6th Gen 2013 16GB DDR3 250GB SSD *No OS*** — $75 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-imac-27-3-2ghz-i5-6th-gen-2013-16gb-ddr3-250gb-ssd-no-os
-- **Dell Latitude 5580 i5 7th 16GB DDR4 RAM Gen Windows 11 Pro *Worn Keys*** — $75 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-16gb-ddr4-ram-gen-windows-11-pro-worn-keys
-- **Dell Latitude 7480 i7 7th Gen Windows 11 Pro *No HDD*** — $50 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-7480-i7-7th-gen-windows-11-pro-missing-keys
-- **Dell Optiplex 7460 All in One (AIO) i7 8th Gen with Windows 11 Pro** — $150 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-optiplex-7460-all-in-one-aio-i7-8th-gen-with-windows-11-pro-copy
-- **Dell Latitude 5590 i5 8th Gen 16GB DDR4 Windows 11 Pro** — $150 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-windows-11-pro
-- **Dell Latitude 7290 i5 8th Gen 16GB DDR4 Windows Pro** — $150 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-7290-i5-8th-gen-16gb-ddr4-windows-pro
-- **Apple iMac 27" 3.6Ghz i9 9th Gen 2019 32GB DDR4 1TB SSD HDD *Cracked Screeen*** — $400 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-imac-27-3-6ghz-i9-9th-gen-2019-32gb-ddr4-1tb-ssd-hdd-cracked-screeen
-- **Apple iMac 27" 3.3Ghz i5 6th Gen 2015 8GB DDR3 2TB Fusion *No OS*** — $90 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-imac-27-3-3ghz-i5-6th-gen-2015-8gb-ddr3-2tb-fusion
 - **Dell Desktop i5 12th Gen 16GB RAM with Windows 11 Pro** — $325 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-i5-12th-gen-16gb-ram-with-windows-11-pro
 - **Dell Desktop i7 11th Gen 16GB RAM with Windows 11 Pro** — $325 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-i7-11th-gen-16gb-ram-with-windows-11-pro
 - **Dell Desktop i5 3rd Gen 16GB RAM *No HDD*** — $20 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-i5-3rd-gen-16gb-ram-no-hdd-1
-- **Dell Latitude 7490 i5 8th Gen 16GB DDR4 Windows 11 Pro *No Battery*** — $100 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-7490-i5-8th-gen-16gb-ddr4-windows-11-pro-no-battery
-- **Microsoft Surface Laptop Go 12.4" Intel i5 4GB *No OS/HDD Issues*** — $45 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/microsoft-surface-laptop-go-12-4-intel-i5-4gb-no-os-hdd-issues
-- **Dell Latitude 5590 i5 8th Gen 8GB DDR4 Windows 11 Pro** — $125 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-gen-8gb-ddr4-windows-11-pro-copy
-- **Dell Latitude 5580 i5 7th 16GB DDR4 RAM Gen Windows 11 Pro** — $100 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-16gb-ddr4-ram-gen-windows-11-pro-copy
-- **Tripp Lite 1U Rackmount Console Model B021-000-17** — $100 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/tripp-lite-1u-rackmount-console-model-b021-000-17
 - **HP AF002A 10642 G2 SHOCK Universal Server Rack** — $400 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/sony-cfd-444-3-piece-portable-stereo-boombox-copy
-- **Tripp Lite Net Director 1U Rackmount Console Model B021-000-17** — $150 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/tripp-lite-net-director-1u-rackmount-console-model-b021-000-17
-- **CTX Rackmount 15" 1U LCD Drawer Model LDS210D-1P** — $60 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/ctx-rackmount-15-1u-lcd-drawer-model-lds210d-1p
-- **Dell Latitude 5410 i5 10th Gen 512 Gig M.2 Windows 11 Pro** — $210 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-512-gig-m-2-windows-11-pro
 - **Dell PowerEdge R320 Server #12 *No HDD No RAM*** — $35 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-poweredge-r320-server-12-no-hdd-no-ram
-- **Dell Optiplex 7420 All in One (AIO) 23.8" i7 14th Gen Windows 11 Pro *No Touchscreen*** — $450 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-optiplex-7420-all-in-one-aio-23-8-i7-14th-gen-windows-11-pro
-- **Dell OptiPlex 7400 All in One (AIO) 23.8" i7 12th Gen with Windows 11 Pro *Scuffed Screen*** — $400 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-optiplex-7400-all-in-one-aio-with-windows-11-pro
-- **Microsoft Surface Pro 7+ i5 11th Gen 8GB DDR4 256GB M.2 Windows 11** — $225 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/microsoft-surface-pro-7-i5-10th-gen-8gb-256gb-windows-11-copy
 - **Dell Precision 5820 16GB 4 Core Xeon with Windows 11 Pro** — $175 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-precision-5820-32gb-4-core-xeon-with-windows-11-pro
 - **Dell Desktop (MT) i7 10th Gen 16GB RAM with Windows 11 Pro** — $300 — buy now — server_pc — MSU Surplus Store — NEW
@@ -75,42 +27,18 @@
   https://msusurplusstore.com/products/dell-precision-3630-i5-9th-gen-8gb-ram-no-hdd
 - **Dell Precision 3630 i5 8th Gen 8GB RAM *No HDD*** — $80 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-precision-3630-i5-8th-gen-8gb-ram-no-hdd
-- **Dell Latitude 5580 i5 7th 8GB DDR4 RAM Gen Windows 11 Pro** — $85 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-gen-windows-11-pro-2
-- **Dell Latitude 7490 i5 8th Gen 8GB DDR4 Windows 11 Pro** — $125 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-7490-i5-8th-gen-windows-11-pro
-- **Dell Latitude 5490 i7 8th 16GB DDR4 Gen Windows 11 Pro** — $150 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-5490-i7-8th-gen-windows-11-pro
-- **Apple MacBook Pro 2019 15.4" 2.6 GHz i7-9750H 16GB 250GB *Battery Warning*** — $290 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-macbook-pro-2019-15-4-2-6-ghz-i7-9750h-16gb-250gb-battery-warning
 - **Dell PowerEdge R630 Server #13** — $175 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-poweredge-r630-server-13
 - **Dell PowerEdge R630 Server #14** — $175 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-poweredge-r630-server-14
 - **Dell PowerEdge R330 Server #10** — $100 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-poweredge-r330-server-12
-- **Nike Air Zoom Vomero 13 TB Women's Running Shoe Size 7** — $75 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/nike-air-zoom-vomero-13-tb-womens-running-shoe-size-7
-- **Nike Air Zoom Vomero 11 TB Black Running Shoes Men's Size 12.5** — $80 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/nike-air-zoom-vomero-11-tb-black-running-shoes-mens-size-12-5
-- **Nike Green Air Zoom Pegasus 35 TB Running Shoes Women's Size 6** — $40 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/nike-green-air-zoom-pegasus-35-tb-running-shoes-womens-size-6
 - **Silicom PEG6I5-RoHS V:1.2 6 Port Gigabit PCI Express Ethernet Server Adaptor** — $30 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/silicom-peg6i5-rohs-v-1-2-6-port-gigabit-pci-express-ethernet-server-adaptor
-- **Apple MacBook Pro 13.3" 2.4GHz i5 8th Gen 2019 8GB DDR3 256GB SSD *Worn Keys*** — $215 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-4ghz-i5-8th-gen-2019-8gb-ddr3-256gb-ssd-worn-keys
-- **Dell Optiplex 7770 27" All-in-One (AIO) i7 9th Gen with Windows 11 Pro** — $250 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-optiplex-7770-27-all-in-one-aio-i7-9th-gen-with-windows-11-pro
 - **Dell Desktop (MFF) i5 12th Gen 16GB RAM with Windows 11 Pro** — $325 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-mff-i5-12th-gen-16gb-ram-with-windows-11-pro
 - **Dell Desktop i7 10th Gen 16GB RAM with Windows 11 Pro** — $300 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-i7-10th-gen-16gb-ram-with-windows-11-pro
-- **Bunn GPR Dual Coffee Brewer and Server** — $350 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/bunn-gpr-dual-coffee-brewer-and-server
-- **HP ZBook Firefly G8 Intel Core i7 11th Gen Windows 11 Pro** — $350 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/hp-zbook-firefly-g8-intel-core-i7-11th-gen-windows-11-pro
-- **Middle Atlantic 3U Solid Server Rack Shelf** — $15 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/3u-solid-server-rack-shelf
 - **Nvidia GeForce GTS-450 Video Card** — $25 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/nvidia-geforce-gts-450-video-card
 - **Dell PowerEdge R610 Server #25** — $35 — buy now — server_pc — MSU Surplus Store — NEW
@@ -127,24 +55,10 @@
   https://msusurplusstore.com/products/dell-poweredge-r715-server-21
 - **Dell PowerEdge R715 Server #20** — $100 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-poweredge-r715-server-20
-- **Apple MacBook Pro 13.3" 3.1 GHz i7 5th Gen 2015 16GB DDR3 500GB SSD** — $175 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-macbook-pro-13-3-3-1-ghz-i7-5th-gen-2015-16gb-ddr3-500gb-ssd
-- **Apple MacBook Pro 15" 2.5 GHz i7 4th Gen 2015 16GB DDR3 RAM 500GB SSD *Worn Keys*** — $200 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-macbook-pro-15-2-5-ghz-i7-4th-gen-2015-16gb-ddr3-ram-500gb-ssd-worn-keys
-- **Apple MacBook Pro 15.4" 2.3 GHz i7 3rd Gen 2012 8GB DDR3 256G SSD *No OS*** — $80 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-macbook-pro-15-4-2-3-ghz-i7-3rd-gen-2012-8gb-ddr3-256g-ssd-no-os
-- **Dell Latitude E6430 ATG i5 3rd Gen *No HDD Cracked Display*** — $40 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-e6430-atg-i5-3rd-gen-no-hdd-cracked-display
 - **Netgear ProSafe 5 Port Gigabit Switch GS105** — $10 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/netgear-prosafe-5-port-gigabit-switch-gs105
-- **Dell Latitude 7420 i7 11th Gen Windows 11 Pro 256GB M.2 *Soldered RAM*** — $300 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro-soldered-ram-1
 - **Nvidia Quadro P620 2GB GDDR5 PCIe Video Graphics Card** — $20 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/nvidia-quadro-p620-2gb-gddr5-pcie-video-graphics-card
-- **Dell Latitude 7410 i7 10th Gen 256GB SSD Windows 11 Pro 2-in-1** — $250 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-windows-11-pro-2-in-1
-- **Raxxess 19" Inch Server Security Cover *New*** — $10 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/raxxess-19-inch-server-security-cover-new
 - **PNY GeForce GT 710 2GB GDDR3 Graphics Card** — $18 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/pny-geforce-gt-710-2gb-gddr3-graphics-card
 - **NVIDIA Quadro K620 2GB DDR3 Video Graphics Card** — $10 — buy now — server_pc — MSU Surplus Store — NEW
@@ -159,101 +73,61 @@
   https://msusurplusstore.com/products/amd-radeon-7470-graphics-card-c264
 - **AMD Radeon 8570 2GB Graphics Card C552** — $8 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/amd-radeon-8570-2gb-graphics-card-c552
-- **Apple MacBook Pro 15" 2.6GHz i7 8th Gen 2018 16GB RAM 500 Gig SSD** — $300 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-macbook-pro-15-2-6ghz-i7-8th-gen-2018-16gb-ram-500-gig-ssd
-- **Apple MacBook Pro 13.3" 2.3GHz i5 8th Gen 2018 8GB RAM 250 Gig SSD** — $200 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-3ghz-i5-8th-gen-2018
-- **Apple MacBook Pro 13" 3.1GHz i5 7th Gen 2017 16GB RAM 500GB SSD** — $235 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-macbook-pro-13-3-1ghz-i5-7th-gen-2017-16gb-ram-500gb-ssd
 - **Dell Desktop i5 10th Gen 16GB RAM with Windows 11 Pro** — $275 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-i5-10th-gen-16gb-ram-with-windows-11-pro
 - **Dell Desktop i7 9th Gen 16GB RAM with Windows 11 Pro** — $275 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-i7-9th-gen-16gb-ram-with-windows-11-pro
-- **Dell J844K 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-h7283-3-5-inch-internal-hard-drive-caddy-copy
-- **Dell U6436 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-j844k-3-5-inch-internal-hard-drive-caddy-copy
-- **Dell YJ266 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-1b31qq00-600-g-3-5-inch-internal-hard-drive-caddy-copy
-- **Dell YJ221 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-yj266-3-5-inch-internal-hard-drive-caddy-copy
-- **Dell H7283 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-yj221-3-5-inch-internal-hard-drive-caddy-copy
 - **Cisco Broadcom 5709 Dual-Port Ethernet Adapter** — $10 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-u6436-3-5-inch-internal-hard-drive-caddy-copy
-- **Dell 0H8V8K 3.5-inch Internal Hard Drive Caddy** — $6 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-0dn8my-3-5-inch-internal-hard-drive-caddy-copy
-- **Dell 1B31QQ00-600-G 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-0h8v8k-3-5-inch-internal-hard-drive-caddy-copy
 - **Dell Desktop i7 10th Gen 16GB RAM with Windows 11 Pro *One Broken RAM Slot*** — $265 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-i7-10th-gen-16gb-ram-with-windows-11-pro-one-broken-ram-slot
-- **Dell 0DN8MY 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/usb-c-to-usb-c-cable-copy
-- **HP ProBook 445 G7 AMD Ryzen Windows 11 Pro** — $150 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/hp-probook-445-g7-amd-ryzen-windows-11-pro
-- **Hard Drive Mounting Bracket Adapter WWGPK** — $5 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-zylux-a525-multimedia-computer-speaker-system-copy
-- **Dell Latitude 5410 i5 10th Gen 512GB SSD Windows 11 Pro *Chipped Paint*** — $215 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro
-- **Dell Optiplex 3280 21.5" All-in-One (AIO) i5 10th Gen with Windows 11 Pro** — $175 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-optiplex-3280-all-in-one-aio-i5-10th-gen-with-windows-11-pro
-- **Dell Optiplex 7760 27" All-in-One (AIO) i7 8th Gen with Windows 11 Pro** — $225 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/dell-optiplex-7760-all-in-one-aio-i7-8th-gen-with-windows-11-pro
-- **Nike Green Sabrina 2 TB Promo Basketball Shoes Men's Size 12.5** — $100 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/nike-green-sabrina-2-tb-promo-basketball-shoes-mens-size-12-5
-- **Nike Green Air Zoom Pegasus 34 TB Running Shoes Women's Size 10** — $75 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/nike-green-air-zoom-pegasus-34-tb-running-shoes-womens-size-10
 - **Dell Desktop i7 8th Gen 16GB RAM with Windows 11 Home** — $200 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-i7-8th-gen-16gb-ram-with-windows-11-home
 - **Nvidia Quadro P400 2GB GDDR5 PCIe Video Graphics Card Low Profile** — $19 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/nvidia-quadro-p400-2gb-gddr5-pcie-video-graphics-card-low-profile
 - **Dell Desktop (MFF) i5 8th Gen 16GB RAM with Windows 11 Pro with Wireless** — $150 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-mff-i5-8th-gen-16gb-ram-with-windows-11-pro-with-wireless-1
-- **PEAVEY IRM 8150 Industrial Rackmount Mixer Amp** — $112 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/peavey-irm-8150-industrial-rackmount-mixer-amp
 - **Sonnet xMac Pro Server PCIe 2.0 Thunderbolt 2 Expansion System** — $188 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/peavey-irm-8150-industrial-rackmount-mixer-amp-copy
-- **Apple MacBook Pro 13" 2.3GHz i5 7th Gen 2017 8GB RAM 256GB SSD** — $210 — buy now — server_pc — MSU Surplus Store — NEW
-  https://msusurplusstore.com/products/apple-macbook-pro-13-3-1-ghz-i5-8gb-256gb-2017
 - **Dell Desktop (MFF) i5 9th Gen 16GB RAM with Windows 11 Pro with Wireless** — $175 — buy now — server_pc — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-desktop-mff-i5-9th-gen-16gb-ram-with-windows-11-pro-with-wireless
-- **$16 Uonlytech Air Compressor Leader Hose 21.61...** — $16 — 1h 52m — tools_equipment — HiBid
+- **$16 Uonlytech Air Compressor Leader Hose 21.61...** — $16 — 1h 49m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330667531/-16-uonlytech-air-compressor-leader-hose-21-61---
-- **Airco Wire Welder** — $26 — 2h 37m — tools_equipment — HiBid
+- **Miller Air Compressor** — $21 — 2h 33m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330201137/miller-air-compressor
+- **Airco Wire Welder** — $26 — 2h 33m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201138/airco-wire-welder
-- **Milwaukee Grinder Works** — $2 — 2h 41m — tools_equipment — HiBid
+- **Milwaukee Grinder Works** — $2 — 2h 37m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201162/milwaukee-grinder-works
-- **2 Milwaukee Drills Works** — $2 — 2h 41m — tools_equipment — HiBid
+- **2 Milwaukee Drills Works** — $2 — 2h 37m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201163/2-milwaukee-drills-works
-- **Garmin Gps & Cannon Power Shot A2200 Camera** — $9 — 2h 49m — electronics — HiBid
+- **Garmin Gps & Cannon Power Shot A2200 Camera** — $9 — 2h 45m — electronics — HiBid
   https://hibid.com/michigan/lot/330201213/garmin-gps-and-cannon-power-shot-a2200-camera
-- **Military Standard Gas Air Compressor** — $31 — 3h 19m — tools_equipment — HiBid
+- **Military Standard Gas Air Compressor** — $31 — 3h 15m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201389/military-standard-gas-air-compressor
-- **Sears 115 Volt Arc Welder & Carbon Torch** — $10 — 3h 20m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330201398/sears-115-volt-arc-welder-and-carbon-torch
-- **Vintage Welder** — $20 — 3h 20m — tools_equipment — HiBid
+- **Vintage Welder** — $20 — 3h 16m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201395/vintage-welder
-- **Large Air Compressor** — $5 — 3h 21m — tools_equipment — HiBid
+- **Large Air Compressor** — $5 — 3h 17m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201403/large-air-compressor
-- **Craftsman Welder** — $22 — 3h 24m — tools_equipment — HiBid
+- **Sears 115 Volt Arc Welder & Carbon Torch** — $10 — 3h 17m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330201398/sears-115-volt-arc-welder-and-carbon-torch
+- **Craftsman Welder** — $22 — 3h 21m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201424/craftsman-welder
-- **Onan Generator** — $15 — 3h 26m — tools_equipment — HiBid
+- **Onan Generator** — $15 — 3h 23m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201433/onan-generator
-- **Homelite Generator** — $7 — 3h 31m — tools_equipment — HiBid
+- **Homelite Generator** — $7 — 3h 27m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201462/homelite-generator
-- **Coleman Powermate 11 Gallon Air Compressor** — $13 — 3h 31m — tools_equipment — HiBid
+- **Coleman Powermate 11 Gallon Air Compressor** — $13 — 3h 28m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329863071/coleman-powermate-11-gallon-air-compressor
-- **Craftsman Snowblower** — $10 — 3h 34m — tools_equipment — HiBid
+- **Craftsman Snowblower** — $10 — 3h 31m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201482/craftsman-snowblower
-- **Craftsman Snowblower** — $0 — 3h 34m — tools_equipment — HiBid
+- **Craftsman Snowblower** — $0 — 3h 31m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330201483/craftsman-snowblower
-- **$80 Atomi Car Power Inverter 2x (AC 110V...** — $80 — 3h 40m — vehicles — HiBid
+- **$80 Atomi Car Power Inverter 2x (AC 110V...** — $80 — 3h 36m — vehicles — HiBid
   https://hibid.com/michigan/lot/330829799/-80-atomi-car-power-inverter-2x--ac-110v---
-- **Craftsman 3600 Watt 7HP Portable Gas Generator** — $20 — 4h 54m — tools_equipment — HiBid
+- **Craftsman 3600 Watt 7HP Portable Gas Generator** — $20 — 4h 51m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329433605/craftsman-3600-watt-7hp-portable-gas-generator
-- **Sylvania 5" Portable Black & White Tv/am/fm Radio** — $0 — 1d 5h 14m — electronics — HiBid
-  https://hibid.com/michigan/lot/330087363/sylvania-5--portable-black-and-white-tv-am-fm-radio
-- **Factory Reset- Apple Ipad Mini 5th Generation** — $15 — 1d 5h 26m — electronics — HiBid
+- **Factory Reset- Apple Ipad Mini 5th Generation** — $15 — 1d 5h 22m — electronics — HiBid
   https://hibid.com/michigan/lot/330087432/factory-reset--apple-ipad-mini-5th-generation
 - **iPad 6th Gen 32 GB w/ Cellular - 1** — $5 — 1 day 23 hours — electronics — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4121999
@@ -261,143 +135,139 @@
   https://www.publicsurplus.com/sms/auction/view?auc=4122068
 - **iPad 6th Gen 32 GB w/ Cellular - 3** — $10 — 2 days 0 hours — electronics — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4122216
-- **Assorted Vintage Hand Tool Collection** — $0 — 2d 3h 58m — tools_equipment — HiBid
+- **Assorted Vintage Hand Tool Collection** — $0 — 2d 3h 55m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330899938/assorted-vintage-hand-tool-collection
-- **Cub Cadet Lawn & Garden Tractor (2)** — $4 — 2d 4h 2m — tools_equipment — HiBid
+- **Cub Cadet Lawn & Garden Tractor (2)** — $4 — 2d 3h 59m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329715620/cub-cadet-lawn-and-garden-tractor--2-
-- **Ford N Series Tractor Non Running** — $360 — 2d 4h 39m — tools_equipment — HiBid
+- **Ford N Series Tractor Non Running** — $360 — 2d 4h 35m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270013/ford-n-series-tractor-non-running
-- **Oxyacetylene Torch Welder** — $105 — 2d 4h 40m — tools_equipment — HiBid
+- **Ingersoll-Rand Professional 60gal. Air Compressor** — $220 — 2d 4h 36m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/328270017/ingersoll-rand-professional-60gal--air-compressor
+- **Oxyacetylene Torch Welder** — $105 — 2d 4h 37m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270025/oxyacetylene-torch-welder
-- **Stud Welder Kit** — $40 — 2d 4h 41m — tools_equipment — HiBid
+- **Stud Welder Kit** — $40 — 2d 4h 38m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270028/stud-welder-kit
-- **Century 100 Gasless Wire Feed Welder** — $6 — 2d 4h 45m — tools_equipment — HiBid
+- **Century 100 Gasless Wire Feed Welder** — $6 — 2d 4h 42m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270054/century-100-gasless-wire-feed-welder
-- **Shop Force 2.5HP 8gal. Twin Tank Air Compressor** — $16 — 2d 4h 48m — tools_equipment — HiBid
+- **Shop Force 2.5HP 8gal. Twin Tank Air Compressor** — $16 — 2d 4h 45m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270069/shop-force-2-5hp-8gal--twin-tank-air-compressor
-- **Dewalt Orbital Sander, Ryobi Clutch Driver & More** — $1 — 2d 4h 50m — tools_equipment — HiBid
+- **Dewalt Orbital Sander, Ryobi Clutch Driver & More** — $1 — 2d 4h 47m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270084/dewalt-orbital-sander--ryobi-clutch-driver-and-more
-- **Milwaukee Sawzall & Skil Jigsaw** — $6 — 2d 4h 52m — tools_equipment — HiBid
+- **Milwaukee Sawzall & Skil Jigsaw** — $6 — 2d 4h 49m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270092/milwaukee-sawzall-and-skil-jigsaw
-- **Van Heusen Women's Stretch Pants Size 8** — $0 — 2d 4h 54m — vehicles — HiBid
+- **Van Heusen Women's Stretch Pants Size 8** — $0 — 2d 4h 50m — vehicles — HiBid
   https://hibid.com/michigan/lot/330900103/van-heusen-womens-stretch-pants-size-8
-- **10HP Coleman Powermate Generator** — $6 — 2d 4h 55m — tools_equipment — HiBid
+- **10HP Coleman Powermate Generator** — $6 — 2d 4h 52m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270103/10hp-coleman-powermate-generator
-- **HP 1740 17-Inch LCD Monitor** — $0 — 2d 4h 56m — electronics — HiBid
+- **HP 1740 17-Inch LCD Monitor** — $0 — 2d 4h 53m — electronics — HiBid
   https://hibid.com/michigan/lot/330900113/hp-1740-17-inch-lcd-monitor
-- **Passche Airbrush Co. Compressor** — $3 — 2d 5h — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/328270134/passche-airbrush-co--compressor
-- **Passche d500 Diaphragm Air Compressor** — $1 — 2d 5h — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/328270135/passche-d500-diaphragm-air-compressor
-- **Yellow & Orange Air Compressor Hoses** — $1 — 2d 5h 3m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/328270151/yellow-and-orange-air-compressor-hoses
-- **Air Compressor Hoses** — $2 — 2d 5h 4m — tools_equipment — HiBid
+- **Air Compressor Hoses** — $2 — 2d 5h — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270153/air-compressor-hoses
-- **LG Flatron L1942T 19 in Monitor** — $0 — 2d 5h 23m — electronics — HiBid
+- **LG Flatron L1942T 19 in Monitor** — $0 — 2d 5h 20m — electronics — HiBid
   https://hibid.com/michigan/lot/330900193/lg-flatron-l1942t-19-in-monitor
-- **Dell 1707FP LCD Monitor 17 in** — $0 — 2d 5h 25m — electronics — HiBid
-  https://hibid.com/michigan/lot/330900200/dell-1707fp-lcd-monitor-17-in
-- **Dell 17-inch LCD computer monitor** — $0 — 2d 5h 26m — electronics — HiBid
+- **Dell 17-inch LCD computer monitor** — $0 — 2d 5h 22m — electronics — HiBid
   https://hibid.com/michigan/lot/330900201/dell-17-inch-lcd-computer-monitor
-- **F12) LAWN MOWER TIRE** — $0 — 2d 5h 47m — tools_equipment — HiBid
+- **Dell 1707FP LCD Monitor 17 in** — $0 — 2d 5h 22m — electronics — HiBid
+  https://hibid.com/michigan/lot/330900200/dell-1707fp-lcd-monitor-17-in
+- **F12) LAWN MOWER TIRE** — $0 — 2d 5h 44m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330721224/f12--lawn-mower-tire
-- **D1) TWO GOOD YEAR TRAILER TIRES,** — $1 — 2d 6h 5m — vehicles — HiBid
+- **D1) TWO GOOD YEAR TRAILER TIRES,** — $1 — 2d 6h 2m — vehicles — HiBid
   https://hibid.com/michigan/lot/331079366/d1--two-good-year-trailer-tires-
-- **Philips television, small energy star remote with** — $3 — 2d 7h 16m — electronics — HiBid
-  https://hibid.com/michigan/lot/330722471/philips-television--small-energy-star-remote-with
-- **Of) Hot Wheels/2003 car show customs Limited** — $1 — 2d 7h 42m — vehicles — HiBid
+- **Of) Hot Wheels/2003 car show customs Limited** — $1 — 2d 7h 38m — vehicles — HiBid
   https://hibid.com/michigan/lot/330722929/of--hot-wheels-2003-car-show-customs-limited
-- **ELECTRIC TORO SNOW SHOVEL/SNOWBLOWER EXCELLENT** — $15 — 2d 7h 51m — tools_equipment — HiBid
+- **ELECTRIC TORO SNOW SHOVEL/SNOWBLOWER EXCELLENT** — $15 — 2d 7h 47m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330723018/electric-toro-snow-shovel-snowblower-excellent
-- **F14) 1 PRECISION RACING PC 97 MICROSOFT AND FISHER** — $0 — 2d 7h 58m — electronics — HiBid — NEW
+- **F14) 1 PRECISION RACING PC 97 MICROSOFT AND FISHER** — $0 — 2d 7h 55m — electronics — HiBid — NEW
   https://hibid.com/michigan/lot/330723288/f14--1-precision-racing-pc-97-microsoft-and-fisher
 - **iPad 6th Gen 32 GB w/ Cellular - 4** — $6 — 2 days 23 hours — electronics — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4123094
 - **iPad 6th Gen 32 GB w/ Cellular - 5** — $6 — 2 days 23 hours — electronics — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4123097
-- **Enclosed Trailer** — $1,500 — 3d 2h 37m — vehicles — HiBid
+- **Enclosed Trailer** — $1,500 — 3d 2h 34m — vehicles — HiBid
   https://hibid.com/michigan/lot/330035959/enclosed-trailer
-- **Utility Trailer** — $160 — 3d 2h 37m — vehicles — HiBid
+- **Utility Trailer** — $160 — 3d 2h 34m — vehicles — HiBid
   https://hibid.com/michigan/lot/330035961/utility-trailer
-- **Samsung 55 Inch 4K UHD Smart LED TV UN55JS7000F** — $7 — 3d 2h 42m — electronics — HiBid
-  https://hibid.com/michigan/lot/330036005/samsung-55-inch-4k-uhd-smart-led-tv-un55js7000f
 - **LCD Laptop Screen New** — ? — closes/opens 11/18/2026 — electronics — HiBid
   https://hibid.com/michigan/lot/331108327/lcd-laptop-screen-new
-- **Dell Monitor, Logitech Speakers** — $0 — 3d 3h 39m — electronics — HiBid
+- **Dell Monitor, Logitech Speakers** — $0 — 3d 3h 36m — electronics — HiBid
   https://hibid.com/michigan/lot/330036455/dell-monitor--logitech-speakers
-- **Samsung TV, Sony VCR Player** — $0 — 3d 3h 39m — electronics — HiBid
+- **Samsung TV, Sony VCR Player** — $0 — 3d 3h 36m — electronics — HiBid
   https://hibid.com/michigan/lot/330036457/samsung-tv--sony-vcr-player
-- **Coleman Powermate Vantage 3500 Generator with** — $3 — 3d 4h 33m — tools_equipment — HiBid
+- **Coleman Powermate Vantage 3500 Generator with** — $3 — 3d 4h 30m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330036809/coleman-powermate-vantage-3500-generator-with
-- **Heavy Duty Trailer Dolly 600LB Tongue Weight** — $7 — 3d 4h 35m — vehicles — HiBid
-  https://hibid.com/michigan/lot/330036818/heavy-duty-trailer-dolly-600lb-tongue-weight
-- **Craftsman 1900 PSI 1.2 GPM Electric Pressure** — $2 — 3d 4h 35m — tools_equipment — HiBid
+- **Craftsman 1900 PSI 1.2 GPM Electric Pressure** — $2 — 3d 4h 31m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330036816/craftsman-1900-psi-1-2-gpm-electric-pressure
-- **Yanmar Tractor Filters (2)** — $0 — 3d 4h 38m — tools_equipment — HiBid
+- **Heavy Duty Trailer Dolly 600LB Tongue Weight** — $7 — 3d 4h 32m — vehicles — HiBid
+  https://hibid.com/michigan/lot/330036818/heavy-duty-trailer-dolly-600lb-tongue-weight
+- **Yanmar Tractor Filters (2)** — $0 — 3d 4h 34m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330036835/yanmar-tractor-filters--2-
-- **Snap On 1/2 & 9/16 Swivel Head Socket Wrench** — $2 — 3d 4h 40m — tools_equipment — HiBid
+- **Snap On 1/2 & 9/16 Swivel Head Socket Wrench** — $2 — 3d 4h 36m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328285391/snap-on-1-2-and-9-16-swivel-head-socket-wrench
-- **UltraGear 27" Gaming Monitor** — $10 — 3d 4h 41m — electronics — HiBid
+- **Tivax Digital TV Converter, Digitalstream Digital** — $0 — 3d 4h 37m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799170/tivax-digital-tv-converter--digitalstream-digital
+- **UltraGear 27" Gaming Monitor** — $10 — 3d 4h 38m — electronics — HiBid
   https://hibid.com/michigan/lot/330799176/ultragear-27--gaming-monitor
-- **Vizio 32" TV w/ Remote** — $0 — 3d 4h 41m — electronics — HiBid
+- **Vizio 32" TV w/ Remote** — $0 — 3d 4h 38m — electronics — HiBid
   https://hibid.com/michigan/lot/330799177/vizio-32--tv-w--remote
-- **Primitive Tools- Vaughan Pick, Planer, Log Grabber** — $0 — 3d 4h 57m — tools_equipment — HiBid
+- **RCA 37" Flatscreen TV** — $5 — 3d 4h 50m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799263/rca-37--flatscreen-tv
+- **Primitive Tools- Vaughan Pick, Planer, Log Grabber** — $0 — 3d 4h 53m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330862527/primitive-tools--vaughan-pick--planer--log-grabber
-- **DeWalt Quik Drive Screw Gun** — $0 — 3d 4h 57m — tools_equipment — HiBid
+- **DeWalt Quik Drive Screw Gun** — $0 — 3d 4h 54m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799284/dewalt-quik-drive-screw-gun
-- **Antique Jack & Two Bottle Jacks** — $1 — 3d 4h 59m — tools_equipment — HiBid
+- **Antique Jack & Two Bottle Jacks** — $1 — 3d 4h 56m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328285470/antique-jack-and-two-bottle-jacks
-- **Four Dell Laptops, Tablets & More** — $20 — 3d 5h 1m — electronics — HiBid
+- **Four Dell Laptops, Tablets & More** — $20 — 3d 4h 58m — electronics — HiBid
   https://hibid.com/michigan/lot/328285477/four-dell-laptops--tablets-and-more
-- **Generac 5500XL Generator** — $5 — 3d 5h 2m — tools_equipment — HiBid
+- **Generac 5500XL Generator** — $5 — 3d 4h 59m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799321/generac-5500xl-generator
-- **Pancake Air Compressor w/ Hose and Reel** — $10 — 3d 5h 2m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330799318/pancake-air-compressor-w--hose-and-reel
-- **Doerr Air Compressor** — $5 — 3d 5h 3m — tools_equipment — HiBid
+- **Doerr Air Compressor** — $5 — 3d 4h 59m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799322/doerr-air-compressor
-- **Assorted Electronics- Headphones, USB Connectors,** — $0 — 3d 5h 13m — electronics — HiBid
+- **Assorted Electronics- Headphones, USB Connectors,** — $0 — 3d 5h 9m — electronics — HiBid
   https://hibid.com/michigan/lot/330799424/assorted-electronics--headphones--usb-connectors-
-- **Vintage Buck Saw** — $5 — 3d 5h 21m — tools_equipment — HiBid — NEW
+- **Vintage Buck Saw** — $5 — 3d 5h 17m — tools_equipment — HiBid — NEW
   https://hibid.com/michigan/lot/330799484/vintage-buck-saw
-- **Milwaukee 1/2" Power Drill** — $1 — 3d 5h 33m — tools_equipment — HiBid
+- **Toshiba 37AV502U 37-Inch LCD TV** — $0 — 3d 5h 23m — electronics — HiBid — NEW
+  https://hibid.com/michigan/lot/330900446/toshiba-37av502u-37-inch-lcd-tv
+- **Panasonic 42" Flatscreen TV, Antenna** — $5 — 3d 5h 28m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799574/panasonic-42--flatscreen-tv--antenna
+- **Milwaukee 1/2" Power Drill** — $1 — 3d 5h 30m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328285606/milwaukee-1-2--power-drill
-- **Acer 22" Flatscreen TV** — $0 — 3d 5h 34m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799601/acer-22--flatscreen-tv
-- **Assorted Electronics- DVD Player, Antenna Box,** — $0 — 3d 5h 34m — electronics — HiBid — NEW
+- **Assorted Electronics- DVD Player, Antenna Box,** — $0 — 3d 5h 30m — electronics — HiBid — NEW
   https://hibid.com/michigan/lot/330799610/assorted-electronics--dvd-player--antenna-box-
-- **Sylvania TV/DVD Combo w/ Remote** — $0 — 3d 5h 35m — electronics — HiBid
+- **Acer 22" Flatscreen TV** — $0 — 3d 5h 31m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799601/acer-22--flatscreen-tv
+- **Element 32" Flatscreen TV** — $0 — 3d 5h 31m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799614/element-32--flatscreen-tv
+- **Samsung 32" Flatscreen TV** — $0 — 3d 5h 32m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799618/samsung-32--flatscreen-tv
+- **Sylvania TV/DVD Combo w/ Remote** — $0 — 3d 5h 32m — electronics — HiBid
   https://hibid.com/michigan/lot/330799619/sylvania-tv-dvd-combo-w--remote
-- **Sony 40" Flatscreen TV** — $0 — 3d 5h 35m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799616/sony-40--flatscreen-tv
-- **Polaroid 42" Flatscreen TV** — $0 — 3d 5h 35m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799617/polaroid-42--flatscreen-tv
-- **Vizio 42" Flatscreen TV** — $0 — 3d 5h 36m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799620/vizio-42--flatscreen-tv
-- **Samsung 22" Flatscreen TV** — $0 — 3d 5h 39m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799661/samsung-22--flatscreen-tv
-- **Sceptre 23" Flatscreen TV** — $0 — 3d 5h 39m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799669/sceptre-23--flatscreen-tv
-- **Magnavox 15" Flatscreen TV** — $0 — 3d 5h 39m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799660/magnavox-15--flatscreen-tv
-- **AOC 20" Monitor** — $0 — 3d 5h 40m — electronics — HiBid
+- **AOC 20" Monitor** — $0 — 3d 5h 36m — electronics — HiBid
   https://hibid.com/michigan/lot/330799673/aoc-20--monitor
-- **Dell 22" Monitor** — $0 — 3d 5h 40m — electronics — HiBid
+- **Dell 22" Monitor** — $0 — 3d 5h 36m — electronics — HiBid
   https://hibid.com/michigan/lot/330799671/dell-22--monitor
-- **Ex-Cell Pressure Washer** — $5 — 3d 5h 43m — tools_equipment — HiBid
+- **Samsung 22" Flatscreen TV** — $0 — 3d 5h 36m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799661/samsung-22--flatscreen-tv
+- **Sceptre 23" Flatscreen TV** — $0 — 3d 5h 36m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799669/sceptre-23--flatscreen-tv
+- **Magnavox 15" Flatscreen TV** — $0 — 3d 5h 36m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799660/magnavox-15--flatscreen-tv
+- **Ex-Cell Pressure Washer** — $5 — 3d 5h 39m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799700/ex-cell-pressure-washer
-- **Poulan Pro Snow Blower** — $8 — 3d 5h 43m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330799701/poulan-pro-snow-blower
-- **Craftsman Snow Blower** — $8 — 3d 5h 43m — tools_equipment — HiBid
+- **Craftsman Snow Blower** — $8 — 3d 5h 39m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799699/craftsman-snow-blower
-- **Subaru Pressure Washer** — $5 — 3d 5h 44m — tools_equipment — HiBid
+- **Subaru Pressure Washer** — $5 — 3d 5h 40m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799708/subaru-pressure-washer
-- **Ariens Snow Blower** — $0 — 3d 5h 44m — tools_equipment — HiBid
+- **Poulan Pro Snow Blower** — $8 — 3d 5h 40m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330799701/poulan-pro-snow-blower
+- **Ariens Snow Blower** — $0 — 3d 5h 40m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799709/ariens-snow-blower
-- **ETQ Generator** — $0 — 3d 5h 46m — tools_equipment — HiBid
+- **ETQ Generator** — $0 — 3d 5h 43m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799723/etq-generator
-- **Thunderbolt Arc Welder** — $7 — 3d 5h 50m — tools_equipment — HiBid
+- **Thunderbolt Arc Welder** — $7 — 3d 5h 46m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799745/thunderbolt-arc-welder
-- **295 AMP Welder** — $5 — 3d 5h 50m — tools_equipment — HiBid
+- **295 AMP Welder** — $5 — 3d 5h 46m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799744/295-amp-welder
 - **Angle drill** — $50 — 3 days 23 hours — tools_equipment — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125080
@@ -415,6 +285,8 @@
   https://hibid.com/michigan/lot/329438185/buddy-l-orange-pressed-steel-pickup
 - **Van Dell Gold-Filled Amber Neclace & Earrings** — $5 — n/a — vehicles — HiBid
   https://hibid.com/michigan/lot/330453835/van-dell-gold-filled-amber-neclace-and-earrings
+- **Dell Precision 5560 i7 11th Gen Nvidia T1200 Laptop GPU Windows 11 Pro** — $425 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-precision-5560-i7-11th-gen-nvidia-t1200-laptop-gpu-windows-11-pro
 - **Dell Precision 5560 i7 11th Gen Windows 11 Pro** — $350 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-precision-5560-i7-11th-gen-windows-11-pro
 - **Dell Precision 7550 i7 10th Gen Windows 11 Pro** — $300 — buy now — electronics — MSU Surplus Store — NEW
@@ -425,6 +297,8 @@
   https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-windows-11-pro-no-battery
 - **Dell Latitude 7430 i7 12th Gen Windows 11 Pro *Soldered RAM*** — $350 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-7430-i7-12th-gen-windows-11-pro-soldered-ram
+- **Dell Latitude 7490 i5 8th Gen 16GB DDR4 Windows 11 Pro** — $150 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-7490-i5-8th-gen-windows-11-pro-2
 - **Dell Latitude 7400 i7 8th Gen Windows 11 Pro *Some Screen Spots*** — $125 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-some-screen-spots
 - **Dell Latitude 5520 i5 10th Gen Windows 11 Pro** — $225 — buy now — electronics — MSU Surplus Store — NEW
@@ -453,20 +327,38 @@
   https://msusurplusstore.com/products/juniper-networks-ex2300-48p-ethernet-switch-poe-with-mounting-brackets
 - **Juniper Networks EX3400-48T Ethernet Switch 1** — $110 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/juniper-networks-ex3400-48t-ethernet-switch
+- **Microsoft Surface Pro 6 256GB i5-8350U Windows 11 Pro *White Spot on Screen*** — $200 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/microsoft-surface-pro-6-256gb-i5-8350u-windows-11-pro-white-spot-on-screen
+- **Apple iMac 27" 3.2Ghz i5 6th Gen 2013 16GB DDR3 250GB SSD *No OS*** — $75 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-imac-27-3-2ghz-i5-6th-gen-2013-16gb-ddr3-250gb-ssd-no-os
 - **Dell Latitude 5490 i5 8th Gen Windows 11 Pro *No Battery*** — $100 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5490-i5-8th-gen-windows-11-pro-no-battery
+- **Dell Latitude 5580 i5 7th 16GB DDR4 RAM Gen Windows 11 Pro *Worn Keys*** — $75 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-16gb-ddr4-ram-gen-windows-11-pro-worn-keys
 - **Dell Latitude 5590 i7 8th Windows 11 Pro** — $175 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5590-i7-8th-windows-11-pro
+- **Dell Latitude 7480 i7 7th Gen Windows 11 Pro *No HDD*** — $50 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-7480-i7-7th-gen-windows-11-pro-missing-keys
+- **Dell Optiplex 7460 All in One (AIO) i7 8th Gen with Windows 11 Pro** — $150 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-optiplex-7460-all-in-one-aio-i7-8th-gen-with-windows-11-pro-copy
 - **Epson PowerLite Pro G6050W 3LCD Digital Projector (3000-3500 Hours)** — $90 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/epson-powerlite-pro-g6050w-3lcd-digital-projector-3000-3500-hours
 - **Wacam DTH-2200 LCD Tablet** — $500 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/kawai-klcs-music-lab-system-copy
+- **Dell Latitude 5590 i5 8th Gen 16GB DDR4 Windows 11 Pro** — $150 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-windows-11-pro
 - **Newline Interactive 70" TruTouch X7 v2 Unified Collaboration System *Top Camera Broken*** — $130 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/newline-interactive-70-trutouch-x7-v2-unified-collaboration-system-top-camera-broken-1
 - **Newline Interactive 70" TruTouch X7 v2 Unified Collaboration System *Scratched Screen/Top Camera Broken*** — $115 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/newline-interactive-70-trutouch-x7-v2-unified-collaboration-system-scratched-screen-top-camera-broken-1
 - **Juniper QFX5100-48S Ethernet Switch #5** — $200 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/juniper-qfx5100-48s-ethernet-switch-5
+- **Dell Latitude 7290 i5 8th Gen 16GB DDR4 Windows Pro** — $150 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-7290-i5-8th-gen-16gb-ddr4-windows-pro
+- **Apple iMac 27" 3.6Ghz i9 9th Gen 2019 32GB DDR4 1TB SSD HDD *Cracked Screeen*** — $400 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-imac-27-3-6ghz-i9-9th-gen-2019-32gb-ddr4-1tb-ssd-hdd-cracked-screeen
+- **Apple iMac 27" 3.3Ghz i5 6th Gen 2015 8GB DDR3 2TB Fusion *No OS*** — $90 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-imac-27-3-3ghz-i5-6th-gen-2015-8gb-ddr3-2tb-fusion
 - **2007 - Ford Econoline Van - 1183** — $450 — buy now — vehicles — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/2007-ford-econoline-van-1183
 - **Juniper QFX5100-24Q AFI Ethernet Switch #4** — $140 — buy now — electronics — MSU Surplus Store — NEW
@@ -493,10 +385,14 @@
   https://msusurplusstore.com/products/dell-latitude-7370-m5-6y54-windows-10-pro
 - **Dell Latitude 5290 2-in-1 i5 8th Windows 11 Pro *Camera Broken*** — $150 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5290-2-in-1-i5-8th-windows-11-pro-camera-out-of-focus
+- **Dell Latitude 7490 i5 8th Gen 16GB DDR4 Windows 11 Pro *No Battery*** — $100 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-7490-i5-8th-gen-16gb-ddr4-windows-11-pro-no-battery
 - **Dell Latitude 5401 i5 9th Gen Windows 11 Pro** — $175 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5401-i5-9th-gen-windows-11-pro
 - **D-Link DGS-2208 8-Port 10/100/1000 Desktop Switch *New*** — $25 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/speaker-podium-copy
+- **Microsoft Surface Laptop Go 12.4" Intel i5 4GB *No OS/HDD Issues*** — $45 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/microsoft-surface-laptop-go-12-4-intel-i5-4gb-no-os-hdd-issues
 - **Dell Latitude 7410 i7 10th Gen Touchscreen Windows 11 Pro** — $275 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-touchscreen-windows-11-pro
 - **Insignia NS-24D510NA15 24" LED Full HD TV** — $50 — buy now — electronics — MSU Surplus Store — NEW
@@ -525,6 +421,8 @@
   https://msusurplusstore.com/products/stryker-command-2-sag-saw
 - **HP LaserJet P4015N Laser Printer *Faded Prints*** — $20 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/hp-laserjet-p4015n-laser-printer-faded-prints
+- **Dell Latitude 5590 i5 8th Gen 8GB DDR4 Windows 11 Pro** — $125 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-gen-8gb-ddr4-windows-11-pro-copy
 - **Acer AL1917W LCD Monitor** — $10 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-19-lcd-monitor-copy-4
 - **Microsoft Surface Pro 7 i5 10th Gen 8GB 256GB Matte Black - Frayed Cover** — $220 — buy now — electronics — MSU Surplus Store — NEW
@@ -535,6 +433,8 @@
   https://msusurplusstore.com/products/microsoft-surface-pro-6-i5-8gb-256gb-windows-11
 - **Microsoft Surface Pro 7 i5 8GB 128GB Windows 11 *Screen Hotspots*** — $150 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/microsoft-surface-pro-7-i5-8gb-128gb-windows-11-screen-hotspots
+- **Dell Latitude 5580 i5 7th 16GB DDR4 RAM Gen Windows 11 Pro** — $100 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-16gb-ddr4-ram-gen-windows-11-pro-copy
 - **Dell 24" Widescreen Monitor with DisplayPort** — $50 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-24-widescreen-monitor-with-displayport
 - **Apple iPad 4th Gen 16GB 9.7" WIFI Only A1458** — $35 — buy now — electronics — MSU Surplus Store — NEW
@@ -557,6 +457,8 @@
   https://msusurplusstore.com/products/sony-dvp-fx950-9-inch-portable-dvd-player-untested-copy
 - **Dell USB-C Docking Station K20A001 w/ AC Adapter** — $50 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-usb-c-docking-station-k20a001-w-ac-adapter-copy
+- **Dell Latitude 5410 i5 10th Gen 512 Gig M.2 Windows 11 Pro** — $210 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-512-gig-m-2-windows-11-pro
 - **Dell Latitude 5590 i5 8th Windows 11 Pro *Battery Health Warning*** — $125 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-windows-11-pro-battery-health-warning
 - **Apple Cinema Display 24" Monitor A1267** — $100 — buy now — electronics — MSU Surplus Store — NEW
@@ -573,6 +475,8 @@
   https://msusurplusstore.com/products/viewsonic-pro8300-1080p-projector
 - **Juniper QFX5100-24Q Ethernet Switch #2** — $140 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/juniper-qfx5100-24q-ethernet-switch-copy
+- **Dell Optiplex 7420 All in One (AIO) 23.8" i7 14th Gen Windows 11 Pro *No Touchscreen*** — $450 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-optiplex-7420-all-in-one-aio-23-8-i7-14th-gen-windows-11-pro
 - **Juniper QFX5100-24Q Ethernet Switch #3** — $140 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/juniper-qfx5100-24q-ethernet-switch-3
 - **Juniper QFX5100-48S Ethernet Switch #1** — $180 — buy now — electronics — MSU Surplus Store — NEW
@@ -581,6 +485,8 @@
   https://msusurplusstore.com/products/juniper-qfx5100-48s-ethernet-switch-2
 - **Dell A225 USB Computer Speakers** — $8 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-a225-usb-computer-speakers-1
+- **Dell OptiPlex 7400 All in One (AIO) 23.8" i7 12th Gen with Windows 11 Pro *Scuffed Screen*** — $400 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-optiplex-7400-all-in-one-aio-with-windows-11-pro
 - **Goodyear 2 In X 50 FT Rubber Lined Mill Discharge Hose** — $75 — buy now — tools_equipment — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/goodyear-2-in-x-50-ft-rubber-lined-mill-discharge-hose
 - **Juniper Networks EX2300-48P Ethernet Switch PoE+** — $65 — buy now — electronics — MSU Surplus Store — NEW
@@ -591,6 +497,8 @@
   https://msusurplusstore.com/products/dell-19-lcd-monitor-scratched-on-left-side
 - **Juniper Networks EX3300-24P Ethernet Switch PoE+** — $59 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/juniper-networks-ex3300-24p-ethernet-switch-poe
+- **Microsoft Surface Pro 7+ i5 11th Gen 8GB DDR4 256GB M.2 Windows 11** — $225 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/microsoft-surface-pro-7-i5-10th-gen-8gb-256gb-windows-11-copy
 - **Juniper QFX5100-24Q Ethernet Switch 1** — $140 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/juniper-qfx5100-24q
 - **Dell Latitude 7400 i7 8th Gen Windows 11 Pro *Broken Frame*** — $125 — buy now — electronics — MSU Surplus Store — NEW
@@ -639,12 +547,18 @@
   https://msusurplusstore.com/products/dell-precision-5760-i5-11th-gen-windows-11-pro
 - **QCG Systems #4E Grinding Mill** — $250 — buy now — tools_equipment — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/qcg-systems-4e-grinding-mill
+- **Dell Latitude 5580 i5 7th 8GB DDR4 RAM Gen Windows 11 Pro** — $85 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-gen-windows-11-pro-2
 - **Marshall V-R44P Rack Mounted Quad Monitor** — $60 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/canon-dm-100-directional-stereo-microphone-copy
 - **Apple MacBook Pro 13.3" 2.4GHz i5 8th Gen 2019 8GB 256GB *Battery Warning*** — $210 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-4ghz-i5-8th-gen-2019-8gb-256gb-battery-warning
+- **Dell Latitude 7490 i5 8th Gen 8GB DDR4 Windows 11 Pro** — $125 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-7490-i5-8th-gen-windows-11-pro
 - **Dell Latitude 5501 i5 9th Gen Windows 11 Pro** — $175 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5501-i5-9th-gen-windows-11-pro
+- **Dell Latitude 5490 i7 8th 16GB DDR4 Gen Windows 11 Pro** — $150 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5490-i7-8th-gen-windows-11-pro
 - **Dell Precision 7540 i7 9th Gen Windows 11 Pro *Battery Warning*** — $235 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-precision-7540-i7-9th-gen-windows-11-pro
 - **Dell Precision 7730 i7 8th Gen Windows 11 Pro** — $200 — buy now — electronics — MSU Surplus Store — NEW
@@ -653,6 +567,8 @@
   https://msusurplusstore.com/products/hp-laserjet-600-laser-printer-m602-copy-1
 - **HP LaserJet Pro MFP M227fdn Multifunction Laser Printer** — $140 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/hp-laserjet-pro-mfp-m227fdn-multifunction-laser-printer
+- **Apple MacBook Pro 2019 15.4" 2.6 GHz i7-9750H 16GB 250GB *Battery Warning*** — $290 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-macbook-pro-2019-15-4-2-6-ghz-i7-9750h-16gb-250gb-battery-warning
 - **Apple MacBook Air 13" 1.6 GHz i5 2019 16GB 500GB *Worn Keys*** — $235 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/apple-macbook-air-13-1-6-ghz-i5-16gb-500gb-2019-worn-keys
 - **Dell 22" Widescreen LCD Monitor *Dimmed Screen*** — $15 — buy now — electronics — MSU Surplus Store — NEW
@@ -723,12 +639,16 @@
   https://msusurplusstore.com/products/apple-white-ipad-mini-2-32gb-7-9-a1489-wifi-only
 - **Dell Latitude 7400 i7 8th Gen Windows 11 Pro *Delamination*** — $125 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-delamination
+- **Apple MacBook Pro 13.3" 2.4GHz i5 8th Gen 2019 8GB DDR3 256GB SSD *Worn Keys*** — $215 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-4ghz-i5-8th-gen-2019-8gb-ddr3-256gb-ssd-worn-keys
 - **Fischer America Vapor-Liquid Equilibrium Apparatus with Vacuum Pump** — $2,000 — buy now — tools_equipment — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/vapor-liquid-equilibrium-apparatus
 - **Dell Latitude 5290 2-in-1 i5 8th Gen Windows 11 Pro *with Fingerprint Sensor*** — $185 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5290-2-in-1-i5-8th-windows-11-pro-with-fingerprint-sensor
 - **AGI HEC-550TW-TF 550 WATT PS2 Computer Power Supply** — $25 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/agi-hec-550tw-tf-550-watt-ps2-computer-power-supply
+- **Dell Optiplex 7770 27" All-in-One (AIO) i7 9th Gen with Windows 11 Pro** — $250 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-optiplex-7770-27-all-in-one-aio-i7-9th-gen-with-windows-11-pro
 - **Sony 32" 720P LCD TV KDL-32NL140** — $60 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/sony-32-720p-lcd-tv-kdl-32nl140
 - **Insignia NS-32D120A13 32" 720p LED TV** — $65 — buy now — electronics — MSU Surplus Store — NEW
@@ -757,6 +677,8 @@
   https://msusurplusstore.com/products/epson-powerlite-pro-g6070w-3lcd-digital-projector-0-500-hours
 - **Dell Latitude 5490 i5 8th Gen Windows 11 Pro *Worn Keys*** — $145 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5490-i5-8th-gen-windows-11-pro-missing-keys
+- **Middle Atlantic 3U Solid Server Rack Shelf** — $15 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/3u-solid-server-rack-shelf
 - **Hewlett Packard Agilent G1512A GC Autosampler Controller** — $150 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/hewlett-packard-agilent-g1512a-gc-autosampler-controller
 - **Hewlett Packard/Agilent G1513A Automatic Liquid Sampler/Injector** — $150 — buy now — electronics — MSU Surplus Store — NEW
@@ -789,6 +711,10 @@
   https://msusurplusstore.com/products/dell-latitude-5290-2-in-1-i5-8th-windows-11-pro
 - **Dynex DX-LCD19 19" 720p HD LCD Television** — $30 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dynex-dx-lcd19-19-720p-hd-lcd-television
+- **Apple MacBook Pro 13.3" 3.1 GHz i7 5th Gen 2015 16GB DDR3 500GB SSD** — $175 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-macbook-pro-13-3-3-1-ghz-i7-5th-gen-2015-16gb-ddr3-500gb-ssd
+- **Apple MacBook Pro 15" 2.5 GHz i7 4th Gen 2015 16GB DDR3 RAM 500GB SSD *Worn Keys*** — $200 — buy now — vehicles — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-macbook-pro-15-2-5-ghz-i7-4th-gen-2015-16gb-ddr3-ram-500gb-ssd-worn-keys
 - **Apple TV Remote A1294** — $10 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/apple-tv-remote-a1294
 - **Carry-On Trailer Hub & Drum Assemblies** — $100 — buy now — vehicles — MSU Surplus Store — NEW
@@ -801,12 +727,16 @@
   https://msusurplusstore.com/products/agilent-33220a-20mhz-and-arbitrary-waveform-generator
 - **Nikon KeyMission 360 Camera** — $200 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/unbranded-subwoofer-copy
+- **Apple MacBook Pro 15.4" 2.3 GHz i7 3rd Gen 2012 8GB DDR3 256G SSD *No OS*** — $80 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-macbook-pro-15-4-2-3-ghz-i7-3rd-gen-2012-8gb-ddr3-256g-ssd-no-os
 - **Lilliput FA1013/S 10.1" Field Monitor** — $100 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/lilliput-fa1013-s-10-1-field-monitor
 - **HP Procurve 2610-24 J9085A 24port Rack Mountable Ethernet Switch** — $20 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/hp-procurve-2610-24-j9085a-24port-rack-mountable-ethernet-switch
 - **HP Procurve 2610-24/12 J9086A 24port Rack Mountable Ethernet Switch** — $20 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/hp-procurve-2610-24-12-j9086a-24port-rack-mountable-ethernet-switch
+- **Dell Latitude E6430 ATG i5 3rd Gen *No HDD Cracked Display*** — $40 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-e6430-atg-i5-3rd-gen-no-hdd-cracked-display
 - **Netgear FS108 Fast Ethernet Switch** — $10 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/netgear-fs108-fast-ethernet-switch
 - **HP Procurve 2510G-24 J9279A 24port Rack Mountable Ethernet Switch** — $20 — buy now — electronics — MSU Surplus Store — NEW
@@ -829,6 +759,8 @@
   https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro-2
 - **Vestil Pall-200 Platform Lift Truck Aluminum** — $450 — buy now — vehicles — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/vestil-pall-200-platform-lift-truck-aluminum
+- **Dell Latitude 7420 i7 11th Gen Windows 11 Pro 256GB M.2 *Soldered RAM*** — $300 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro-soldered-ram-1
 - **Dell Latitude 7400 i5 8th Windows 11 Pro** — $125 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-7400-i5-8th-windows-11-pro
 - **Dell Latitude 7400 i7 8th Gen Windows 11 Pro *Keyboard Paint Peeling*** — $125 — buy now — electronics — MSU Surplus Store — NEW
@@ -863,8 +795,12 @@
   https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-bad-keyboard
 - **Dell Inspiron 5379 i7 8th Gen Windows 11 Home *No Battery*** — $125 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-inspiron-5379-i7-8th-gen-windows-11-home-no-battery
+- **Dell Latitude 7410 i7 10th Gen 256GB SSD Windows 11 Pro 2-in-1** — $250 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-windows-11-pro-2-in-1
 - **Dell Latitude 7400 i7 8th Gen Windows 11 Pro** — $175 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-7400-i7-windows-11-pro-1
+- **Raxxess 19" Inch Server Security Cover *New*** — $10 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/raxxess-19-inch-server-security-cover-new
 - **Vintage Sony Video Camera DXC-2000A** — $150 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/vintage-sony-video-camera-dxc-2000a
 - **StarTech 4 Port VGA Video Audio Switch with RS232 Control** — $20 — buy now — electronics — MSU Surplus Store — NEW
@@ -899,6 +835,12 @@
   https://msusurplusstore.com/products/pfeiffer-mvp-030-3dc-diaphragm-dry-vacuum-pump-untested
 - **Agilent Roche/ACEA xCELLigence RTCA System *Untested*** — $500 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/agilent-roche-acea-xcelligence-rtca-system
+- **Apple MacBook Pro 15" 2.6GHz i7 8th Gen 2018 16GB RAM 500 Gig SSD** — $300 — buy now — vehicles — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-macbook-pro-15-2-6ghz-i7-8th-gen-2018-16gb-ram-500-gig-ssd
+- **Apple MacBook Pro 13.3" 2.3GHz i5 8th Gen 2018 8GB RAM 250 Gig SSD** — $200 — buy now — vehicles — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-3ghz-i5-8th-gen-2018
+- **Apple MacBook Pro 13" 3.1GHz i5 7th Gen 2017 16GB RAM 500GB SSD** — $235 — buy now — vehicles — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-macbook-pro-13-3-1ghz-i5-7th-gen-2017-16gb-ram-500gb-ssd
 - **Apple MacBook Pro 13" 2.5 GHz i7 7th Generation 2017** — $210 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/apple-macbook-pro-2017-13-2-5-ghz-i7-7660u
 - **Apple iPad Pro 1st Gen 64GB 10.5" WiFi Only Gray A1701** — $100 — buy now — electronics — MSU Surplus Store — NEW
@@ -923,20 +865,36 @@
   https://msusurplusstore.com/products/robert-shaw-well-700-887-garden-pump
 - **ViewSonic Projector Remote Control** — $10 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/apple-a2450-keyboard-copy-copy
+- **Dell J844K 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-h7283-3-5-inch-internal-hard-drive-caddy-copy
+- **Dell U6436 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-j844k-3-5-inch-internal-hard-drive-caddy-copy
 - **HP W1907 19" LCD Monitor** — $10 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-19-lcd-monitor-copy
 - **Dell A215 Computer Speakers *No Power Supply*** — $10 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-a215-computer-speakers-copy
+- **Dell YJ266 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-1b31qq00-600-g-3-5-inch-internal-hard-drive-caddy-copy
+- **Dell YJ221 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-yj266-3-5-inch-internal-hard-drive-caddy-copy
+- **Dell H7283 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-yj221-3-5-inch-internal-hard-drive-caddy-copy
 - **Van Eyck to Brueghel Tudor Publishing Co. 1970 HCDJ** — $9 — buy now — vehicles — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/van-eyck-to-brueghel-tudor-publishing-co-1970-hcdj
 - **Dell Sunix PCIe Serial and Parallel Expansion Multi I/O Card** — $10 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-broadcom-netxtreme-5722-single-port-gigabit-ethernet-pci-express-x1-network-interface-card-copy
 - **Collapsible Rubber Camera Lens Hood *Unbranded*** — $20 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/raspberry-pi-3-model-8-powers-on-copy
+- **Dell 0H8V8K 3.5-inch Internal Hard Drive Caddy** — $6 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-0dn8my-3-5-inch-internal-hard-drive-caddy-copy
+- **Dell 1B31QQ00-600-G 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-0h8v8k-3-5-inch-internal-hard-drive-caddy-copy
 - **Dell Latitude 5410 i5 10th Gen Touchscreen Windows 11 Pro** — $190 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-touchscreen-windows-11-pro
 - **Toro Power Shift #1132 Red Snowblower** — $250 — buy now — tools_equipment — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/toro-power-shift-1132-red-snowblower
+- **Dell 0DN8MY 3.5-inch Internal Hard Drive Caddy** — $5 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/usb-c-to-usb-c-cable-copy
 - **ION360 Camera for Samsung Galaxy S8** — $70 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/chemical-engineering-department-the-city-college-of-new-york-3-in-1-multi-charging-cable-copy-1
 - **Dell Latitude 7410 i5 10th Gen Windows 11 Pro *Worn Keys*** — $200 — buy now — electronics — MSU Surplus Store — NEW
@@ -947,6 +905,8 @@
   https://msusurplusstore.com/products/apple-imac-3-0ghz-i5-21-5-inch-retina-4k-2017-cracked-display
 - **Dell Precision 3561 i7 11th Gen Windows 11 Pro *Worn Keys*** — $325 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-precision-3561-i7-11th-gen-windows-11-pro-worn-keys
+- **Dell Latitude 5410 i5 10th Gen 512GB SSD Windows 11 Pro *Chipped Paint*** — $215 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro
 - **AMD FX-8350 Computer Processor *Untested*** — $45 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/galaxy-audio-core-pa5x140-copy
 - **Dell MD8G4 Yellow Toner Cartridge** — $71 — buy now — electronics — MSU Surplus Store — NEW
@@ -983,6 +943,10 @@
   https://msusurplusstore.com/products/dell-latitude-7290-i5-8th-gen-no-hdd-no-battery-copy
 - **Dell Latitude 7430 i7 12th Gen Windows 11 Pro *Missing Keys*** — $340 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-7430-i7-12th-gen-windows-11-pro-missing-keys
+- **Dell Optiplex 3280 21.5" All-in-One (AIO) i5 10th Gen with Windows 11 Pro** — $175 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-optiplex-3280-all-in-one-aio-i5-10th-gen-with-windows-11-pro
+- **Dell Optiplex 7760 27" All-in-One (AIO) i7 8th Gen with Windows 11 Pro** — $225 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-optiplex-7760-all-in-one-aio-i7-8th-gen-with-windows-11-pro
 - **Dell Latitude 5400 i5 8th Gen Windows 11 Pro *Camera Cracked*** — $145 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/dell-latitude-5400-i5-8th-gen-windows-11-pro-camera-does-not-work-copy
 - **Dell Latitude 5400 i5 8th Gen Windows 11 Pro *Camera Does Not Work*** — $145 — buy now — electronics — MSU Surplus Store — NEW
@@ -1131,6 +1095,8 @@
   https://msusurplusstore.com/products/sony-ac-l200c-power-supply
 - **Apple MacBook Pro 13.3" 2.3GHz i5 7th Gen 2017** — $170 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/apple-macbook-pro-13-3-i5-7360u-2-3ghz-16gb-256gb-2017
+- **Apple MacBook Pro 13" 2.3GHz i5 7th Gen 2017 8GB RAM 256GB SSD** — $210 — buy now — vehicles — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-macbook-pro-13-3-1-ghz-i5-8gb-256gb-2017
 - **Casio EX-F1 Camera *Untested*** — $112 — buy now — electronics — MSU Surplus Store — NEW
   https://msusurplusstore.com/products/sony-ecm-z200-electret-condenser-microphone-untested-copy
 - **Panasonic WV-BL200 Security Camera** — $22 — buy now — electronics — MSU Surplus Store — NEW
