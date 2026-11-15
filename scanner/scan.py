@@ -333,6 +333,8 @@ def categorize(title: str) -> str | None:
     if any(re.search(p, t) for p in CONFIG["exclude"]):
         return None
     for cat, pats in CONFIG["categories"].items():
+        if cat == "server_pc" and any(re.search(p, t) for p in CONFIG.get("server_pc_not", [])):
+            continue
         if any(re.search(p, t) for p in pats):
             return cat
     return None
