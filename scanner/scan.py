@@ -336,15 +336,17 @@ def main() -> int:
     live = {it["id"] for it in listings}
     seen = {k: v for k, v in seen.items() if k in live or (NOW.date() - datetime.fromisoformat(v).date()).days < 30}
 
-    shortlist.sort(key=lambda x: (x["hours_left"] is None, x["hours_left"] or 0))
+    shortlist.sort(key=lambda x: (x["category"] != "server_pc", x["hours_left"] is None, x["hours_left"] or 0))
     meta = {"generated_utc": NOW.isoformat(timespec="minutes"), "total_listings": len(listings),
-            "shortlist_count": len(shortlist)}
+            "shortlist_count": len(shortlist),
+            "server_pc_count": sum(1 for x in shortlist if x["category"] == "server_pc")}
     (DATA / "listings.json").write_text(json.dumps({"meta": meta, "items": listings}, indent=1))
     (DATA / "shortlist.json").write_text(json.dumps({"meta": meta, "items": shortlist}, indent=1))
     seen_path.write_text(json.dumps(seen, indent=0, sort_keys=True))
 
     lines = [f"# MI surplus shortlist — {meta['generated_utc']} UTC",
-             f"{len(shortlist)} candidates from {len(listings)} Michigan listings", ""]
+             f"{len(shortlist)} candidates from {len(listings)} Michigan listings "
+             f"({meta['server_pc_count']} server/PC parts, listed first)", ""]
     for it in shortlist:
         price = f"${it['price']:,.0f}" if it["price"] is not None else "?"
         lines.append(f"- **{it['title']}** — {price} — {it['time_left'] or 'n/a'} — "

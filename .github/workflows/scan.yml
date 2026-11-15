@@ -5,6 +5,9 @@ on:
     # 23:47 UTC daily = 7:47 PM ET (EDT) / 6:47 PM ET (EST), before Claude's 8:33 PM ET scoring run
     - cron: "47 23 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scanner/**"]
 
 permissions:
   contents: write

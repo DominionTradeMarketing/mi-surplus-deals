@@ -5,6 +5,15 @@
   "municibid_max_pages": 5,
   "municibid_region_id": "3777819",
   "categories": {
+    "server_pc": [
+      "\\b(servers?|poweredge|proliant|thinksystem|supermicro|xeon|epyc|threadripper|homelab|rack ?mount|server rack|network rack)\\b",
+      "\\b(ssds?|nvme|m\\.2|hard drives?|hdds?|\\d+\\s?tb|wd red|ironwolf|exos|ultrastar|nas|synology|qnap|terramaster|ugreen|drobo)\\b",
+      "\\b(ups|uninterruptible|battery backup|back-?ups|smart-?ups|cyberpower)\\b",
+      "\\b(gpus?|graphics cards?|video cards?|rtx ?\\d{4}|gtx ?\\d{3,4}|radeon|rx ?\\d{4}|quadro|geforce|nvidia)\\b",
+      "\\b(ddr4|ddr5|rdimm|ecc ram|ram kit|\\d+ ?gb ram|ryzen|core i[3579]|i[3579]-\\d{4,5}[a-z]*)\\b",
+      "\\b(optiplex|thinkcentre|elitedesk|prodesk|mini ?pc|nuc|mac mini|mac studio|micro desktop|sff desktop|tiny desktop)\\b",
+      "\\b(network switch|poe switch|gigabit switch|managed switch|\\d+.?port switch|2\\.5 ?g(be)?|10 ?gbe|sfp\\+?|ubiquiti|unifi|meraki|aruba|sonicwall|fortinet|firewall|pfsense|cisco)\\b"
+    ],
     "vehicles": [
       "\\b(19|20)\\d\\d\\b.*\\b(ford|chevy|chevrolet|gmc|dodge|ram|jeep|toyota|honda|nissan|kia|hyundai|subaru|buick|chrysler|isuzu|freightliner|international)\\b",
       "\\b(truck|pickup|van|minivan|suv|sedan|vehicle|car|explorer|impala|tahoe|silverado|f-?150|f-?250|f-?350|e-?350|transit|caravan|crown vic|taurus|malibu|trailer|utv|atv|gator|golf cart|motorcycle|bus)\\b"
@@ -20,7 +29,10 @@
     "\\b(books?|textbooks?|desk|chairs?|table|cabinet|shelving|love ?seat|sofa|couch|bed|mattress|clothing|uniforms?|toys?|lot of paper|scrap metal only)\\b",
     "\\b(parts only|for parts|salvage title|no title|bill of sale only)\\b",
     "\\b(case|cases|bag|backpack|stand|blades?|bits?|hitch|hitches|lights?|decor|wreath|model kit|die ?cast|tonka|nylint|ertl|toy|pedal|lp|vinyl|record|replacement|tempered glass|screen protector|charger|lock|locks|manual|brochure|poster|sign|1:\\d+|figurine|ornament|watercolor|painting|print)\\b",
-    " - lp\\b"
+    " - lp\\b",
+    "\\b1/(12|16|18|24|25|32|43|50|64|87)\\b",
+    "\\b(diecast|die-cast|stein|beer|lamp|blood pressure|floor monitor|planter|baby monitor|nintendo|playstation|xbox|wii)\\b",
+    "\\b(laptop (bag|desk|stand|sleeve)|briefcase|messenger)\\b"
   ],
   "hibid_queries": [
     "pickup truck",
@@ -46,6 +58,23 @@
     "computer",
     "monitor",
     "oscilloscope",
-    "electronics"
+    "electronics",
+    "server",
+    "dell poweredge",
+    "hard drive",
+    "ssd",
+    "nas",
+    "synology",
+    "ups battery backup",
+    "apc",
+    "graphics card",
+    "nvidia",
+    "rtx",
+    "ddr4",
+    "optiplex",
+    "thinkcentre",
+    "mini pc",
+    "network switch",
+    "computer lot"
   ]
 }
