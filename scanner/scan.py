@@ -290,6 +290,43 @@ def scrape_miedema() -> list[dict]:
     return list(items.values())
 
 
+# ---------------------------------------------------------------- MSU Surplus Store (Shopify, East Lansing)
+def scrape_msu_surplus() -> list[dict]:
+    """Fixed-price store ~5 mi from Alex. Shopify exposes every in-stock product as JSON."""
+    base = "https://msusurplusstore.com"
+    out: dict[str, dict] = {}
+    for page in range(1, CONFIG.get("msu_max_pages", 12) + 1):
+        try:
+            r = SESSION.get(f"{base}/products.json?limit=250&page={page}", timeout=30)
+            prods = r.json().get("products", []) if r.status_code == 200 else []
+        except (requests.RequestException, ValueError) as e:
+            log(f"  MSU page {page} error {e!r}")
+            break
+        if not prods:
+            break
+        for p in prods:
+            avail = [v for v in p.get("variants", []) if v.get("available")]
+            if not avail:
+                continue
+            v = min(avail, key=lambda x: float(x.get("price") or 0))
+            was = v.get("compare_at_price")
+            title = p.get("title", "").strip()
+            out[str(p["id"])] = {
+                "source": "MSU Surplus Store",
+                "id": f"msu-{p['id']}",
+                "title": title,
+                "price": float(v.get("price") or 0),
+                "was_price": float(was) if was else None,
+                "time_left": "buy now",
+                "hours_left": None,
+                "location": "East Lansing, MI",
+                "url": f"{base}/products/{p.get('handle', '')}",
+            }
+        log(f"MSU Surplus page {page}: {len(prods)} products")
+        time.sleep(1.5)
+    return list(out.values())
+
+
 # ---------------------------------------------------------------- filtering
 def categorize(title: str) -> str | None:
     t = f" {title.lower()} "
@@ -305,7 +342,7 @@ def main() -> int:
     DATA.mkdir(exist_ok=True)
     listings: list[dict] = []
     for name, fn in (("Public Surplus", scrape_publicsurplus), ("Municibid", scrape_municibid),
-                     ("HiBid", scrape_hibid)):
+                     ("HiBid", scrape_hibid), ("MSU Surplus Store", scrape_msu_surplus)):
         try:
             items = fn()
             log(f"{name}: {len(items)} Michigan listings")
