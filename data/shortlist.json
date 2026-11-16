@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generated_utc": "2026-11-15T20:25+00:00",
-  "total_listings": 3582,
-  "shortlist_count": 554,
+  "generated_utc": "2026-11-16T03:15+00:00",
+  "total_listings": 3558,
+  "shortlist_count": 568,
   "server_pc_count": 45
  },
  "items": [
@@ -17,7 +17,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/assorted-128gb-msata-ssd",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -31,7 +31,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/32gb-ssd-msata-solid-state-drive-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -45,7 +45,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-i5-12th-gen-16gb-ram-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -59,7 +59,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-i7-11th-gen-16gb-ram-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -73,7 +73,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-i5-3rd-gen-16gb-ram-no-hdd-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -87,7 +87,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sony-cfd-444-3-piece-portable-stereo-boombox-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -101,7 +101,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r320-server-12-no-hdd-no-ram",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -115,7 +115,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-5820-32gb-4-core-xeon-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -129,7 +129,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-mt-i7-10th-gen-16gb-ram-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -143,7 +143,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/kingston-32gb-2rx4-pc4-2666v-rb2-12-ddr4-registered-ram",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -157,7 +157,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/16gb-2rx4-pc4-17000-ddr4-2133-ecc-registered-ram",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -171,7 +171,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-3630-i5-9th-gen-8gb-ram-no-hdd",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -185,7 +185,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-3630-i5-8th-gen-8gb-ram-no-hdd",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -199,7 +199,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r630-server-13",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -213,7 +213,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r630-server-14",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -227,7 +227,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r330-server-12",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -241,7 +241,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/silicom-peg6i5-rohs-v-1-2-6-port-gigabit-pci-express-ethernet-server-adaptor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -255,7 +255,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-mff-i5-12th-gen-16gb-ram-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -269,7 +269,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-i7-10th-gen-16gb-ram-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -283,7 +283,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/nvidia-geforce-gts-450-video-card",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -297,7 +297,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r610-server-25",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -311,7 +311,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r510-server-16",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -325,7 +325,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r610-server-26",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -339,7 +339,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r320-server-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -353,7 +353,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r710-server-17",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -367,7 +367,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r715-server-21",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -381,7 +381,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-poweredge-r715-server-20",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -395,7 +395,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/netgear-prosafe-5-port-gigabit-switch-gs105",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -409,7 +409,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/nvidia-quadro-p620-2gb-gddr5-pcie-video-graphics-card",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -423,7 +423,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/pny-geforce-gt-710-2gb-gddr3-graphics-card",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -437,7 +437,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/nvidia-quadro-k620-2gb-ddr3-video-graphics-card",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -451,7 +451,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-mac-pro-model-1186-parts",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -465,7 +465,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/amd-firepro-v3900-2gb-pcie-video-graphics-card-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -479,7 +479,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/amd-radeon-7570-hd-graphics-card-c334",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -493,7 +493,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/amd-radeon-7470-graphics-card-c264",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -507,7 +507,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/amd-radeon-8570-2gb-graphics-card-c552",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -521,7 +521,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-i5-10th-gen-16gb-ram-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -535,7 +535,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-i7-9th-gen-16gb-ram-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -549,7 +549,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-u6436-3-5-inch-internal-hard-drive-caddy-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -563,7 +563,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-i7-10th-gen-16gb-ram-with-windows-11-pro-one-broken-ram-slot",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -577,7 +577,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-i7-8th-gen-16gb-ram-with-windows-11-home",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -591,7 +591,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/nvidia-quadro-p400-2gb-gddr5-pcie-video-graphics-card-low-profile",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -605,7 +605,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-mff-i5-8th-gen-16gb-ram-with-windows-11-pro-with-wireless-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -619,7 +619,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/peavey-irm-8150-industrial-rackmount-mixer-amp-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
   },
   {
@@ -633,260 +633,8 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-desktop-mff-i5-9th-gen-16gb-ram-with-windows-11-pro-with-wireless",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "server_pc"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330667531",
-   "title": "$16 Uonlytech Air Compressor Leader Hose 21.61...",
-   "price": 16.0,
-   "bids": 0,
-   "time_left": "1h 49m",
-   "hours_left": 1.82,
-   "location": "C. Detroit, MI",
-   "url": "https://hibid.com/michigan/lot/330667531/-16-uonlytech-air-compressor-leader-hose-21-61---",
-   "first_seen": "2026-11-12",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201137",
-   "title": "Miller Air Compressor",
-   "price": 21.0,
-   "bids": 17,
-   "time_left": "2h 33m",
-   "hours_left": 2.55,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201137/miller-air-compressor",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201138",
-   "title": "Airco Wire Welder",
-   "price": 25.5,
-   "bids": 30,
-   "time_left": "2h 33m",
-   "hours_left": 2.55,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201138/airco-wire-welder",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201162",
-   "title": "Milwaukee Grinder Works",
-   "price": 2.0,
-   "bids": 1,
-   "time_left": "2h 37m",
-   "hours_left": 2.62,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201162/milwaukee-grinder-works",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201163",
-   "title": "2 Milwaukee Drills Works",
-   "price": 2.0,
-   "bids": 1,
-   "time_left": "2h 37m",
-   "hours_left": 2.62,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201163/2-milwaukee-drills-works",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201213",
-   "title": "Garmin Gps & Cannon Power Shot A2200 Camera",
-   "price": 9.0,
-   "bids": 5,
-   "time_left": "2h 45m",
-   "hours_left": 2.75,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201213/garmin-gps-and-cannon-power-shot-a2200-camera",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "electronics"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201389",
-   "title": "Military Standard Gas Air Compressor",
-   "price": 31.0,
-   "bids": 6,
-   "time_left": "3h 15m",
-   "hours_left": 3.25,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201389/military-standard-gas-air-compressor",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201395",
-   "title": "Vintage Welder",
-   "price": 20.5,
-   "bids": 15,
-   "time_left": "3h 16m",
-   "hours_left": 3.27,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201395/vintage-welder",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201403",
-   "title": "Large Air Compressor",
-   "price": 5.0,
-   "bids": 7,
-   "time_left": "3h 17m",
-   "hours_left": 3.28,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201403/large-air-compressor",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201398",
-   "title": "Sears 115 Volt Arc Welder & Carbon Torch",
-   "price": 10.5,
-   "bids": 11,
-   "time_left": "3h 17m",
-   "hours_left": 3.28,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201398/sears-115-volt-arc-welder-and-carbon-torch",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201424",
-   "title": "Craftsman Welder",
-   "price": 22.0,
-   "bids": 14,
-   "time_left": "3h 21m",
-   "hours_left": 3.35,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201424/craftsman-welder",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201433",
-   "title": "Onan Generator",
-   "price": 15.0,
-   "bids": 17,
-   "time_left": "3h 23m",
-   "hours_left": 3.38,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201433/onan-generator",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201462",
-   "title": "Homelite Generator",
-   "price": 7.0,
-   "bids": 9,
-   "time_left": "3h 27m",
-   "hours_left": 3.45,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201462/homelite-generator",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-329863071",
-   "title": "Coleman Powermate 11 Gallon Air Compressor",
-   "price": 13.0,
-   "bids": 7,
-   "time_left": "3h 28m",
-   "hours_left": 3.47,
-   "location": "Ottawa Lake, MI",
-   "url": "https://hibid.com/michigan/lot/329863071/coleman-powermate-11-gallon-air-compressor",
-   "first_seen": "2026-11-07",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201482",
-   "title": "Craftsman Snowblower",
-   "price": 10.5,
-   "bids": 8,
-   "time_left": "3h 31m",
-   "hours_left": 3.52,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201482/craftsman-snowblower",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330201483",
-   "title": "Craftsman Snowblower",
-   "price": 0.0,
-   "bids": 0,
-   "time_left": "3h 31m",
-   "hours_left": 3.52,
-   "location": "Jackson, MI",
-   "url": "https://hibid.com/michigan/lot/330201483/craftsman-snowblower",
-   "first_seen": "2026-11-08",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330829799",
-   "title": "$80 Atomi Car Power Inverter 2x (AC 110V...",
-   "price": 80.0,
-   "bids": 5,
-   "time_left": "3h 36m",
-   "hours_left": 3.6,
-   "location": "C. Detroit, MI",
-   "url": "https://hibid.com/michigan/lot/330829799/-80-atomi-car-power-inverter-2x--ac-110v---",
-   "first_seen": "2026-11-12",
-   "new_this_run": false,
-   "category": "vehicles"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-329433605",
-   "title": "Craftsman 3600 Watt 7HP Portable Gas Generator",
-   "price": 20.0,
-   "bids": 10,
-   "time_left": "4h 51m",
-   "hours_left": 4.85,
-   "location": "Lansing, MI",
-   "url": "https://hibid.com/michigan/lot/329433605/craftsman-3600-watt-7hp-portable-gas-generator",
-   "first_seen": "2026-11-04",
-   "new_this_run": false,
-   "category": "tools_equipment"
   },
   {
    "source": "HiBid",
@@ -894,8 +642,8 @@
    "title": "Factory Reset- Apple Ipad Mini 5th Generation",
    "price": 15.0,
    "bids": 5,
-   "time_left": "1d 5h 22m",
-   "hours_left": 29.37,
+   "time_left": "22h 33m",
+   "hours_left": 22.55,
    "location": "Madison Heights, MI",
    "url": "https://hibid.com/michigan/lot/330087432/factory-reset--apple-ipad-mini-5th-generation",
    "first_seen": "2026-11-10",
@@ -907,8 +655,8 @@
    "id": "ps-4121999",
    "title": "iPad 6th Gen 32 GB w/ Cellular - 1",
    "price": 5.0,
-   "time_left": "1 day 23 hours",
-   "hours_left": 47.0,
+   "time_left": "1 day 16 hours",
+   "hours_left": 40.0,
    "location": "MI",
    "url": "https://www.publicsurplus.com/sms/auction/view?auc=4121999",
    "first_seen": "2026-11-04",
@@ -920,8 +668,8 @@
    "id": "ps-4122068",
    "title": "iPad 6th Gen 32 GB w/ Cellular - 2",
    "price": 6.5,
-   "time_left": "2 days 0 hours",
-   "hours_left": 48.0,
+   "time_left": "1 day 17 hours",
+   "hours_left": 41.0,
    "location": "MI",
    "url": "https://www.publicsurplus.com/sms/auction/view?auc=4122068",
    "first_seen": "2026-11-04",
@@ -933,8 +681,8 @@
    "id": "ps-4122216",
    "title": "iPad 6th Gen 32 GB w/ Cellular - 3",
    "price": 10.0,
-   "time_left": "2 days 0 hours",
-   "hours_left": 48.0,
+   "time_left": "1 day 17 hours",
+   "hours_left": 41.0,
    "location": "MI",
    "url": "https://www.publicsurplus.com/sms/auction/view?auc=4122216",
    "first_seen": "2026-11-04",
@@ -947,8 +695,8 @@
    "title": "Assorted Vintage Hand Tool Collection",
    "price": 0.0,
    "bids": 0,
-   "time_left": "2d 3h 55m",
-   "hours_left": 51.92,
+   "time_left": "1d 21h 6m",
+   "hours_left": 45.1,
    "location": "Port Huron, MI",
    "url": "https://hibid.com/michigan/lot/330899938/assorted-vintage-hand-tool-collection",
    "first_seen": "2026-11-14",
@@ -961,8 +709,8 @@
    "title": "Cub Cadet Lawn & Garden Tractor (2)",
    "price": 4.0,
    "bids": 3,
-   "time_left": "2d 3h 59m",
-   "hours_left": 51.98,
+   "time_left": "1d 21h 9m",
+   "hours_left": 45.15,
    "location": "Service Alma, MI",
    "url": "https://hibid.com/michigan/lot/329715620/cub-cadet-lawn-and-garden-tractor--2-",
    "first_seen": "2026-11-05",
@@ -975,8 +723,8 @@
    "title": "Ford N Series Tractor Non Running",
    "price": 360.0,
    "bids": 16,
-   "time_left": "2d 4h 35m",
-   "hours_left": 52.58,
+   "time_left": "1d 21h 46m",
+   "hours_left": 45.77,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270013/ford-n-series-tractor-non-running",
    "first_seen": "2026-10-28",
@@ -989,8 +737,8 @@
    "title": "Ingersoll-Rand Professional 60gal. Air Compressor",
    "price": 220.0,
    "bids": 25,
-   "time_left": "2d 4h 36m",
-   "hours_left": 52.6,
+   "time_left": "1d 21h 46m",
+   "hours_left": 45.77,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270017/ingersoll-rand-professional-60gal--air-compressor",
    "first_seen": "2026-10-28",
@@ -1003,8 +751,8 @@
    "title": "Oxyacetylene Torch Welder",
    "price": 105.0,
    "bids": 16,
-   "time_left": "2d 4h 37m",
-   "hours_left": 52.62,
+   "time_left": "1d 21h 48m",
+   "hours_left": 45.8,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270025/oxyacetylene-torch-welder",
    "first_seen": "2026-10-28",
@@ -1017,8 +765,8 @@
    "title": "Stud Welder Kit",
    "price": 40.0,
    "bids": 6,
-   "time_left": "2d 4h 38m",
-   "hours_left": 52.63,
+   "time_left": "1d 21h 48m",
+   "hours_left": 45.8,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270028/stud-welder-kit",
    "first_seen": "2026-10-28",
@@ -1031,8 +779,8 @@
    "title": "Century 100 Gasless Wire Feed Welder",
    "price": 6.0,
    "bids": 5,
-   "time_left": "2d 4h 42m",
-   "hours_left": 52.7,
+   "time_left": "1d 21h 52m",
+   "hours_left": 45.87,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270054/century-100-gasless-wire-feed-welder",
    "first_seen": "2026-10-28",
@@ -1045,11 +793,25 @@
    "title": "Shop Force 2.5HP 8gal. Twin Tank Air Compressor",
    "price": 16.0,
    "bids": 6,
-   "time_left": "2d 4h 45m",
-   "hours_left": 52.75,
+   "time_left": "1d 21h 56m",
+   "hours_left": 45.93,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270069/shop-force-2-5hp-8gal--twin-tank-air-compressor",
    "first_seen": "2026-10-28",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-328270086",
+   "title": "Milwaukee Angle Grinder, Bosch Corded Drill & More",
+   "price": 11.0,
+   "bids": 4,
+   "time_left": "1d 21h 58m",
+   "hours_left": 45.97,
+   "location": "Auctions Sumner, MI",
+   "url": "https://hibid.com/michigan/lot/328270086/milwaukee-angle-grinder--bosch-corded-drill-and-more",
+   "first_seen": "2026-11-12",
    "new_this_run": false,
    "category": "tools_equipment"
   },
@@ -1059,8 +821,8 @@
    "title": "Dewalt Orbital Sander, Ryobi Clutch Driver & More",
    "price": 1.0,
    "bids": 1,
-   "time_left": "2d 4h 47m",
-   "hours_left": 52.78,
+   "time_left": "1d 21h 58m",
+   "hours_left": 45.97,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270084/dewalt-orbital-sander--ryobi-clutch-driver-and-more",
    "first_seen": "2026-10-28",
@@ -1073,8 +835,8 @@
    "title": "Milwaukee Sawzall & Skil Jigsaw",
    "price": 6.0,
    "bids": 5,
-   "time_left": "2d 4h 49m",
-   "hours_left": 52.82,
+   "time_left": "1d 21h 59m",
+   "hours_left": 45.98,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270092/milwaukee-sawzall-and-skil-jigsaw",
    "first_seen": "2026-10-28",
@@ -1087,8 +849,8 @@
    "title": "Van Heusen Women's Stretch Pants Size 8",
    "price": 0.0,
    "bids": 0,
-   "time_left": "2d 4h 50m",
-   "hours_left": 52.83,
+   "time_left": "1d 22h 1m",
+   "hours_left": 46.02,
    "location": "Port Huron, MI",
    "url": "https://hibid.com/michigan/lot/330900103/van-heusen-womens-stretch-pants-size-8",
    "first_seen": "2026-11-13",
@@ -1101,8 +863,8 @@
    "title": "10HP Coleman Powermate Generator",
    "price": 6.0,
    "bids": 3,
-   "time_left": "2d 4h 52m",
-   "hours_left": 52.87,
+   "time_left": "1d 22h 2m",
+   "hours_left": 46.03,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270103/10hp-coleman-powermate-generator",
    "first_seen": "2026-10-28",
@@ -1115,8 +877,8 @@
    "title": "HP 1740 17-Inch LCD Monitor",
    "price": 0.0,
    "bids": 0,
-   "time_left": "2d 4h 53m",
-   "hours_left": 52.88,
+   "time_left": "1d 22h 4m",
+   "hours_left": 46.07,
    "location": "Port Huron, MI",
    "url": "https://hibid.com/michigan/lot/330900113/hp-1740-17-inch-lcd-monitor",
    "first_seen": "2026-11-13",
@@ -1125,12 +887,54 @@
   },
   {
    "source": "HiBid",
+   "id": "hb-328270134",
+   "title": "Passche Airbrush Co. Compressor",
+   "price": 3.0,
+   "bids": 3,
+   "time_left": "1d 22h 7m",
+   "hours_left": 46.12,
+   "location": "Auctions Sumner, MI",
+   "url": "https://hibid.com/michigan/lot/328270134/passche-airbrush-co--compressor",
+   "first_seen": "2026-10-28",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-328270135",
+   "title": "Passche d500 Diaphragm Air Compressor",
+   "price": 1.0,
+   "bids": 1,
+   "time_left": "1d 22h 8m",
+   "hours_left": 46.13,
+   "location": "Auctions Sumner, MI",
+   "url": "https://hibid.com/michigan/lot/328270135/passche-d500-diaphragm-air-compressor",
+   "first_seen": "2026-10-30",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-328270151",
+   "title": "Yellow & Orange Air Compressor Hoses",
+   "price": 1.0,
+   "bids": 2,
+   "time_left": "1d 22h 10m",
+   "hours_left": 46.17,
+   "location": "Auctions Sumner, MI",
+   "url": "https://hibid.com/michigan/lot/328270151/yellow-and-orange-air-compressor-hoses",
+   "first_seen": "2026-10-28",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
    "id": "hb-328270153",
    "title": "Air Compressor Hoses",
    "price": 2.0,
    "bids": 2,
-   "time_left": "2d 5h",
-   "hours_left": 53.0,
+   "time_left": "1d 22h 11m",
+   "hours_left": 46.18,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328270153/air-compressor-hoses",
    "first_seen": "2026-10-28",
@@ -1143,8 +947,8 @@
    "title": "LG Flatron L1942T 19 in Monitor",
    "price": 0.0,
    "bids": 0,
-   "time_left": "2d 5h 20m",
-   "hours_left": 53.33,
+   "time_left": "1d 22h 30m",
+   "hours_left": 46.5,
    "location": "Port Huron, MI",
    "url": "https://hibid.com/michigan/lot/330900193/lg-flatron-l1942t-19-in-monitor",
    "first_seen": "2026-11-13",
@@ -1157,8 +961,8 @@
    "title": "Dell 17-inch LCD computer monitor",
    "price": 0.0,
    "bids": 0,
-   "time_left": "2d 5h 22m",
-   "hours_left": 53.37,
+   "time_left": "1d 22h 33m",
+   "hours_left": 46.55,
    "location": "Port Huron, MI",
    "url": "https://hibid.com/michigan/lot/330900201/dell-17-inch-lcd-computer-monitor",
    "first_seen": "2026-11-13",
@@ -1171,8 +975,8 @@
    "title": "Dell 1707FP LCD Monitor 17 in",
    "price": 0.0,
    "bids": 0,
-   "time_left": "2d 5h 22m",
-   "hours_left": 53.37,
+   "time_left": "1d 22h 33m",
+   "hours_left": 46.55,
    "location": "Port Huron, MI",
    "url": "https://hibid.com/michigan/lot/330900200/dell-1707fp-lcd-monitor-17-in",
    "first_seen": "2026-11-13",
@@ -1185,8 +989,8 @@
    "title": "F12) LAWN MOWER TIRE",
    "price": 0.0,
    "bids": 0,
-   "time_left": "2d 5h 44m",
-   "hours_left": 53.73,
+   "time_left": "1d 22h 54m",
+   "hours_left": 46.9,
    "location": "Auctions Scottville, MI",
    "url": "https://hibid.com/michigan/lot/330721224/f12--lawn-mower-tire",
    "first_seen": "2026-11-12",
@@ -1199,8 +1003,8 @@
    "title": "D1) TWO GOOD YEAR TRAILER TIRES,",
    "price": 1.0,
    "bids": 1,
-   "time_left": "2d 6h 2m",
-   "hours_left": 54.03,
+   "time_left": "1d 23h 13m",
+   "hours_left": 47.22,
    "location": "Auctions Scottville, MI",
    "url": "https://hibid.com/michigan/lot/331079366/d1--two-good-year-trailer-tires-",
    "first_seen": "2026-11-14",
@@ -1209,12 +1013,26 @@
   },
   {
    "source": "HiBid",
+   "id": "hb-330722470",
+   "title": "14 TV electronics, including five remote",
+   "price": 1.0,
+   "bids": 1,
+   "time_left": "2d 23m",
+   "hours_left": 48.38,
+   "location": "Auctions Scottville, MI",
+   "url": "https://hibid.com/michigan/lot/330722470/14-tv-electronics--including-five-remote",
+   "first_seen": "2026-11-16",
+   "new_this_run": true,
+   "category": "electronics"
+  },
+  {
+   "source": "HiBid",
    "id": "hb-330722929",
    "title": "Of) Hot Wheels/2003 car show customs Limited",
    "price": 1.0,
    "bids": 1,
-   "time_left": "2d 7h 38m",
-   "hours_left": 55.63,
+   "time_left": "2d 50m",
+   "hours_left": 48.83,
    "location": "Auctions Scottville, MI",
    "url": "https://hibid.com/michigan/lot/330722929/of--hot-wheels-2003-car-show-customs-limited",
    "first_seen": "2026-11-12",
@@ -1227,8 +1045,8 @@
    "title": "ELECTRIC TORO SNOW SHOVEL/SNOWBLOWER EXCELLENT",
    "price": 15.37,
    "bids": 10,
-   "time_left": "2d 7h 47m",
-   "hours_left": 55.78,
+   "time_left": "2d 59m",
+   "hours_left": 48.98,
    "location": "Auctions Scottville, MI",
    "url": "https://hibid.com/michigan/lot/330723018/electric-toro-snow-shovel-snowblower-excellent",
    "first_seen": "2026-11-12",
@@ -1241,12 +1059,12 @@
    "title": "F14) 1 PRECISION RACING PC 97 MICROSOFT AND FISHER",
    "price": 0.0,
    "bids": 0,
-   "time_left": "2d 7h 55m",
-   "hours_left": 55.92,
+   "time_left": "2d 1h 6m",
+   "hours_left": 49.1,
    "location": "Auctions Scottville, MI",
    "url": "https://hibid.com/michigan/lot/330723288/f14--1-precision-racing-pc-97-microsoft-and-fisher",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -1254,8 +1072,8 @@
    "id": "ps-4123094",
    "title": "iPad 6th Gen 32 GB w/ Cellular - 4",
    "price": 5.5,
-   "time_left": "2 days 23 hours",
-   "hours_left": 71.0,
+   "time_left": "2 days 16 hours",
+   "hours_left": 64.0,
    "location": "MI",
    "url": "https://www.publicsurplus.com/sms/auction/view?auc=4123094",
    "first_seen": "2026-11-05",
@@ -1267,8 +1085,8 @@
    "id": "ps-4123097",
    "title": "iPad 6th Gen 32 GB w/ Cellular - 5",
    "price": 6.0,
-   "time_left": "2 days 23 hours",
-   "hours_left": 71.0,
+   "time_left": "2 days 16 hours",
+   "hours_left": 64.0,
    "location": "MI",
    "url": "https://www.publicsurplus.com/sms/auction/view?auc=4123097",
    "first_seen": "2026-11-05",
@@ -1281,8 +1099,8 @@
    "title": "Enclosed Trailer",
    "price": 1500.0,
    "bids": 29,
-   "time_left": "3d 2h 34m",
-   "hours_left": 74.57,
+   "time_left": "2d 19h 44m",
+   "hours_left": 67.73,
    "location": "Service Alma, MI",
    "url": "https://hibid.com/michigan/lot/330035959/enclosed-trailer",
    "first_seen": "2026-11-07",
@@ -1293,10 +1111,10 @@
    "source": "HiBid",
    "id": "hb-330035961",
    "title": "Utility Trailer",
-   "price": 160.0,
-   "bids": 13,
-   "time_left": "3d 2h 34m",
-   "hours_left": 74.57,
+   "price": 170.0,
+   "bids": 14,
+   "time_left": "2d 19h 44m",
+   "hours_left": 67.73,
    "location": "Service Alma, MI",
    "url": "https://hibid.com/michigan/lot/330035961/utility-trailer",
    "first_seen": "2026-11-07",
@@ -1310,7 +1128,7 @@
    "price": null,
    "bids": null,
    "time_left": "closes/opens 11/18/2026",
-   "hours_left": 75.6,
+   "hours_left": 68.7,
    "location": "Lansing, MI",
    "url": "https://hibid.com/michigan/lot/331108327/lcd-laptop-screen-new",
    "first_seen": "2026-11-14",
@@ -1323,8 +1141,8 @@
    "title": "Dell Monitor, Logitech Speakers",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 3h 36m",
-   "hours_left": 75.6,
+   "time_left": "2d 20h 46m",
+   "hours_left": 68.77,
    "location": "Service Alma, MI",
    "url": "https://hibid.com/michigan/lot/330036455/dell-monitor--logitech-speakers",
    "first_seen": "2026-11-07",
@@ -1337,8 +1155,8 @@
    "title": "Samsung TV, Sony VCR Player",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 3h 36m",
-   "hours_left": 75.6,
+   "time_left": "2d 20h 47m",
+   "hours_left": 68.78,
    "location": "Service Alma, MI",
    "url": "https://hibid.com/michigan/lot/330036457/samsung-tv--sony-vcr-player",
    "first_seen": "2026-11-11",
@@ -1351,8 +1169,8 @@
    "title": "Coleman Powermate Vantage 3500 Generator with",
    "price": 3.0,
    "bids": 2,
-   "time_left": "3d 4h 30m",
-   "hours_left": 76.5,
+   "time_left": "2d 21h 41m",
+   "hours_left": 69.68,
    "location": "Service Alma, MI",
    "url": "https://hibid.com/michigan/lot/330036809/coleman-powermate-vantage-3500-generator-with",
    "first_seen": "2026-11-07",
@@ -1365,8 +1183,8 @@
    "title": "Craftsman 1900 PSI 1.2 GPM Electric Pressure",
    "price": 2.0,
    "bids": 1,
-   "time_left": "3d 4h 31m",
-   "hours_left": 76.52,
+   "time_left": "2d 21h 42m",
+   "hours_left": 69.7,
    "location": "Service Alma, MI",
    "url": "https://hibid.com/michigan/lot/330036816/craftsman-1900-psi-1-2-gpm-electric-pressure",
    "first_seen": "2026-11-07",
@@ -1377,10 +1195,10 @@
    "source": "HiBid",
    "id": "hb-330036818",
    "title": "Heavy Duty Trailer Dolly 600LB Tongue Weight",
-   "price": 7.0,
-   "bids": 5,
-   "time_left": "3d 4h 32m",
-   "hours_left": 76.53,
+   "price": 26.0,
+   "bids": 9,
+   "time_left": "2d 21h 43m",
+   "hours_left": 69.72,
    "location": "Service Alma, MI",
    "url": "https://hibid.com/michigan/lot/330036818/heavy-duty-trailer-dolly-600lb-tongue-weight",
    "first_seen": "2026-11-07",
@@ -1393,8 +1211,8 @@
    "title": "Yanmar Tractor Filters (2)",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 4h 34m",
-   "hours_left": 76.57,
+   "time_left": "2d 21h 45m",
+   "hours_left": 69.75,
    "location": "Service Alma, MI",
    "url": "https://hibid.com/michigan/lot/330036835/yanmar-tractor-filters--2-",
    "first_seen": "2026-11-07",
@@ -1407,8 +1225,8 @@
    "title": "Snap On 1/2 & 9/16 Swivel Head Socket Wrench",
    "price": 2.0,
    "bids": 2,
-   "time_left": "3d 4h 36m",
-   "hours_left": 76.6,
+   "time_left": "2d 21h 47m",
+   "hours_left": 69.78,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328285391/snap-on-1-2-and-9-16-swivel-head-socket-wrench",
    "first_seen": "2026-10-28",
@@ -1417,26 +1235,12 @@
   },
   {
    "source": "HiBid",
-   "id": "hb-330799170",
-   "title": "Tivax Digital TV Converter, Digitalstream Digital",
-   "price": 0.0,
-   "bids": 0,
-   "time_left": "3d 4h 37m",
-   "hours_left": 76.62,
-   "location": "Service Lapeer, MI",
-   "url": "https://hibid.com/michigan/lot/330799170/tivax-digital-tv-converter--digitalstream-digital",
-   "first_seen": "2026-11-12",
-   "new_this_run": false,
-   "category": "electronics"
-  },
-  {
-   "source": "HiBid",
    "id": "hb-330799176",
    "title": "UltraGear 27\" Gaming Monitor",
    "price": 10.0,
    "bids": 3,
-   "time_left": "3d 4h 38m",
-   "hours_left": 76.63,
+   "time_left": "2d 21h 49m",
+   "hours_left": 69.82,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799176/ultragear-27--gaming-monitor",
    "first_seen": "2026-11-12",
@@ -1449,25 +1253,11 @@
    "title": "Vizio 32\" TV w/ Remote",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 4h 38m",
-   "hours_left": 76.63,
+   "time_left": "2d 21h 49m",
+   "hours_left": 69.82,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799177/vizio-32--tv-w--remote",
    "first_seen": "2026-11-13",
-   "new_this_run": false,
-   "category": "electronics"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330799263",
-   "title": "RCA 37\" Flatscreen TV",
-   "price": 5.0,
-   "bids": 1,
-   "time_left": "3d 4h 50m",
-   "hours_left": 76.83,
-   "location": "Service Lapeer, MI",
-   "url": "https://hibid.com/michigan/lot/330799263/rca-37--flatscreen-tv",
-   "first_seen": "2026-11-12",
    "new_this_run": false,
    "category": "electronics"
   },
@@ -1477,8 +1267,8 @@
    "title": "Primitive Tools- Vaughan Pick, Planer, Log Grabber",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 4h 53m",
-   "hours_left": 76.88,
+   "time_left": "2d 22h 4m",
+   "hours_left": 70.07,
    "location": "Co. Menominee, MI",
    "url": "https://hibid.com/michigan/lot/330862527/primitive-tools--vaughan-pick--planer--log-grabber",
    "first_seen": "2026-11-14",
@@ -1491,8 +1281,8 @@
    "title": "DeWalt Quik Drive Screw Gun",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 4h 54m",
-   "hours_left": 76.9,
+   "time_left": "2d 22h 5m",
+   "hours_left": 70.08,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799284/dewalt-quik-drive-screw-gun",
    "first_seen": "2026-11-12",
@@ -1505,8 +1295,8 @@
    "title": "Antique Jack & Two Bottle Jacks",
    "price": 1.0,
    "bids": 1,
-   "time_left": "3d 4h 56m",
-   "hours_left": 76.93,
+   "time_left": "2d 22h 7m",
+   "hours_left": 70.12,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328285470/antique-jack-and-two-bottle-jacks",
    "first_seen": "2026-10-28",
@@ -1519,8 +1309,8 @@
    "title": "Four Dell Laptops, Tablets & More",
    "price": 20.0,
    "bids": 8,
-   "time_left": "3d 4h 58m",
-   "hours_left": 76.97,
+   "time_left": "2d 22h 8m",
+   "hours_left": 70.13,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328285477/four-dell-laptops--tablets-and-more",
    "first_seen": "2026-10-28",
@@ -1529,12 +1319,26 @@
   },
   {
    "source": "HiBid",
+   "id": "hb-330799318",
+   "title": "Pancake Air Compressor w/ Hose and Reel",
+   "price": 10.0,
+   "bids": 5,
+   "time_left": "2d 22h 9m",
+   "hours_left": 70.15,
+   "location": "Service Lapeer, MI",
+   "url": "https://hibid.com/michigan/lot/330799318/pancake-air-compressor-w--hose-and-reel",
+   "first_seen": "2026-11-12",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
    "id": "hb-330799321",
    "title": "Generac 5500XL Generator",
    "price": 5.0,
    "bids": 1,
-   "time_left": "3d 4h 59m",
-   "hours_left": 76.98,
+   "time_left": "2d 22h 10m",
+   "hours_left": 70.17,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799321/generac-5500xl-generator",
    "first_seen": "2026-11-12",
@@ -1547,8 +1351,8 @@
    "title": "Doerr Air Compressor",
    "price": 5.0,
    "bids": 1,
-   "time_left": "3d 4h 59m",
-   "hours_left": 76.98,
+   "time_left": "2d 22h 10m",
+   "hours_left": 70.17,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799322/doerr-air-compressor",
    "first_seen": "2026-11-12",
@@ -1561,11 +1365,25 @@
    "title": "Assorted Electronics- Headphones, USB Connectors,",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 9m",
-   "hours_left": 77.15,
+   "time_left": "2d 22h 20m",
+   "hours_left": 70.33,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799424/assorted-electronics--headphones--usb-connectors-",
    "first_seen": "2026-11-12",
+   "new_this_run": false,
+   "category": "electronics"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330799432",
+   "title": "Magnavox 40\" Flatscreen TV",
+   "price": 5.0,
+   "bids": 1,
+   "time_left": "2d 22h 21m",
+   "hours_left": 70.35,
+   "location": "Service Lapeer, MI",
+   "url": "https://hibid.com/michigan/lot/330799432/magnavox-40--flatscreen-tv",
+   "first_seen": "2026-11-13",
    "new_this_run": false,
    "category": "electronics"
   },
@@ -1575,41 +1393,13 @@
    "title": "Vintage Buck Saw",
    "price": 5.0,
    "bids": 1,
-   "time_left": "3d 5h 17m",
-   "hours_left": 77.28,
+   "time_left": "2d 22h 28m",
+   "hours_left": 70.47,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799484/vintage-buck-saw",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330900446",
-   "title": "Toshiba 37AV502U 37-Inch LCD TV",
-   "price": 0.0,
-   "bids": 0,
-   "time_left": "3d 5h 23m",
-   "hours_left": 77.38,
-   "location": "Port Huron, MI",
-   "url": "https://hibid.com/michigan/lot/330900446/toshiba-37av502u-37-inch-lcd-tv",
-   "first_seen": "2026-11-15",
-   "new_this_run": true,
-   "category": "electronics"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330799574",
-   "title": "Panasonic 42\" Flatscreen TV, Antenna",
-   "price": 5.0,
-   "bids": 1,
-   "time_left": "3d 5h 28m",
-   "hours_left": 77.47,
-   "location": "Service Lapeer, MI",
-   "url": "https://hibid.com/michigan/lot/330799574/panasonic-42--flatscreen-tv--antenna",
-   "first_seen": "2026-11-12",
    "new_this_run": false,
-   "category": "electronics"
+   "category": "tools_equipment"
   },
   {
    "source": "HiBid",
@@ -1617,8 +1407,8 @@
    "title": "Milwaukee 1/2\" Power Drill",
    "price": 1.0,
    "bids": 1,
-   "time_left": "3d 5h 30m",
-   "hours_left": 77.5,
+   "time_left": "2d 22h 41m",
+   "hours_left": 70.68,
    "location": "Auctions Sumner, MI",
    "url": "https://hibid.com/michigan/lot/328285606/milwaukee-1-2--power-drill",
    "first_seen": "2026-10-28",
@@ -1631,12 +1421,12 @@
    "title": "Assorted Electronics- DVD Player, Antenna Box,",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 30m",
-   "hours_left": 77.5,
+   "time_left": "2d 22h 41m",
+   "hours_left": 70.68,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799610/assorted-electronics--dvd-player--antenna-box-",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -1645,8 +1435,8 @@
    "title": "Acer 22\" Flatscreen TV",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 31m",
-   "hours_left": 77.52,
+   "time_left": "2d 22h 42m",
+   "hours_left": 70.7,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799601/acer-22--flatscreen-tv",
    "first_seen": "2026-11-12",
@@ -1655,29 +1445,29 @@
   },
   {
    "source": "HiBid",
-   "id": "hb-330799614",
-   "title": "Element 32\" Flatscreen TV",
+   "id": "hb-330799612",
+   "title": "Sanyo 32\" Flatscreen TV",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 31m",
-   "hours_left": 77.52,
+   "time_left": "2d 22h 42m",
+   "hours_left": 70.7,
    "location": "Service Lapeer, MI",
-   "url": "https://hibid.com/michigan/lot/330799614/element-32--flatscreen-tv",
+   "url": "https://hibid.com/michigan/lot/330799612/sanyo-32--flatscreen-tv",
    "first_seen": "2026-11-12",
    "new_this_run": false,
    "category": "electronics"
   },
   {
    "source": "HiBid",
-   "id": "hb-330799618",
-   "title": "Samsung 32\" Flatscreen TV",
+   "id": "hb-330799616",
+   "title": "Sony 40\" Flatscreen TV",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 32m",
-   "hours_left": 77.53,
+   "time_left": "2d 22h 42m",
+   "hours_left": 70.7,
    "location": "Service Lapeer, MI",
-   "url": "https://hibid.com/michigan/lot/330799618/samsung-32--flatscreen-tv",
-   "first_seen": "2026-11-12",
+   "url": "https://hibid.com/michigan/lot/330799616/sony-40--flatscreen-tv",
+   "first_seen": "2026-11-13",
    "new_this_run": false,
    "category": "electronics"
   },
@@ -1687,11 +1477,39 @@
    "title": "Sylvania TV/DVD Combo w/ Remote",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 32m",
-   "hours_left": 77.53,
+   "time_left": "2d 22h 43m",
+   "hours_left": 70.72,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799619/sylvania-tv-dvd-combo-w--remote",
    "first_seen": "2026-11-13",
+   "new_this_run": false,
+   "category": "electronics"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330799620",
+   "title": "Vizio 42\" Flatscreen TV",
+   "price": 0.0,
+   "bids": 0,
+   "time_left": "2d 22h 43m",
+   "hours_left": 70.72,
+   "location": "Service Lapeer, MI",
+   "url": "https://hibid.com/michigan/lot/330799620/vizio-42--flatscreen-tv",
+   "first_seen": "2026-11-13",
+   "new_this_run": false,
+   "category": "electronics"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330799660",
+   "title": "Magnavox 15\" Flatscreen TV",
+   "price": 0.0,
+   "bids": 0,
+   "time_left": "2d 22h 46m",
+   "hours_left": 70.77,
+   "location": "Service Lapeer, MI",
+   "url": "https://hibid.com/michigan/lot/330799660/magnavox-15--flatscreen-tv",
+   "first_seen": "2026-11-12",
    "new_this_run": false,
    "category": "electronics"
   },
@@ -1701,8 +1519,8 @@
    "title": "AOC 20\" Monitor",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 36m",
-   "hours_left": 77.6,
+   "time_left": "2d 22h 47m",
+   "hours_left": 70.78,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799673/aoc-20--monitor",
    "first_seen": "2026-11-12",
@@ -1715,8 +1533,8 @@
    "title": "Dell 22\" Monitor",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 36m",
-   "hours_left": 77.6,
+   "time_left": "2d 22h 47m",
+   "hours_left": 70.78,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799671/dell-22--monitor",
    "first_seen": "2026-11-12",
@@ -1729,8 +1547,8 @@
    "title": "Samsung 22\" Flatscreen TV",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 36m",
-   "hours_left": 77.6,
+   "time_left": "2d 22h 47m",
+   "hours_left": 70.78,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799661/samsung-22--flatscreen-tv",
    "first_seen": "2026-11-12",
@@ -1743,24 +1561,10 @@
    "title": "Sceptre 23\" Flatscreen TV",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 36m",
-   "hours_left": 77.6,
+   "time_left": "2d 22h 47m",
+   "hours_left": 70.78,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799669/sceptre-23--flatscreen-tv",
-   "first_seen": "2026-11-12",
-   "new_this_run": false,
-   "category": "electronics"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330799660",
-   "title": "Magnavox 15\" Flatscreen TV",
-   "price": 0.0,
-   "bids": 0,
-   "time_left": "3d 5h 36m",
-   "hours_left": 77.6,
-   "location": "Service Lapeer, MI",
-   "url": "https://hibid.com/michigan/lot/330799660/magnavox-15--flatscreen-tv",
    "first_seen": "2026-11-12",
    "new_this_run": false,
    "category": "electronics"
@@ -1771,8 +1575,8 @@
    "title": "Ex-Cell Pressure Washer",
    "price": 5.0,
    "bids": 1,
-   "time_left": "3d 5h 39m",
-   "hours_left": 77.65,
+   "time_left": "2d 22h 50m",
+   "hours_left": 70.83,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799700/ex-cell-pressure-washer",
    "first_seen": "2026-11-12",
@@ -1783,26 +1587,12 @@
    "source": "HiBid",
    "id": "hb-330799699",
    "title": "Craftsman Snow Blower",
-   "price": 8.0,
-   "bids": 4,
-   "time_left": "3d 5h 39m",
-   "hours_left": 77.65,
+   "price": 26.0,
+   "bids": 9,
+   "time_left": "2d 22h 50m",
+   "hours_left": 70.83,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799699/craftsman-snow-blower",
-   "first_seen": "2026-11-12",
-   "new_this_run": false,
-   "category": "tools_equipment"
-  },
-  {
-   "source": "HiBid",
-   "id": "hb-330799708",
-   "title": "Subaru Pressure Washer",
-   "price": 5.0,
-   "bids": 1,
-   "time_left": "3d 5h 40m",
-   "hours_left": 77.67,
-   "location": "Service Lapeer, MI",
-   "url": "https://hibid.com/michigan/lot/330799708/subaru-pressure-washer",
    "first_seen": "2026-11-12",
    "new_this_run": false,
    "category": "tools_equipment"
@@ -1813,10 +1603,24 @@
    "title": "Poulan Pro Snow Blower",
    "price": 8.0,
    "bids": 4,
-   "time_left": "3d 5h 40m",
-   "hours_left": 77.67,
+   "time_left": "2d 22h 50m",
+   "hours_left": 70.83,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799701/poulan-pro-snow-blower",
+   "first_seen": "2026-11-12",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330799708",
+   "title": "Subaru Pressure Washer",
+   "price": 5.0,
+   "bids": 1,
+   "time_left": "2d 22h 51m",
+   "hours_left": 70.85,
+   "location": "Service Lapeer, MI",
+   "url": "https://hibid.com/michigan/lot/330799708/subaru-pressure-washer",
    "first_seen": "2026-11-12",
    "new_this_run": false,
    "category": "tools_equipment"
@@ -1827,8 +1631,8 @@
    "title": "Ariens Snow Blower",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 40m",
-   "hours_left": 77.67,
+   "time_left": "2d 22h 51m",
+   "hours_left": 70.85,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799709/ariens-snow-blower",
    "first_seen": "2026-11-12",
@@ -1841,8 +1645,8 @@
    "title": "ETQ Generator",
    "price": 0.0,
    "bids": 0,
-   "time_left": "3d 5h 43m",
-   "hours_left": 77.72,
+   "time_left": "2d 22h 54m",
+   "hours_left": 70.9,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799723/etq-generator",
    "first_seen": "2026-11-12",
@@ -1855,8 +1659,8 @@
    "title": "Thunderbolt Arc Welder",
    "price": 7.0,
    "bids": 3,
-   "time_left": "3d 5h 46m",
-   "hours_left": 77.77,
+   "time_left": "2d 22h 57m",
+   "hours_left": 70.95,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799745/thunderbolt-arc-welder",
    "first_seen": "2026-11-12",
@@ -1869,8 +1673,8 @@
    "title": "295 AMP Welder",
    "price": 5.0,
    "bids": 1,
-   "time_left": "3d 5h 46m",
-   "hours_left": 77.77,
+   "time_left": "2d 22h 57m",
+   "hours_left": 70.95,
    "location": "Service Lapeer, MI",
    "url": "https://hibid.com/michigan/lot/330799744/295-amp-welder",
    "first_seen": "2026-11-12",
@@ -1882,8 +1686,8 @@
    "id": "ps-4125080",
    "title": "Angle drill",
    "price": 50.0,
-   "time_left": "3 days 23 hours",
-   "hours_left": 95.0,
+   "time_left": "3 days 16 hours",
+   "hours_left": 88.0,
    "location": "MI",
    "url": "https://www.publicsurplus.com/sms/auction/view?auc=4125080",
    "first_seen": "2026-11-13",
@@ -1895,8 +1699,8 @@
    "id": "ps-4125419",
    "title": "scroll saw",
    "price": 20.0,
-   "time_left": "3 days 23 hours",
-   "hours_left": 95.0,
+   "time_left": "3 days 16 hours",
+   "hours_left": 88.0,
    "location": "MI",
    "url": "https://www.publicsurplus.com/sms/auction/view?auc=4125419",
    "first_seen": "2026-11-13",
@@ -1908,11 +1712,417 @@
    "id": "ps-4125422",
    "title": "scroll saw",
    "price": 20.0,
-   "time_left": "3 days 23 hours",
-   "hours_left": 95.0,
+   "time_left": "3 days 16 hours",
+   "hours_left": 88.0,
    "location": "MI",
    "url": "https://www.publicsurplus.com/sms/auction/view?auc=4125422",
    "first_seen": "2026-11-13",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613252",
+   "title": "Yard Machines 21\" cut push mower with B&S 140cc",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613252/yard-machines-21--cut-push-mower-with-bands-140cc",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613220",
+   "title": "Troybilt 6250 watt generator. Note: pulls free.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613220/troybilt-6250-watt-generator--note--pulls-free-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613164",
+   "title": "Generac A1400 generator. Note: pulls free.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613164/generac-a1400-generator--note--pulls-free-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613093",
+   "title": "Total Zone TZ-2 ozone generator.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613093/total-zone-tz-2-ozone-generator-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613193",
+   "title": "DeWalt DXGNR8000 8000 watt generator. Note: pulls",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613193/dewalt-dxgnr8000-8000-watt-generator--note--pulls",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613156",
+   "title": "Predator 2000 watt inverter generator. Note:",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613156/predator-2000-watt-inverter-generator--note-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613191",
+   "title": "Predator 7250 watt generator. Note: pulls free.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613191/predator-7250-watt-generator--note--pulls-free-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613188",
+   "title": "Fortress 200 PSI 27 gallon air compressor with",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613188/fortress-200-psi-27-gallon-air-compressor-with",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613127",
+   "title": "Ridgid pancake air compressor.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613127/ridgid-pancake-air-compressor-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613233",
+   "title": "Pressure washer with B&S 208cc engine. Note:",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613233/pressure-washer-with-bands-208cc-engine--note-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613260",
+   "title": "Ryobi 2900 PSI pressure washer with 212cc engine.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613260/ryobi-2900-psi-pressure-washer-with-212cc-engine-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613248",
+   "title": "(4) Pressure washer wands.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613248/-4--pressure-washer-wands-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613128",
+   "title": "Stihl 12\" pressure washer water broom.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613128/stihl-12--pressure-washer-water-broom-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613261",
+   "title": "Stihl model RB 400 pressure washer with Kohler",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613261/stihl-model-rb-400-pressure-washer-with-kohler",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-331471940",
+   "title": "ELECTRIC CAR WASHING MACHINE",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Jackson, MI",
+   "url": "https://hibid.com/michigan/lot/331471940/electric-car-washing-machine",
+   "first_seen": "2026-11-16",
+   "new_this_run": true,
+   "category": "vehicles"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-331472275",
+   "title": "MILWAUKEE CHISELS",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Jackson, MI",
+   "url": "https://hibid.com/michigan/lot/331472275/milwaukee-chisels",
+   "first_seen": "2026-11-16",
+   "new_this_run": true,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-331471930",
+   "title": "NEW MILWAUKEE CORDLESS DRILL",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Jackson, MI",
+   "url": "https://hibid.com/michigan/lot/331471930/new-milwaukee-cordless-drill",
+   "first_seen": "2026-11-16",
+   "new_this_run": true,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613141",
+   "title": "Assorted Milwaukee tool only cordless tools,",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613141/assorted-milwaukee-tool-only-cordless-tools-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-331472249",
+   "title": "NEW MILWAUKEE BULL POINT CHISEL",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Jackson, MI",
+   "url": "https://hibid.com/michigan/lot/331472249/new-milwaukee-bull-point-chisel",
+   "first_seen": "2026-11-16",
+   "new_this_run": true,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-331472223",
+   "title": "NEW MILWAUKEE 18'' BULLET POINT CHISEL",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Jackson, MI",
+   "url": "https://hibid.com/michigan/lot/331472223/new-milwaukee-18-bullet-point-chisel",
+   "first_seen": "2026-11-16",
+   "new_this_run": true,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-331472214",
+   "title": "NEW MILWAUKEE 18'' BULLET POINT CHISEL",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Jackson, MI",
+   "url": "https://hibid.com/michigan/lot/331472214/new-milwaukee-18-bullet-point-chisel",
+   "first_seen": "2026-11-16",
+   "new_this_run": true,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-331472245",
+   "title": "NEW MILWAUKEE BULL POINT CHISEL",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Jackson, MI",
+   "url": "https://hibid.com/michigan/lot/331472245/new-milwaukee-bull-point-chisel",
+   "first_seen": "2026-11-16",
+   "new_this_run": true,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-331472220",
+   "title": "NEW MILWAUKEE 18'' BULLET POINT CHISEL",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Jackson, MI",
+   "url": "https://hibid.com/michigan/lot/331472220/new-milwaukee-18-bullet-point-chisel",
+   "first_seen": "2026-11-16",
+   "new_this_run": true,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613116",
+   "title": "Milwaukee and Craftsman 7 1/4\" circular saws.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613116/milwaukee-and-craftsman-7-1-4--circular-saws-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613285",
+   "title": "Group of saw horses includes Channellock, DeWalt,",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613285/group-of-saw-horses-includes-channellock--dewalt-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613222",
+   "title": "DeWalt and Ridgid shop vacs.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613222/dewalt-and-ridgid-shop-vacs-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613142",
+   "title": "Assorted DeWalt chargers and cordless tools.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613142/assorted-dewalt-chargers-and-cordless-tools-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-330613154",
+   "title": "DeWalt 18 volt DW077 rotary laser.",
+   "price": null,
+   "bids": null,
+   "time_left": "closes/opens 11/19/2026",
+   "hours_left": 92.7,
+   "location": "Imlay City, MI",
+   "url": "https://hibid.com/michigan/lot/330613154/dewalt-18-volt-dw077-rotary-laser-",
+   "first_seen": "2026-11-11",
+   "new_this_run": false,
+   "category": "tools_equipment"
+  },
+  {
+   "source": "HiBid",
+   "id": "hb-331296487",
+   "title": "Barbie's Sweet Orchard Farm Tractor",
+   "price": 0.0,
+   "bids": 0,
+   "time_left": "3d 22h 13m",
+   "hours_left": 94.22,
+   "location": "Shelby Township, MI",
+   "url": "https://hibid.com/michigan/lot/331296487/barbies-sweet-orchard-farm-tractor",
+   "first_seen": "2026-11-15",
    "new_this_run": false,
    "category": "tools_equipment"
   },
@@ -1960,20 +2170,6 @@
   },
   {
    "source": "HiBid",
-   "id": "hb-329438185",
-   "title": "Buddy L Orange Pressed Steel Pickup",
-   "price": 50.0,
-   "bids": 10,
-   "time_left": "",
-   "hours_left": null,
-   "location": "MI",
-   "url": "https://hibid.com/michigan/lot/329438185/buddy-l-orange-pressed-steel-pickup",
-   "first_seen": "2026-11-04",
-   "new_this_run": false,
-   "category": "vehicles"
-  },
-  {
-   "source": "HiBid",
    "id": "hb-330453835",
    "title": "Van Dell Gold-Filled Amber Neclace & Earrings",
    "price": 5.0,
@@ -1997,7 +2193,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-5560-i7-11th-gen-nvidia-t1200-laptop-gpu-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2011,7 +2207,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-5560-i7-11th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2025,7 +2221,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-7550-i7-7th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2039,7 +2235,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-3520-i7-11th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2053,7 +2249,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-windows-11-pro-no-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2067,7 +2263,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7430-i7-12th-gen-windows-11-pro-soldered-ram",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2081,7 +2277,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7490-i5-8th-gen-windows-11-pro-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2095,7 +2291,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-some-screen-spots",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2109,7 +2305,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5520-i5-10th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2123,7 +2319,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-e5470-i7-6th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2137,7 +2333,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-e5570-i7-6th-gen-windows-11-pro-damage-to-shell-corner",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2151,7 +2347,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7200-2-in-1-i5-8th-gen-windows-11-pro-fair-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2165,7 +2361,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-networks-ex3400-48t-ethernet-switch-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2179,7 +2375,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/redlake-camera-motion-scope-500-digital-video-camera-monitor-with-accessories",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2193,7 +2389,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/wooden-large-surface-workbench",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2207,7 +2403,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/vintage-iec-international-clinical-centrifuge",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -2221,7 +2417,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-ex4200-24-8poe-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2235,7 +2431,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-ex4200-24t-8poe-ethernet-switch-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2249,7 +2445,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-4-i5-8gb-256gb-windows-11-pro-white-spot-on-screen",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2263,7 +2459,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-networks-ex2300-48p-ethernet-switch-poe-with-mounting-brackets",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2277,7 +2473,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-networks-ex3400-48t-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2291,7 +2487,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-6-256gb-i5-8350u-windows-11-pro-white-spot-on-screen",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2305,7 +2501,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-imac-27-3-2ghz-i5-6th-gen-2013-16gb-ddr3-250gb-ssd-no-os",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2319,7 +2515,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5490-i5-8th-gen-windows-11-pro-no-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2333,7 +2529,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-16gb-ddr4-ram-gen-windows-11-pro-worn-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2347,7 +2543,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5590-i7-8th-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2361,7 +2557,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7480-i7-7th-gen-windows-11-pro-missing-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2375,7 +2571,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-optiplex-7460-all-in-one-aio-i7-8th-gen-with-windows-11-pro-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2389,7 +2585,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/epson-powerlite-pro-g6050w-3lcd-digital-projector-3000-3500-hours",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2403,7 +2599,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/kawai-klcs-music-lab-system-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2417,7 +2613,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2431,7 +2627,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/newline-interactive-70-trutouch-x7-v2-unified-collaboration-system-top-camera-broken-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2445,7 +2641,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/newline-interactive-70-trutouch-x7-v2-unified-collaboration-system-scratched-screen-top-camera-broken-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2459,7 +2655,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-qfx5100-48s-ethernet-switch-5",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2473,7 +2669,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7290-i5-8th-gen-16gb-ddr4-windows-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2487,7 +2683,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-imac-27-3-6ghz-i9-9th-gen-2019-32gb-ddr4-1tb-ssd-hdd-cracked-screeen",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2501,7 +2697,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-imac-27-3-3ghz-i5-6th-gen-2015-8gb-ddr3-2tb-fusion",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2515,7 +2711,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/2007-ford-econoline-van-1183",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -2529,7 +2725,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-qfx5100-24q-ethernet-switch-4",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2543,7 +2739,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5310-i5-10th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2557,7 +2753,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-ex4200-48-8poe-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2571,7 +2767,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/whitmore-tplo-tibial-plateau-leveling-osteotomy-saw",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -2585,7 +2781,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-qfx5100-48s-ethernet-switch-6-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2599,7 +2795,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/electronic-switching-timing-and-pulse-circuits-by-pettit-1959-hcdj",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2613,7 +2809,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-ex3200-24p-ethernet-switch-8poe",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2627,7 +2823,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5285-windows-11-pro-8gb-256gb-2-in-1-laptop",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2641,7 +2837,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-elitebook-1040-g6-i7-8th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2655,7 +2851,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7390-2-in-1-i5-8th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2669,7 +2865,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7370-m5-6y54-windows-10-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2683,7 +2879,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5290-2-in-1-i5-8th-windows-11-pro-camera-out-of-focus",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2697,7 +2893,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7490-i5-8th-gen-16gb-ddr4-windows-11-pro-no-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2711,7 +2907,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5401-i5-9th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2725,7 +2921,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/speaker-podium-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2739,7 +2935,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-laptop-go-12-4-intel-i5-4gb-no-os-hdd-issues",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2753,7 +2949,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-touchscreen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2767,7 +2963,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/insignia-ns-24d510na15-24-led-full-hd-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2781,7 +2977,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7490-i7-8th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2795,7 +2991,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5510-i5-10th-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2809,7 +3005,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5580-i7-7th-gen-windows-11-pro-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2823,7 +3019,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-ex4550-32f-afo-ethernet-switch-no-power-supply-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2837,7 +3033,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-ex4550-32f-afo-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2851,7 +3047,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-ex4550-32f-afo-ethernet-switch-no-power-supply-3",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2865,7 +3061,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-ex4550-32f-afi-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2879,7 +3075,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hall-versipower-plus-strenum-saw-model-5057-051",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -2893,7 +3089,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/stryker-1088-hd-camera-head-with-an-attached-stryker-24mm-coupler",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2907,7 +3103,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-ipad-6th-gen-32gb-9-7-wifi-only-white-rose-gold-a1893",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2921,7 +3117,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/stryker-command-2-sag-saw",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -2935,7 +3131,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-laserjet-p4015n-laser-printer-faded-prints",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2949,7 +3145,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-gen-8gb-ddr4-windows-11-pro-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2963,7 +3159,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-19-lcd-monitor-copy-4",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2977,7 +3173,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-7-i5-10th-gen-8gb-256gb-matte-black-frayed-cover",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -2991,7 +3187,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-24-widescreen-monitor-with-displayport-copy-4",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3005,7 +3201,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-6-i5-8gb-256gb-windows-11",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3019,7 +3215,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-7-i5-8gb-128gb-windows-11-screen-hotspots",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3033,7 +3229,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-16gb-ddr4-ram-gen-windows-11-pro-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3047,7 +3243,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-24-widescreen-monitor-with-displayport",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3061,7 +3257,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-ipad-4th-gen-16gb-9-7-wifi-only-a1458-4",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3075,7 +3271,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-ipad-pro-1st-gen-128gb-9-7-unlocked-black-a1674",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3089,7 +3285,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-silver-ipad-pro-2nd-gen-256gb-12-9-a1671-unlocked",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3103,7 +3299,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-ipad-pro-2nd-gen-256gb-12-9-wifi-only-white-a1670",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3117,7 +3313,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-qfx5100-48s-ethernet-switch-2-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3131,7 +3327,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-mushy-touchpad-fair-battery-health",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3145,7 +3341,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5290-2-in-1-i5-8th-windows-11-pro-no-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3159,7 +3355,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-5540-i7-9th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3173,7 +3369,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sony-dvp-fx950-9-inch-portable-dvd-player-untested-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3187,7 +3383,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-usb-c-docking-station-k20a001-w-ac-adapter-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3201,7 +3397,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-512-gig-m-2-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3215,7 +3411,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5590-i5-8th-windows-11-pro-battery-health-warning",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3229,7 +3425,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-cinema-display-27-led-monitor-a1267",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3243,7 +3439,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-usb-c-docking-station-wd19tb-w-ac-adapter",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3257,7 +3453,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-k20a-wd19-usb-c-docking-station-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3271,7 +3467,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-usb-c-docking-station-wd19s-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3285,7 +3481,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-inspiron-3593-i5-10th-gen-windows-11-home",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3299,7 +3495,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/viewsonic-pro8300-1080p-projector",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3313,7 +3509,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-qfx5100-24q-ethernet-switch-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3327,7 +3523,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-optiplex-7420-all-in-one-aio-23-8-i7-14th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3341,7 +3537,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-qfx5100-24q-ethernet-switch-3",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3355,7 +3551,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-qfx5100-48s-ethernet-switch-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3369,7 +3565,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-qfx5100-48s-ethernet-switch-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3383,7 +3579,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-a225-usb-computer-speakers-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3397,7 +3593,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-optiplex-7400-all-in-one-aio-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3411,7 +3607,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/goodyear-2-in-x-50-ft-rubber-lined-mill-discharge-hose",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -3425,7 +3621,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/jbl-clip-3-blue-portable-bluetooth-speaker-waterproof-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3439,7 +3635,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-networks-ex2300-48p-ethernet-switch-poe-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3453,7 +3649,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-19-lcd-monitor-scratched-on-left-side",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3467,7 +3663,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-networks-ex3300-24p-ethernet-switch-poe",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3481,7 +3677,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-7-i5-10th-gen-8gb-256gb-windows-11-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3495,7 +3691,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/juniper-qfx5100-24q",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3509,7 +3705,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-delamination-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3523,7 +3719,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-5-i7-7600u-256gb-windows-11-pro-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3537,7 +3733,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-iphone-12-black-6-1-256gb-unlocked",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3551,7 +3747,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-23-widescreen-lcd-monitor-with-displayport-copy-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3565,7 +3761,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-19-lcd-monitor-copy-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3579,7 +3775,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/disposable-camera-sealed",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3593,7 +3789,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/logitech-v-u0017-webcam-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3607,7 +3803,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-21-5-widescreen-monitor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3621,7 +3817,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/vintage-nascar-terry-labonte-thermo-serv-matchbox-car-in-mug",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -3635,7 +3831,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-22-widescreen-lcd-monitor-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3649,7 +3845,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-22-widescreen-lcd-monitor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3663,7 +3859,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-cinema-display-24-monitor-a1267-scratch-on-screen",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3677,7 +3873,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-thunderbolt-display-27-monitor-open-box",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3691,7 +3887,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/peopoly-large-resin-3d-printer",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3705,7 +3901,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-color-laserjet-pro-m426fdn-laser-printer",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3719,7 +3915,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-laserjet-4250n-laser-printer",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3733,7 +3929,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-air-13-1-6-ghz-i5-8th-gen-16gb-500gb-2019",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3747,7 +3943,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-15-4-2018-i7-8th-gen-16gb-250gb",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3761,7 +3957,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-pro-km5221w-keyboard-and-mouse",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3775,7 +3971,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/canon-vixia-hf200-high-definition-camcorder-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3789,7 +3985,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-gray-ipad-mini-3-16gb-7-9-a1599-wifi-only",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3803,7 +3999,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-5760-i5-11th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3817,7 +4013,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/qcg-systems-4e-grinding-mill",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -3831,7 +4027,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-gen-windows-11-pro-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3845,7 +4041,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/canon-dm-100-directional-stereo-microphone-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3859,7 +4055,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-4ghz-i5-8th-gen-2019-8gb-256gb-battery-warning",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3873,7 +4069,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7490-i5-8th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3887,7 +4083,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5501-i5-9th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3901,7 +4097,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5490-i7-8th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3915,7 +4111,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-7540-i7-9th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3929,7 +4125,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-7730-i7-8th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3943,7 +4139,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-laserjet-600-laser-printer-m602-copy-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3957,7 +4153,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-laserjet-pro-mfp-m227fdn-multifunction-laser-printer",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3971,7 +4167,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-2019-15-4-2-6-ghz-i7-9750h-16gb-250gb-battery-warning",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3985,7 +4181,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-air-13-1-6-ghz-i5-16gb-500gb-2019-worn-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -3999,7 +4195,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-22-widescreen-lcd-monitor-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4013,7 +4209,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/jungle-jim-jungle-jack-lawn-mower-jack",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -4027,7 +4223,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/15-channel-rt-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4041,7 +4237,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/shimadzu-cbm-20a-prominence-communications-bus-module",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -4055,7 +4251,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dewalt-xrp-18v-cordless-hammerdrill-driver-w-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -4069,7 +4265,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dewalt-18v-cordless-1-2-drill-w-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -4083,7 +4279,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/nikon-yellow-coolpix-aw130-digital-camera-untested",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4097,7 +4293,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/link-electronics-762-xlhd84l-1-rgb-rtr-2-codec-3-monitor-untested-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4111,7 +4307,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dynair-vs-12d-video-monitor-switcher-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4125,7 +4321,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/jcb-owners-parts-nook-forklift-model-926-2-24",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -4139,7 +4335,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/california-air-tools-8010dspc-8010spc-compressor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -4153,7 +4349,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/imc-airhorn-speaker-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4167,7 +4363,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/bell-howell-16mm-filmosound-2585-film-projector-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4181,7 +4377,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/agilent-1260-infinity-hplc-system-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4195,7 +4391,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-laserjet-600-laser-printer-m601-low-maint-kit",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4209,7 +4405,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/agilent-1200-1290-high-performance-autosampler",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4223,7 +4419,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-laserjet-p4015n-laser-printer-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4237,7 +4433,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/agilent-1260-infinity-series-chromatography",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4251,7 +4447,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/carmody-combustible-hazards-trainer-power-supply-model-cht-700c",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4265,7 +4461,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-a215-computer-speakers-no-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4279,7 +4475,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-3551-i7-10th-windows-11-pro-worn-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4293,7 +4489,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7390-2-in-1-i7-8th-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4307,7 +4503,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5400-i7-8th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4321,7 +4517,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-3520-i3-11th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4335,7 +4531,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/epson-powerlite-pro-g6050w-3lcd-digital-projector-4000-4500-hours",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4349,7 +4545,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dionex-p680-binary-gradient-analytical-hplc-pump-parts",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -4363,7 +4559,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/carl-zeiss-stab-arclamp-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4377,7 +4573,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-thunderbolt-display-27-led-monitor-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4391,7 +4587,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/assortment-of-camera-lens",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4405,7 +4601,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro-worn-keys-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4419,7 +4615,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/white-industrial-truck-bumper",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -4433,7 +4629,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-22uh-l3n74a-monitor-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4447,7 +4643,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-white-ipad-mini-2-32gb-7-9-a1489-wifi-only",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4461,7 +4657,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-delamination",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4475,7 +4671,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-4ghz-i5-8th-gen-2019-8gb-ddr3-256gb-ssd-worn-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4489,7 +4685,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/vapor-liquid-equilibrium-apparatus",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -4503,7 +4699,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5290-2-in-1-i5-8th-windows-11-pro-with-fingerprint-sensor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4517,7 +4713,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/agi-hec-550tw-tf-550-watt-ps2-computer-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4531,7 +4727,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-optiplex-7770-27-all-in-one-aio-i7-9th-gen-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4545,7 +4741,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sony-32-720p-lcd-tv-kdl-32nl140",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4559,7 +4755,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/insignia-ns-32d120a13-32-720p-led-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4573,7 +4769,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/vizio-d24f-f1-24-led-full-hd-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4587,7 +4783,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/samsung-un40h5203af-40-full-hd-led-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4601,7 +4797,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5420-i5-11th-gen-windows-11-pro-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4615,7 +4811,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/fluke-1529-chub-e4-standards-thermometer",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4629,7 +4825,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/life-technologies-model-4001p-programmable-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4643,7 +4839,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-85w-magsafe-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4657,7 +4853,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/insignia-ns-32d311na15-32-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4671,7 +4867,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5490-i5-8th-gen-windows-11-pro-bad-ethernet-port-poor-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4685,7 +4881,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-3500-i3-8th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4699,7 +4895,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/epson-powerlite-pro-g6050w-3lcd-digital-projector-501-1000-hours-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4713,7 +4909,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/epson-powerlite-pro-g6070w-3lcd-digital-projector-0-500-hours",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4727,7 +4923,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5490-i5-8th-gen-windows-11-pro-missing-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4741,7 +4937,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/3u-solid-server-rack-shelf",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4755,7 +4951,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hewlett-packard-agilent-g1512a-gc-autosampler-controller",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4769,7 +4965,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hewlett-packard-agilent-g1513a-automatic-liquid-sampler-injector",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4783,7 +4979,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/epson-powerlite-pro-g6450wu-digital-projector",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4797,7 +4993,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-3410-i5-10th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4811,7 +5007,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/2010-ford-ranger-truck-1346",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -4825,7 +5021,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-ipad-6th-gen-32gb-9-7-wifi-only-white-a1893-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4839,7 +5035,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/acer-b246hl-24-widescreen-lcd-monitor-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4853,7 +5049,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-ipad-pro-2nd-gen-256gb-10-5-wifi-only-black-a1701",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4867,7 +5063,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-6-i7-8th-gen-8gb-256gb-windows-11-pro-matte-black",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4881,7 +5077,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/wild-heerbrugg-microscope-camera-attachment-cb-600696",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4895,7 +5091,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/vintage-tiffen-57-camera-adapter-ring",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4909,7 +5105,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-7-i5-10th-gen-windows-11-pro-matte-black-white-spots-on-screen",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4923,7 +5119,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/microsoft-surface-pro-7-i5-10th-gen-8gb-256gb-matte-black",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4937,7 +5133,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/acer-20-v203h-lcd-display-monitor-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4951,7 +5147,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5290-2-in-1-i5-8th-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4965,7 +5161,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dynex-dx-lcd19-19-720p-hd-lcd-television",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4979,7 +5175,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-13-3-3-1-ghz-i7-5th-gen-2015-16gb-ddr3-500gb-ssd",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -4993,7 +5189,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-15-2-5-ghz-i7-4th-gen-2015-16gb-ddr3-ram-500gb-ssd-worn-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -5007,7 +5203,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-tv-remote-a1294",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5021,7 +5217,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/carry-on-trailer-hub-drum-assemblies",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -5035,7 +5231,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-15-4-2-7ghz-i7-3rg-gen-no-os",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5049,7 +5245,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5400-i5-8th-gen-windows-11-pro-screen-hot-spots",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5063,7 +5259,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/agilent-33220a-20mhz-and-arbitrary-waveform-generator",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -5077,7 +5273,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/unbranded-subwoofer-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5091,7 +5287,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-15-4-2-3-ghz-i7-3rd-gen-2012-8gb-ddr3-256g-ssd-no-os",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5105,7 +5301,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/lilliput-fa1013-s-10-1-field-monitor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5119,7 +5315,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-procurve-2610-24-j9085a-24port-rack-mountable-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5133,7 +5329,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-procurve-2610-24-12-j9086a-24port-rack-mountable-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5147,7 +5343,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-e6430-atg-i5-3rd-gen-no-hdd-cracked-display",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5161,7 +5357,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/netgear-fs108-fast-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5175,7 +5371,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-procurve-2510g-24-j9279a-24port-rack-mountable-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5189,7 +5385,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-procurve-2810-48g-j9022a-24port-rack-mountable-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5203,7 +5399,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/ford-f150-tailgate",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -5217,7 +5413,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/h540-usb-computer-headset",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5231,7 +5427,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/wild-heerbrugg-mps51-microscope-camera-shutter",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5245,7 +5441,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/logitech-usb-desktop-microphone",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5259,7 +5455,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/image3d-jellybox-educational-3d-printer",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5273,7 +5469,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/intel-gigabit-desktop-adapter",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5287,7 +5483,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5301,7 +5497,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/vestil-pall-200-platform-lift-truck-aluminum",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -5315,7 +5511,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro-soldered-ram-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5329,7 +5525,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7400-i5-8th-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5343,7 +5539,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-keyboard-paint-peeling",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5357,7 +5553,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-touchscreen-windows-11-pro-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5371,7 +5567,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5430-i5-12th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5385,7 +5581,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-windows-11-pro-no-battery-integrated-ram",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5399,7 +5595,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5400-i5-8th-gen-windows-11-pro-trackpad-display-issues",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5413,7 +5609,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro-integrated-ram",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5427,7 +5623,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro-no-battery-integrated-ram",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5441,7 +5637,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-3ghz-i5-8th-gen-2018-8gb-ram-250-gig-ssd-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5455,7 +5651,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5420-i5-11th-gen-windows-11-pro-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5469,7 +5665,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5483,7 +5679,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro-soldered-ram",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5497,7 +5693,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro-scuffed-paint-mushy-track-pad",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5511,7 +5707,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro-battery-health-warning-usb-port-broken",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5525,7 +5721,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-windows-11-pro-soldered-ram",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5539,7 +5735,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-bad-keyboard",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5553,7 +5749,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-inspiron-5379-i7-8th-gen-windows-11-home-no-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5567,7 +5763,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-windows-11-pro-2-in-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5581,7 +5777,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7400-i7-windows-11-pro-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5595,7 +5791,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/raxxess-19-inch-server-security-cover-new",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5609,7 +5805,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/vintage-sony-video-camera-dxc-2000a",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5623,7 +5819,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/startech-4-port-vga-video-audio-switch-with-rs232-control",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5637,7 +5833,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5520-i5-11th-gen-windows-11-pro-poor-battery-health",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5651,7 +5847,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-3561-i7-11th-windows-11-pro-6",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5665,7 +5861,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-windows-11-pro-faded-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5679,7 +5875,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro-fair-battery-health",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5693,7 +5889,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5400-i5-8th-gen-windows-11-pro-trackpad-issues",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5707,7 +5903,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro-broken-ethernet-port",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5721,7 +5917,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5420-i5-11th-gen-windows-11-pro-broken-camera-ethernet-port",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5735,7 +5931,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/samsung-syncmaster-widescreen-23-5-lcd-monitor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5749,7 +5945,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/acer-19-v193w-lcd-monitor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5763,7 +5959,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/samsung-syncmaster-943n-19-lcd-monitor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5777,7 +5973,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/shure-microflex-mx4118d-c-cardiod-condenser-desktop-microphone",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5791,7 +5987,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/lot-of-4-nancy-pembroke-hardcovers-by-van-epps",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -5805,7 +6001,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5290-i7-8th-gen-windows-11-pro-touchpad-issues",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5819,7 +6015,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/pfeiffer-mvp-030-3dc-diaphragm-dry-vacuum-pump-untested",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -5833,7 +6029,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/agilent-roche-acea-xcelligence-rtca-system",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5847,7 +6043,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-15-2-6ghz-i7-8th-gen-2018-16gb-ram-500-gig-ssd",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -5861,7 +6057,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-3ghz-i5-8th-gen-2018",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -5875,7 +6071,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-13-3-1ghz-i5-7th-gen-2017-16gb-ram-500gb-ssd",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -5889,7 +6085,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-2017-13-2-5-ghz-i7-7660u",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5903,7 +6099,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-ipad-pro-1st-gen-64gb-10-5-wifi-only-gray-a1701",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5917,7 +6113,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/seasonic-focus-gx-750-ssr-750fx-fully-modular-750w-power-supply-unit-untested",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5931,7 +6127,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5500-i5-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5945,7 +6141,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7490-i7-8th-gen-windows-11-pro-battery-health-warning",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5959,7 +6155,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-imac-3-4ghz-i5-27-inch-retina-5k-2017-cracked-display",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5973,7 +6169,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-inspiron-3511-i7-11th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -5987,7 +6183,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-inspiron-3561-i7-11th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6001,7 +6197,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-inspiron-7573-i7-8th-windows-11-pro-battery-warning",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6015,7 +6211,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/grundfos-l86-867-circulator-pump",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -6029,7 +6225,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/robert-shaw-well-700-887-garden-pump",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -6043,7 +6239,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-a2450-keyboard-copy-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6057,7 +6253,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-h7283-3-5-inch-internal-hard-drive-caddy-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6071,7 +6267,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-j844k-3-5-inch-internal-hard-drive-caddy-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6085,7 +6281,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-19-lcd-monitor-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6099,7 +6295,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-a215-computer-speakers-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6113,7 +6309,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-1b31qq00-600-g-3-5-inch-internal-hard-drive-caddy-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6127,7 +6323,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-yj266-3-5-inch-internal-hard-drive-caddy-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6141,7 +6337,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-yj221-3-5-inch-internal-hard-drive-caddy-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6155,7 +6351,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/van-eyck-to-brueghel-tudor-publishing-co-1970-hcdj",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -6169,7 +6365,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-broadcom-netxtreme-5722-single-port-gigabit-ethernet-pci-express-x1-network-interface-card-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6183,7 +6379,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/raspberry-pi-3-model-8-powers-on-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6197,7 +6393,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-0dn8my-3-5-inch-internal-hard-drive-caddy-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6211,7 +6407,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-0h8v8k-3-5-inch-internal-hard-drive-caddy-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6225,7 +6421,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-touchscreen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6239,7 +6435,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/toro-power-shift-1132-red-snowblower",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -6253,7 +6449,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/usb-c-to-usb-c-cable-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6267,7 +6463,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/chemical-engineering-department-the-city-college-of-new-york-3-in-1-multi-charging-cable-copy-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6281,7 +6477,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7410-i5-10th-gen-windows-11-pro-worn-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6295,7 +6491,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/samsung-dtmf-ultrahd-blu-ray-player-remote-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6309,7 +6505,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-imac-3-0ghz-i5-21-5-inch-retina-4k-2017-cracked-display",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6323,7 +6519,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-precision-3561-i7-11th-gen-windows-11-pro-worn-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6337,7 +6533,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6351,7 +6547,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/galaxy-audio-core-pa5x140-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6365,7 +6561,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-md8g4-yellow-toner-cartridge",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6379,7 +6575,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-1m4kp-cyan-toner-cartridge",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6393,7 +6589,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5520-i5-11th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6407,7 +6603,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5410-i5-10th-gen-windows-11-pro-4",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6421,7 +6617,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sunlu-black-3d-printing-filament-spool-new-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6435,7 +6631,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/esun-black-3d-printer-filament-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -6449,7 +6645,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sony-rm-d757-remote-control-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6463,7 +6659,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-65w-20v-3a-usb-c-power-supply-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6477,7 +6673,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-042t1-magenta-high-yield-toner-cartridge",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6491,7 +6687,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-2rf0r-yellow-high-yield-toner-cartridge",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6505,7 +6701,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7290-i7-8th-gen-windows-11-pro-touchpad-issues",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6519,7 +6715,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7290-i7-8th-gen-windows-11-pro-no-battery-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6533,7 +6729,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7290-i7-8th-gen-windows-11-pro-no-battery",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6547,7 +6743,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7290-i7-8th-gen-windows-11-pro-fair-battery-health",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6561,7 +6757,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7290-i7-8th-windows-11-pro-cosmetic-port-damage",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6575,7 +6771,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7290-i5-8th-gen-no-hdd-no-battery-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6589,7 +6785,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7430-i7-12th-gen-windows-11-pro-missing-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6603,7 +6799,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-optiplex-3280-all-in-one-aio-i5-10th-gen-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6617,7 +6813,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-optiplex-7760-all-in-one-aio-i7-8th-gen-with-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6631,7 +6827,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5400-i5-8th-gen-windows-11-pro-camera-does-not-work-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6645,7 +6841,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5400-i5-8th-gen-windows-11-pro-camera-does-not-work",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6659,7 +6855,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/canon-bp-718-battery-pack-new-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6673,7 +6869,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/samson-pm6-lavalier-microphone-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6687,7 +6883,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/intellivision-pga-golf-by-mattel-electronics-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6701,7 +6897,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/imagic-new-atlantis-video-game-cartridge-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6715,7 +6911,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/logitech-brio-500-webcam-no-stand-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6729,7 +6925,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/razer-rz02-025003-goliathus-extended-chroma-gaming-mouse-pad-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6743,7 +6939,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sharp-electronics-pn-uh601-commercial-lcd-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6757,7 +6953,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-laserjet-600-laser-printer-m601-missing-duplex-unit",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6771,7 +6967,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7300-i5-8th-windows-11-pro-fair-battery-health",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6785,7 +6981,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-windows-11-pro-faded-keys-broken-touchscreen",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6799,7 +6995,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro-fair-battery-health",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6813,7 +7009,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/wireless-optical-pocket-pen-mouse-unbranded-new-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6827,7 +7023,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/fujifilm-25-3-1-2-color-floppy-disks-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6841,7 +7037,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7420-i5-11th-gen-windows-11-pro-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6855,7 +7051,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7410-i7-10th-gen-touchscreen-windows-11-pro-faded-keys",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6869,7 +7065,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-7420-i7-11th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6883,7 +7079,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/schneider-9049a52-mounting-bracket-for-pressure-switch-pack-of-3",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6897,7 +7093,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/insignia-ns-pr200-black-premium-audio-pico-projector",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6911,7 +7107,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/viewsonic-pjl802-viewbook-projector",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6925,7 +7121,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/jbl-control-2p-speaker-set",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6939,7 +7135,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sekonic-movie-light-meter-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6953,7 +7149,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/philips-32pfl3505d-f7-32-lcd-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6967,7 +7163,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/samsung-un48ju6400-48-4k-uhd-smart-led-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6981,7 +7177,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/samsung-un43nu6950b-42-5-4k-uhd-smart-led-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -6995,7 +7191,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/westinghouse-dwm32h1y1-32-hd-diagonal-led-hdtv-display-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7009,7 +7205,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/hp-90w-laptop-charger",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7023,7 +7219,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/netgear-prosafe-jgs516-16-port-gigabit-ethernet-switch",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7037,7 +7233,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/aver-cam540-conference-camera-power-supply-included",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7051,7 +7247,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dee-van-45w-dsa-45pdh-switching-adapter-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7065,7 +7261,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/imt-mpeg-4-ultra-miniature-wireless-camera-system",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7079,7 +7275,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-black-ipad-2nd-gen-16gb-9-7-a1416-wifi-only-dented-corner",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7093,7 +7289,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-gray-ipad-4th-gen-16gb-9-7-a1458-wifi-only-cracked-display",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7107,7 +7303,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5400-i5-8th-gen-windows-11-pro-bad-usb-c-port",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7121,7 +7317,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5400-i5-8th-gen-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7135,7 +7331,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-latitude-5290-i7-8th-windows-11-pro",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7149,7 +7345,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-20-lcd-monitor-copy-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7163,7 +7359,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/samsung-syncmaster-2243swx-21-5-widescreen-lcd-computer-display",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7177,7 +7373,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sanyo-plc-xu25-projector-xga-portable-projector",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7191,7 +7387,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/nulaxy-km18-bluetooth-5-4-car-adapter",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -7205,7 +7401,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/panasonic-pt-f300nt-wxga-projector",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7219,7 +7415,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/kodak-gear-tripod-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7233,7 +7429,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-k17a-docking-station-wd15-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7247,7 +7443,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/epson-pro-l1300u-laser-wuxga-3lcd-projector-no-lens-green-tint",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7261,7 +7457,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/logitech-m505-wireless-mouse-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7275,7 +7471,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/netgear-prosafe-jgs524-24-port-gigabit-ethernet-switch-missing-packaging",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7289,7 +7485,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/vaddio-camera-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7303,7 +7499,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/toa-electronics-a-706-9-channel-integrated-amplifier-60w-powers-on-only",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7317,7 +7513,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-19-5v-12-3a-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7331,7 +7527,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-ax210-usb-stereo-speaker-system-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7345,7 +7541,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/van-buren-county-michigan-a-pictorial-history-2003-hcdj",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -7359,7 +7555,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/boston-ba7800-speaker-system-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7373,7 +7569,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/elmo-p30hd-visual-presenter-document-camera-no-power-supply-2",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7387,7 +7583,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-90w-19-5v-4-62a-7-4mm-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7401,7 +7597,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-180w-ha180pm220-19-5v-9-23a-ac-power-adapter",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7415,7 +7611,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-90w-19-5v-4-62a-4-5mm-power-supply-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7429,7 +7625,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/crown-12-sg-sound-grabber-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7443,7 +7639,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-i5-8gb-512gb-2-usbc-13-2019",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7457,7 +7653,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/powerlite-pro-g5200wnl-projector-powers-on-only",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7471,7 +7667,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/dell-19-lcd-monitor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7485,7 +7681,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/aver-cam540-conference-camera-missing-usb-c-cable",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7499,7 +7695,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/shure-555w-microphone-for-parts-only-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "tools_equipment"
   },
   {
@@ -7513,7 +7709,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/the-lady-in-the-car-by-sebastien-japrisot-1967-hcdj",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -7527,7 +7723,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/product-34",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -7541,7 +7737,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/agilent-2100-electrophoresis-bioanalyzer-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7555,7 +7751,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/t-c-electronic-finalizer-express-studio-mastering-processor",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7569,7 +7765,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/comgrow-shiny-silk-3d-printer-pla-filament-blue-green-orange",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7583,7 +7779,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/vintage-rca-egr358sr-crt-tv",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7597,7 +7793,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/startech-com-sv231ddvdua-2-port-dual-dvi-usb-kvm-switch-with-audio-usb-2-0-hub",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7611,7 +7807,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/aver-cam540-conference-camera-no-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7625,7 +7821,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sony-ac-l10b-ac-power-adapter-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7639,7 +7835,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sony-ac-l200c-power-supply",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7653,7 +7849,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-13-3-i5-7360u-2-3ghz-16gb-256gb-2017",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7667,7 +7863,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/apple-macbook-pro-13-3-1-ghz-i5-8gb-256gb-2017",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "vehicles"
   },
   {
@@ -7681,7 +7877,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sony-ecm-z200-electret-condenser-microphone-untested-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7695,7 +7891,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sony-rmt-814-remote-control-for-camcorder-copy-1",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7709,7 +7905,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/sony-rmt-811-remote-control-for-camcorder-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7723,7 +7919,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/cohu-2222-1000-security-camera",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7737,7 +7933,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/gigaware-40-299-2-0-multimedia-computer-speakers-3-5mm",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   },
   {
@@ -7751,7 +7947,7 @@
    "location": "East Lansing, MI",
    "url": "https://msusurplusstore.com/products/altec-lansing-bxr1221-speaker-set-no-subwoofer-copy",
    "first_seen": "2026-11-15",
-   "new_this_run": true,
+   "new_this_run": false,
    "category": "electronics"
   }
  ]
