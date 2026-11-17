@@ -1,6 +1,22 @@
-# MI surplus shortlist — 2026-11-16T03:15+00:00 UTC
-568 candidates from 3558 Michigan listings (45 server/PC parts, listed first)
+# MI surplus shortlist — 2026-11-17T05:15+00:00 UTC
+643 candidates from 3597 Michigan listings (53 server/PC parts, listed first)
 
+- **Nvidia Quadro P2200 5GB GDDR5X PCIe Video Graphics Card** — $75 — buy now — server_pc — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/nvidia-quadro-p2200-5gb-gddr5-pcie-video-graphics-card
+- **HP ProLiant DL380 Server Xeon Gold 6136 Gen 10** — $400 — buy now — server_pc — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/hp-proliant-dl380-server
+- **Dell Precision T7500 16GB Xeon E5520 *No HDD*** — $125 — buy now — server_pc — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-precision-t7500-192gb-xeon-no-hdd-1
+- **Dell Desktop i5 4th Gen 16GB RAM *No HDD*** — $25 — buy now — server_pc — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-desktop-i5-4th-gen-16gb-ram-no-hdd
+- **Dell Desktop (MT) i7 3rd Gen 16GB RAM *No HDD*** — $25 — buy now — server_pc — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-desktop-mt-i7-3rd-gen-16gb-ram-no-hdd
+- **Dell Desktop (MT) i7 4th Gen 16GB RAM *No HDD*** — $30 — buy now — server_pc — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-desktop-mt-i7-4th-gen-16gb-ram-no-hdd
+- **Dell Precision 3561 i7 11th Gen Nvidia Quadro T1200 Windows 11 Pro** — $450 — buy now — server_pc — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-precision-3561-i7-11th-gen-nvidia-quadro-t1200-windows-11-pro
+- **Dell Precision 3561 i7 11th Gen Nvidia Quadro T600 Windows 11 Pro** — $400 — buy now — server_pc — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-precision-3561-i7-11th-gen-nvidia-quadro-t600-windows-11-pro
 - **Assorted 128GB mSATA SSD** — $16 — buy now — server_pc — MSU Surplus Store
   https://msusurplusstore.com/products/assorted-128gb-msata-ssd
 - **32GB SSD mSATA Solid State Drive** — $10 — buy now — server_pc — MSU Surplus Store
@@ -91,168 +107,154 @@
   https://msusurplusstore.com/products/peavey-irm-8150-industrial-rackmount-mixer-amp-copy
 - **Dell Desktop (MFF) i5 9th Gen 16GB RAM with Windows 11 Pro with Wireless** — $175 — buy now — server_pc — MSU Surplus Store
   https://msusurplusstore.com/products/dell-desktop-mff-i5-9th-gen-16gb-ram-with-windows-11-pro-with-wireless
-- **Factory Reset- Apple Ipad Mini 5th Generation** — $15 — 22h 33m — electronics — HiBid
-  https://hibid.com/michigan/lot/330087432/factory-reset--apple-ipad-mini-5th-generation
-- **iPad 6th Gen 32 GB w/ Cellular - 1** — $5 — 1 day 16 hours — electronics — Public Surplus
+- **iPad 6th Gen 32 GB w/ Cellular - 1** — $10 — 14 hours 44 mins — electronics — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4121999
-- **iPad 6th Gen 32 GB w/ Cellular - 2** — $6 — 1 day 17 hours — electronics — Public Surplus
+- **iPad 6th Gen 32 GB w/ Cellular - 2** — $10 — 15 hours 14 mins — electronics — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4122068
-- **iPad 6th Gen 32 GB w/ Cellular - 3** — $10 — 1 day 17 hours — electronics — Public Surplus
+- **iPad 6th Gen 32 GB w/ Cellular - 3** — $10 — 15 hours 44 mins — electronics — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4122216
-- **Assorted Vintage Hand Tool Collection** — $0 — 1d 21h 6m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330899938/assorted-vintage-hand-tool-collection
-- **Cub Cadet Lawn & Garden Tractor (2)** — $4 — 1d 21h 9m — tools_equipment — HiBid
+- **Vintage International D-2 Pickup** — ? — closes/opens 11/17/2026 — vehicles — HiBid — NEW
+  https://hibid.com/michigan/lot/331629657/vintage-international-d-2-pickup
+- **Cub Cadet Lawn & Garden Tractor (2)** — $20 — 19h 9m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329715620/cub-cadet-lawn-and-garden-tractor--2-
-- **Ford N Series Tractor Non Running** — $360 — 1d 21h 46m — tools_equipment — HiBid
+- **Ford N Series Tractor Non Running** — $360 — 19h 45m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270013/ford-n-series-tractor-non-running
-- **Ingersoll-Rand Professional 60gal. Air Compressor** — $220 — 1d 21h 46m — tools_equipment — HiBid
+- **Ingersoll-Rand Professional 60gal. Air Compressor** — $220 — 19h 46m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270017/ingersoll-rand-professional-60gal--air-compressor
-- **Oxyacetylene Torch Welder** — $105 — 1d 21h 48m — tools_equipment — HiBid
+- **Oxyacetylene Torch Welder** — $105 — 19h 47m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270025/oxyacetylene-torch-welder
-- **Stud Welder Kit** — $40 — 1d 21h 48m — tools_equipment — HiBid
+- **Stud Welder Kit** — $40 — 19h 48m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270028/stud-welder-kit
-- **Century 100 Gasless Wire Feed Welder** — $6 — 1d 21h 52m — tools_equipment — HiBid
+- **Century 100 Gasless Wire Feed Welder** — $6 — 19h 52m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270054/century-100-gasless-wire-feed-welder
-- **Shop Force 2.5HP 8gal. Twin Tank Air Compressor** — $16 — 1d 21h 56m — tools_equipment — HiBid
+- **Shop Force 2.5HP 8gal. Twin Tank Air Compressor** — $16 — 19h 55m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270069/shop-force-2-5hp-8gal--twin-tank-air-compressor
-- **Milwaukee Angle Grinder, Bosch Corded Drill & More** — $11 — 1d 21h 58m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/328270086/milwaukee-angle-grinder--bosch-corded-drill-and-more
-- **Dewalt Orbital Sander, Ryobi Clutch Driver & More** — $1 — 1d 21h 58m — tools_equipment — HiBid
+- **Dewalt Orbital Sander, Ryobi Clutch Driver & More** — $1 — 19h 57m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270084/dewalt-orbital-sander--ryobi-clutch-driver-and-more
-- **Milwaukee Sawzall & Skil Jigsaw** — $6 — 1d 21h 59m — tools_equipment — HiBid
+- **Milwaukee Sawzall & Skil Jigsaw** — $6 — 19h 59m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270092/milwaukee-sawzall-and-skil-jigsaw
-- **Van Heusen Women's Stretch Pants Size 8** — $0 — 1d 22h 1m — vehicles — HiBid
+- **Van Heusen Women's Stretch Pants Size 8** — $0 — 20h — vehicles — HiBid
   https://hibid.com/michigan/lot/330900103/van-heusen-womens-stretch-pants-size-8
-- **10HP Coleman Powermate Generator** — $6 — 1d 22h 2m — tools_equipment — HiBid
+- **10HP Coleman Powermate Generator** — $6 — 20h 2m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270103/10hp-coleman-powermate-generator
-- **HP 1740 17-Inch LCD Monitor** — $0 — 1d 22h 4m — electronics — HiBid
+- **HP 1740 17-Inch LCD Monitor** — $0 — 20h 3m — electronics — HiBid
   https://hibid.com/michigan/lot/330900113/hp-1740-17-inch-lcd-monitor
-- **Passche Airbrush Co. Compressor** — $3 — 1d 22h 7m — tools_equipment — HiBid
+- **Passche Airbrush Co. Compressor** — $3 — 20h 7m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270134/passche-airbrush-co--compressor
-- **Passche d500 Diaphragm Air Compressor** — $1 — 1d 22h 8m — tools_equipment — HiBid
+- **Passche d500 Diaphragm Air Compressor** — $1 — 20h 7m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270135/passche-d500-diaphragm-air-compressor
-- **Yellow & Orange Air Compressor Hoses** — $1 — 1d 22h 10m — tools_equipment — HiBid
+- **Yellow & Orange Air Compressor Hoses** — $1 — 20h 10m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270151/yellow-and-orange-air-compressor-hoses
-- **Air Compressor Hoses** — $2 — 1d 22h 11m — tools_equipment — HiBid
+- **Air Compressor Hoses** — $2 — 20h 10m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328270153/air-compressor-hoses
-- **LG Flatron L1942T 19 in Monitor** — $0 — 1d 22h 30m — electronics — HiBid
+- **LG Flatron L1942T 19 in Monitor** — $0 — 20h 30m — electronics — HiBid
   https://hibid.com/michigan/lot/330900193/lg-flatron-l1942t-19-in-monitor
-- **Dell 17-inch LCD computer monitor** — $0 — 1d 22h 33m — electronics — HiBid
+- **Dell 17-inch LCD computer monitor** — $0 — 20h 32m — electronics — HiBid
   https://hibid.com/michigan/lot/330900201/dell-17-inch-lcd-computer-monitor
-- **Dell 1707FP LCD Monitor 17 in** — $0 — 1d 22h 33m — electronics — HiBid
+- **Dell 1707FP LCD Monitor 17 in** — $0 — 20h 32m — electronics — HiBid
   https://hibid.com/michigan/lot/330900200/dell-1707fp-lcd-monitor-17-in
-- **F12) LAWN MOWER TIRE** — $0 — 1d 22h 54m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330721224/f12--lawn-mower-tire
-- **D1) TWO GOOD YEAR TRAILER TIRES,** — $1 — 1d 23h 13m — vehicles — HiBid
+- **D1) TWO GOOD YEAR TRAILER TIRES,** — $1 — 21h 12m — vehicles — HiBid
   https://hibid.com/michigan/lot/331079366/d1--two-good-year-trailer-tires-
-- **14 TV electronics, including five remote** — $1 — 2d 23m — electronics — HiBid — NEW
-  https://hibid.com/michigan/lot/330722470/14-tv-electronics--including-five-remote
-- **Of) Hot Wheels/2003 car show customs Limited** — $1 — 2d 50m — vehicles — HiBid
+- **F8)Philips television, small energy star remote w/** — $3 — 22h 23m — electronics — HiBid
+  https://hibid.com/michigan/lot/330722471/f8-philips-television--small-energy-star-remote-w-
+- **Of) Hot Wheels/2003 car show customs Limited** — $1 — 22h 49m — vehicles — HiBid
   https://hibid.com/michigan/lot/330722929/of--hot-wheels-2003-car-show-customs-limited
-- **ELECTRIC TORO SNOW SHOVEL/SNOWBLOWER EXCELLENT** — $15 — 2d 59m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330723018/electric-toro-snow-shovel-snowblower-excellent
-- **F14) 1 PRECISION RACING PC 97 MICROSOFT AND FISHER** — $0 — 2d 1h 6m — electronics — HiBid
+- **D4) ELECTRIC TORO SNOW SHOVEL/SNOWBLOWER EXCELLENT** — $15 — 22h 58m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330723018/d4--electric-toro-snow-shovel-snowblower-excellent
+- **F14) 1 PRECISION RACING PC 97 MICROSOFT AND FISHER** — $0 — 23h 5m — electronics — HiBid
   https://hibid.com/michigan/lot/330723288/f14--1-precision-racing-pc-97-microsoft-and-fisher
-- **iPad 6th Gen 32 GB w/ Cellular - 4** — $6 — 2 days 16 hours — electronics — Public Surplus
+- **iPad 6th Gen 32 GB w/ Cellular - 4** — $6 — 1 day 14 hours — electronics — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4123094
-- **iPad 6th Gen 32 GB w/ Cellular - 5** — $6 — 2 days 16 hours — electronics — Public Surplus
+- **iPad 6th Gen 32 GB w/ Cellular - 5** — $10 — 1 day 14 hours — electronics — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4123097
-- **Enclosed Trailer** — $1,500 — 2d 19h 44m — vehicles — HiBid
+- **Enclosed Trailer** — $2,050 — 1d 17h 43m — vehicles — HiBid
   https://hibid.com/michigan/lot/330035959/enclosed-trailer
-- **Utility Trailer** — $170 — 2d 19h 44m — vehicles — HiBid
+- **Utility Trailer** — $325 — 1d 17h 44m — vehicles — HiBid
   https://hibid.com/michigan/lot/330035961/utility-trailer
+- **Samsung 55 Inch 4K UHD Smart LED TV UN55JS7000F** — $12 — 1d 17h 49m — electronics — HiBid
+  https://hibid.com/michigan/lot/330036005/samsung-55-inch-4k-uhd-smart-led-tv-un55js7000f
+- **Antique Wooden Bow Saw Log Saw Primitive** — ? — closes/opens 11/18/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330446493/antique-wooden-bow-saw-log-saw-primitive
 - **LCD Laptop Screen New** — ? — closes/opens 11/18/2026 — electronics — HiBid
   https://hibid.com/michigan/lot/331108327/lcd-laptop-screen-new
-- **Dell Monitor, Logitech Speakers** — $0 — 2d 20h 46m — electronics — HiBid
+- **Dell Monitor, Logitech Speakers** — $2 — 1d 18h 46m — electronics — HiBid
   https://hibid.com/michigan/lot/330036455/dell-monitor--logitech-speakers
-- **Samsung TV, Sony VCR Player** — $0 — 2d 20h 47m — electronics — HiBid
+- **Samsung TV, Sony VCR Player** — $2 — 1d 18h 46m — electronics — HiBid
   https://hibid.com/michigan/lot/330036457/samsung-tv--sony-vcr-player
-- **Coleman Powermate Vantage 3500 Generator with** — $3 — 2d 21h 41m — tools_equipment — HiBid
+- **Coleman Powermate Vantage 3500 Generator with** — $21 — 1d 19h 40m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330036809/coleman-powermate-vantage-3500-generator-with
-- **Craftsman 1900 PSI 1.2 GPM Electric Pressure** — $2 — 2d 21h 42m — tools_equipment — HiBid
+- **Craftsman 1900 PSI 1.2 GPM Electric Pressure** — $12 — 1d 19h 41m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330036816/craftsman-1900-psi-1-2-gpm-electric-pressure
-- **Heavy Duty Trailer Dolly 600LB Tongue Weight** — $26 — 2d 21h 43m — vehicles — HiBid
+- **Heavy Duty Trailer Dolly 600LB Tongue Weight** — $26 — 1d 19h 42m — vehicles — HiBid
   https://hibid.com/michigan/lot/330036818/heavy-duty-trailer-dolly-600lb-tongue-weight
-- **Yanmar Tractor Filters (2)** — $0 — 2d 21h 45m — tools_equipment — HiBid
+- **Yanmar Tractor Filters (2)** — $0 — 1d 19h 44m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330036835/yanmar-tractor-filters--2-
-- **Snap On 1/2 & 9/16 Swivel Head Socket Wrench** — $2 — 2d 21h 47m — tools_equipment — HiBid
+- **Snap On 1/2 & 9/16 Swivel Head Socket Wrench** — $2 — 1d 19h 46m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328285391/snap-on-1-2-and-9-16-swivel-head-socket-wrench
-- **UltraGear 27" Gaming Monitor** — $10 — 2d 21h 49m — electronics — HiBid
+- **UltraGear 27" Gaming Monitor** — $10 — 1d 19h 48m — electronics — HiBid
   https://hibid.com/michigan/lot/330799176/ultragear-27--gaming-monitor
-- **Vizio 32" TV w/ Remote** — $0 — 2d 21h 49m — electronics — HiBid
+- **Vizio 32" TV w/ Remote** — $0 — 1d 19h 48m — electronics — HiBid
   https://hibid.com/michigan/lot/330799177/vizio-32--tv-w--remote
-- **Primitive Tools- Vaughan Pick, Planer, Log Grabber** — $0 — 2d 22h 4m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330862527/primitive-tools--vaughan-pick--planer--log-grabber
-- **DeWalt Quik Drive Screw Gun** — $0 — 2d 22h 5m — tools_equipment — HiBid
+- **DeWalt Quik Drive Screw Gun** — $0 — 1d 20h 4m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799284/dewalt-quik-drive-screw-gun
-- **Antique Jack & Two Bottle Jacks** — $1 — 2d 22h 7m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/328285470/antique-jack-and-two-bottle-jacks
-- **Four Dell Laptops, Tablets & More** — $20 — 2d 22h 8m — electronics — HiBid
+- **Four Dell Laptops, Tablets & More** — $20 — 1d 20h 8m — electronics — HiBid
   https://hibid.com/michigan/lot/328285477/four-dell-laptops--tablets-and-more
-- **Pancake Air Compressor w/ Hose and Reel** — $10 — 2d 22h 9m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330799318/pancake-air-compressor-w--hose-and-reel
-- **Generac 5500XL Generator** — $5 — 2d 22h 10m — tools_equipment — HiBid
+- **Generac 5500XL Generator** — $10 — 1d 20h 9m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799321/generac-5500xl-generator
-- **Doerr Air Compressor** — $5 — 2d 22h 10m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330799322/doerr-air-compressor
-- **Assorted Electronics- Headphones, USB Connectors,** — $0 — 2d 22h 20m — electronics — HiBid
+- **Pancake Air Compressor w/ Hose and Reel** — $10 — 1d 20h 9m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330799318/pancake-air-compressor-w--hose-and-reel
+- **Assorted Electronics- Headphones, USB Connectors,** — $0 — 1d 20h 19m — electronics — HiBid
   https://hibid.com/michigan/lot/330799424/assorted-electronics--headphones--usb-connectors-
-- **Magnavox 40" Flatscreen TV** — $5 — 2d 22h 21m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799432/magnavox-40--flatscreen-tv
-- **Vintage Buck Saw** — $5 — 2d 22h 28m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330799484/vintage-buck-saw
-- **Milwaukee 1/2" Power Drill** — $1 — 2d 22h 41m — tools_equipment — HiBid
+- **Milwaukee 1/2" Power Drill** — $1 — 1d 20h 40m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328285606/milwaukee-1-2--power-drill
-- **Assorted Electronics- DVD Player, Antenna Box,** — $0 — 2d 22h 41m — electronics — HiBid
+- **Assorted Electronics- DVD Player, Antenna Box,** — $0 — 1d 20h 40m — electronics — HiBid
   https://hibid.com/michigan/lot/330799610/assorted-electronics--dvd-player--antenna-box-
-- **Acer 22" Flatscreen TV** — $0 — 2d 22h 42m — electronics — HiBid
+- **Acer 22" Flatscreen TV** — $0 — 1d 20h 41m — electronics — HiBid
   https://hibid.com/michigan/lot/330799601/acer-22--flatscreen-tv
-- **Sanyo 32" Flatscreen TV** — $0 — 2d 22h 42m — electronics — HiBid
+- **Sanyo 32" Flatscreen TV** — $0 — 1d 20h 41m — electronics — HiBid
   https://hibid.com/michigan/lot/330799612/sanyo-32--flatscreen-tv
-- **Sony 40" Flatscreen TV** — $0 — 2d 22h 42m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799616/sony-40--flatscreen-tv
-- **Sylvania TV/DVD Combo w/ Remote** — $0 — 2d 22h 43m — electronics — HiBid
+- **Sylvania TV/DVD Combo w/ Remote** — $0 — 1d 20h 42m — electronics — HiBid
   https://hibid.com/michigan/lot/330799619/sylvania-tv-dvd-combo-w--remote
-- **Vizio 42" Flatscreen TV** — $0 — 2d 22h 43m — electronics — HiBid
+- **Vizio 42" Flatscreen TV** — $0 — 1d 20h 42m — electronics — HiBid
   https://hibid.com/michigan/lot/330799620/vizio-42--flatscreen-tv
-- **Magnavox 15" Flatscreen TV** — $0 — 2d 22h 46m — electronics — HiBid
-  https://hibid.com/michigan/lot/330799660/magnavox-15--flatscreen-tv
-- **AOC 20" Monitor** — $0 — 2d 22h 47m — electronics — HiBid
+- **Sony 40" Flatscreen TV** — $0 — 1d 20h 42m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799616/sony-40--flatscreen-tv
+- **Polaroid 42" Flatscreen TV** — $0 — 1d 20h 42m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799617/polaroid-42--flatscreen-tv
+- **AOC 20" Monitor** — $0 — 1d 20h 46m — electronics — HiBid
   https://hibid.com/michigan/lot/330799673/aoc-20--monitor
-- **Dell 22" Monitor** — $0 — 2d 22h 47m — electronics — HiBid
+- **Dell 22" Monitor** — $0 — 1d 20h 46m — electronics — HiBid
   https://hibid.com/michigan/lot/330799671/dell-22--monitor
-- **Samsung 22" Flatscreen TV** — $0 — 2d 22h 47m — electronics — HiBid
+- **Samsung 22" Flatscreen TV** — $0 — 1d 20h 46m — electronics — HiBid
   https://hibid.com/michigan/lot/330799661/samsung-22--flatscreen-tv
-- **Sceptre 23" Flatscreen TV** — $0 — 2d 22h 47m — electronics — HiBid
+- **Sceptre 23" Flatscreen TV** — $0 — 1d 20h 46m — electronics — HiBid
   https://hibid.com/michigan/lot/330799669/sceptre-23--flatscreen-tv
-- **Ex-Cell Pressure Washer** — $5 — 2d 22h 50m — tools_equipment — HiBid
+- **Magnavox 15" Flatscreen TV** — $0 — 1d 20h 46m — electronics — HiBid
+  https://hibid.com/michigan/lot/330799660/magnavox-15--flatscreen-tv
+- **Ex-Cell Pressure Washer** — $6 — 1d 20h 49m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799700/ex-cell-pressure-washer
-- **Craftsman Snow Blower** — $26 — 2d 22h 50m — tools_equipment — HiBid
+- **Craftsman Snow Blower** — $41 — 1d 20h 49m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799699/craftsman-snow-blower
-- **Poulan Pro Snow Blower** — $8 — 2d 22h 50m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330799701/poulan-pro-snow-blower
-- **Subaru Pressure Washer** — $5 — 2d 22h 51m — tools_equipment — HiBid
+- **Subaru Pressure Washer** — $6 — 1d 20h 50m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799708/subaru-pressure-washer
-- **Ariens Snow Blower** — $0 — 2d 22h 51m — tools_equipment — HiBid
+- **Poulan Pro Snow Blower** — $52 — 1d 20h 50m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330799701/poulan-pro-snow-blower
+- **Ariens Snow Blower** — $0 — 1d 20h 50m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799709/ariens-snow-blower
-- **ETQ Generator** — $0 — 2d 22h 54m — tools_equipment — HiBid
+- **ETQ Generator** — $9 — 1d 20h 53m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799723/etq-generator
-- **Thunderbolt Arc Welder** — $7 — 2d 22h 57m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330799745/thunderbolt-arc-welder
-- **295 AMP Welder** — $5 — 2d 22h 57m — tools_equipment — HiBid
+- **295 AMP Welder** — $6 — 1d 20h 56m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330799744/295-amp-welder
-- **Angle drill** — $50 — 3 days 16 hours — tools_equipment — Public Surplus
+- **Thunderbolt Arc Welder** — $7 — 1d 20h 56m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330799745/thunderbolt-arc-welder
+- **Angle drill** — $50 — 2 days 14 hours — tools_equipment — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125080
-- **scroll saw** — $20 — 3 days 16 hours — tools_equipment — Public Surplus
+- **scroll saw** — $20 — 2 days 14 hours — tools_equipment — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125419
-- **scroll saw** — $20 — 3 days 16 hours — tools_equipment — Public Surplus
+- **scroll saw** — $20 — 2 days 14 hours — tools_equipment — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125422
 - **Yard Machines 21" cut push mower with B&S 140cc** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613252/yard-machines-21--cut-push-mower-with-bands-140cc
-- **Troybilt 6250 watt generator. Note: pulls free.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330613220/troybilt-6250-watt-generator--note--pulls-free-
-- **Generac A1400 generator. Note: pulls free.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330613164/generac-a1400-generator--note--pulls-free-
 - **Total Zone TZ-2 ozone generator.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613093/total-zone-tz-2-ozone-generator-
 - **DeWalt DXGNR8000 8000 watt generator. Note: pulls** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
@@ -261,38 +263,52 @@
   https://hibid.com/michigan/lot/330613156/predator-2000-watt-inverter-generator--note-
 - **Predator 7250 watt generator. Note: pulls free.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613191/predator-7250-watt-generator--note--pulls-free-
+- **Troybilt 6250 watt generator. Note: pulls free.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330613220/troybilt-6250-watt-generator--note--pulls-free-
+- **Generac A1400 generator. Note: pulls free.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330613164/generac-a1400-generator--note--pulls-free-
 - **Fortress 200 PSI 27 gallon air compressor with** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613188/fortress-200-psi-27-gallon-air-compressor-with
 - **Ridgid pancake air compressor.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613127/ridgid-pancake-air-compressor-
-- **Pressure washer with B&S 208cc engine. Note:** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330613233/pressure-washer-with-bands-208cc-engine--note-
 - **Ryobi 2900 PSI pressure washer with 212cc engine.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613260/ryobi-2900-psi-pressure-washer-with-212cc-engine-
+- **Pressure washer with B&S 208cc engine. Note:** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330613233/pressure-washer-with-bands-208cc-engine--note-
+- **Stihl model RB 400 pressure washer with Kohler** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330613261/stihl-model-rb-400-pressure-washer-with-kohler
 - **(4) Pressure washer wands.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613248/-4--pressure-washer-wands-
 - **Stihl 12" pressure washer water broom.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613128/stihl-12--pressure-washer-water-broom-
-- **Stihl model RB 400 pressure washer with Kohler** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330613261/stihl-model-rb-400-pressure-washer-with-kohler
-- **ELECTRIC CAR WASHING MACHINE** — ? — closes/opens 11/19/2026 — vehicles — HiBid — NEW
+- **ELECTRIC CAR WASHING MACHINE** — ? — closes/opens 11/19/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/331471940/electric-car-washing-machine
-- **MILWAUKEE CHISELS** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+- **GREEN WORKS ELECTRIC SNOW BLOWER WORKS GOOD** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+  https://hibid.com/michigan/lot/331513300/green-works-electric-snow-blower-works-good
+- **VINTAGE BLACKSMITH TOOL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+  https://hibid.com/michigan/lot/331324950/vintage-blacksmith-tool
+- **VINTAGE CRAFTSMAN WOOD PLANE** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+  https://hibid.com/michigan/lot/331324945/vintage-craftsman-wood-plane
+- **VINTAGE HAND TOOLS** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+  https://hibid.com/michigan/lot/331324948/vintage-hand-tools
+- **MILWAUKEE CHISELS** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472275/milwaukee-chisels
-- **NEW MILWAUKEE CORDLESS DRILL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+- **NEW MILWAUKEE CORDLESS DRILL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331471930/new-milwaukee-cordless-drill
+- **NEW MILWAUKEE COLD CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+  https://hibid.com/michigan/lot/331513246/new-milwaukee-cold-chisel
 - **Assorted Milwaukee tool only cordless tools,** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613141/assorted-milwaukee-tool-only-cordless-tools-
-- **NEW MILWAUKEE BULL POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+- **NEW MILWAUKEE BULL POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472249/new-milwaukee-bull-point-chisel
-- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
-  https://hibid.com/michigan/lot/331472223/new-milwaukee-18-bullet-point-chisel
-- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472214/new-milwaukee-18-bullet-point-chisel
-- **NEW MILWAUKEE BULL POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
-  https://hibid.com/michigan/lot/331472245/new-milwaukee-bull-point-chisel
-- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid — NEW
+- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331472223/new-milwaukee-18-bullet-point-chisel
+- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472220/new-milwaukee-18-bullet-point-chisel
+- **NEW MILWAUKEE BULL POINT CHISEL** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331472245/new-milwaukee-bull-point-chisel
 - **Milwaukee and Craftsman 7 1/4" circular saws.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613116/milwaukee-and-craftsman-7-1-4--circular-saws-
 - **Group of saw horses includes Channellock, DeWalt,** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
@@ -303,16 +319,166 @@
   https://hibid.com/michigan/lot/330613142/assorted-dewalt-chargers-and-cordless-tools-
 - **DeWalt 18 volt DW077 rotary laser.** — ? — closes/opens 11/19/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330613154/dewalt-18-volt-dw077-rotary-laser-
-- **Barbie's Sweet Orchard Farm Tractor** — $0 — 3d 22h 13m — tools_equipment — HiBid
+- **Barbie's Sweet Orchard Farm Tractor** — $0 — 2d 20h 12m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331296487/barbies-sweet-orchard-farm-tractor
-- **2016 Ford Transit Shuttle Bus** — $4,800 — n/a — vehicles — Municibid
-  https://municibid.com/listing/87088196/2016-ford-transit-shuttle-bus
+- **Ricky Van Shelton** — $0 — 2d 22h 36m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331297395/ricky-van-shelton
+- **Ricky Van Shelton-Loving Proof-1988** — $0 — 2d 22h 36m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331297396/ricky-van-shelton-loving-proof-1988
+- **The Art Van Damme Quintette** — $0 — 2d 22h 49m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331297470/the-art-van-damme-quintette
+- **2015 Kubota BX5455HD Snowblower & Subframe** — $625 — 3 days 13 hours — tools_equipment — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4125292
+- **11' Landscape Trailer** — $202 — 3 days 13 hours — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4125296
+- **2014 Ram 1500 4x4 Pickup** — $4,000 — 3 days 13 hours — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4125297
+- **1995 Club Car DS** — $76 — 3 days 13 hours — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4125290
+- **Ladder Rack for Pickup Truck** — $20 — 3 days 13 hours — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4125291
+- **Pentair Aurora Electric Powered Centrifugal Pump** — $50 — 3 days 13 hours — tools_equipment — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4125287
+- **6'x10' Enclosed trailer** — $500 — 3 days 13 hours — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4125299
+- **Pentair Aurora Electric Powered Centrifugal Pump** — $50 — 3 days 13 hours — tools_equipment — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4125288
+- **2016 Ford Explorer SUV** — $260 — 3 days 15 hours — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4111704
+- **2009 Gmc Sierra 1500 Truck** — ? — closes/opens 11/20/2026 — vehicles — HiBid
+  https://hibid.com/michigan/lot/331170619/2009-gmc-sierra-1500-truck
+- **Qty 2 Ceramic Pickup Truck Planters** — ? — closes/opens 11/20/2026 — vehicles — HiBid
+  https://hibid.com/michigan/lot/331306389/qty-2-ceramic-pickup-truck-planters
+- **Red Pickup Truck w/ Christmas Tree Figure** — ? — closes/opens 11/20/2026 — vehicles — HiBid
+  https://hibid.com/michigan/lot/330810480/red-pickup-truck-w--christmas-tree-figure
+- **1993 Pickup Fire Truck Model w/ Box** — ? — closes/opens 11/20/2026 — vehicles — HiBid
+  https://hibid.com/michigan/lot/329643529/1993-pickup-fire-truck-model-w--box
+- **Trail King Tag Trailer 102"x24'** — ? — closes/opens 11/20/2026 — vehicles — HiBid
+  https://hibid.com/michigan/lot/331170625/trail-king-tag-trailer-102-x24
+- **UNUSED 3pt TRAILER MOVER** — ? — closes/opens 11/20/2026 — vehicles — HiBid
+  https://hibid.com/michigan/lot/330802413/unused-3pt-trailer-mover
+- **Unused 3 Point Trailer Mover** — ? — closes/opens 11/20/2026 — vehicles — HiBid
+  https://hibid.com/michigan/lot/329621506/unused-3-point-trailer-mover
+- **MOWER WOLVERINE 2026 Unused D-RC72** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621589/mower-wolverine-2026-unused-d-rc72
+- **6 Ft Tractor Roto Tiller** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330802459/6-ft-tractor-roto-tiller
+- **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621849/unused-2026-mini-skid-steer-loader
+- **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621497/unused-2026-mini-skid-steer-loader
+- **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331170618/unused-2026-mini-skid-steer-loader
+- **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621637/unused-2026-mini-skid-steer-loader
+- **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331170621/unused-2026-mini-skid-steer-loader
+- **UNUSED SKIDSTEER TO 3PT** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330802405/unused-skidsteer-to-3pt
+- **Skid Steer Tiller** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621493/skid-steer-tiller
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330802416/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621784/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621603/unused-skid-steer-plate
+- **Unused Skid Steer Forks** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621599/unused-skid-steer-forks
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621842/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621812/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621858/unused-skid-steer-plate
+- **Unused Skid Steer Grapple** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621621/unused-skid-steer-grapple
+- **Unused Skid Steer Grapple** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621634/unused-skid-steer-grapple
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621796/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621800/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330802415/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330802417/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621782/unused-skid-steer-plate
+- **Unused Skid Steer Ripper** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621780/unused-skid-steer-ripper
+- **Unused Skid Steer Grapple** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621809/unused-skid-steer-grapple
+- **Unused Skid Steer Plate Compactor** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621837/unused-skid-steer-plate-compactor
+- **Unused Skid Steer Grapple Bucket** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621819/unused-skid-steer-grapple-bucket
+- **Generac 3500XL Generator, Good Compression** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330950397/generac-3500xl-generator--good-compression
+- **Gas Air Compressor** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621658/gas-air-compressor
+- **Campbell Air Compressor** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621651/campbell-air-compressor
+- **Senco PC2001 Air Compressor 1.5 HP** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621317/senco-pc2001-air-compressor-1-5-hp
+- **PowerStroke 1700 PSI Electric Pressure Washer** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329643542/powerstroke-1700-psi-electric-pressure-washer
+- **Snapper SS5022 Snow Blower** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621399/snapper-ss5022-snow-blower
+- **Milwaukee Heavy-Duty Right Angle Drill Kit** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621443/milwaukee-heavy-duty-right-angle-drill-kit
+- **DeWalt and Unknown Belt Sanders, 2 Pieces** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621291/dewalt-and-unknown-belt-sanders--2-pieces
+- **DeWalt DW705 12" Compound Miter Saw,** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330216844/dewalt-dw705-12--compound-miter-saw-
+- **DeWALT MC Metal Connector Nails 1-1/2" x .131"** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330582805/dewalt-mc-metal-connector-nails-1-1-2--x--131-
 - **Challenger MR6 6,000-lb Mid-Rise Portable Lift** — $985 — n/a — tools_equipment — Municibid
   https://municibid.com/listing/86220777/challenger-mr6-6-000-lb-mid-rise-portable-lift
 - **2015 Chevrolet  Tahoe** — $1,200 — n/a — vehicles — Municibid
   https://municibid.com/listing/87180286/2015-chevrolet-tahoe
 - **Van Dell Gold-Filled Amber Neclace & Earrings** — $5 — n/a — vehicles — HiBid
   https://hibid.com/michigan/lot/330453835/van-dell-gold-filled-amber-neclace-and-earrings
+- **HP LaserJet Pro 400 Color Laser Printer M401dn** — $75 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/hp-laserjet-pro-400-color-laser-printer-m401dn
+- **Epson PowerLite Pro G6070W 3LCD Digital Projector (4500+ Hours) *No Bulb*** — $50 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/epson-powerlite-pro-g6070w-3lcd-digital-projector-4500-hours-no-bulb
+- **Epson PowerLite Pro G6050W 3LCD Digital Projector (2500-3000 Hours)** — $90 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/epson-powerlite-pro-g6050w-3lcd-digital-projector-2500-3000-hours
+- **Epson PowerLite Pro G6050W 3LCD Digital Projector (2000-2500 Hours)** — $100 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/epson-powerlite-pro-g6050w-3lcd-digital-projector-2001-hours
+- **InterTek HC010050200USB USB-C Power supply** — $10 — buy now — electronics — MSU Surplus Store
+  https://msusurplusstore.com/products/hp-65w-20v-3a-usb-c-power-supply-copy
+- **Dell Latitude 5480 i5 7th Gen *No HDD*** — $50 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5480-i5-7th-gen-no-hdd
+- **Dell Latitude 3490 i5 7th *No HDD*** — $60 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-3490-i5-7th-no-hdd
+- **Dell Latitude 5580 i7 7th Gen *No HDD*** — $50 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5580-i7-7th-gen-no-hdd
+- **Dell Latitude E5540 i5 4th Gen *No HDD*** — $20 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-e5540-i5-4th-gen-no-hdd
+- **Dell Latitude 5580 i5 7th 8GB DDR4 RAM *No HDD*** — $50 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5580-i5-7th-8gb-ddr4-ram-no-hdd
+- **Dell Latitude E5470 i7 6th Gen *No HDD*** — $45 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-e5470-i7-6th-gen-no-hdd
+- **Dell Latitude E5470 i5 6th Gen *No HDD*** — $45 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-e5470-i5-6th-gen-no-hdd
+- **Jack of Shadows by Roger Zelazny 1971 HCDJ** — $25 — buy now — tools_equipment — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/jack-of-shadows-by-roger-zelazny-1971-hcdj
+- **Dell Precision 7520 i7 6th Gen Windows 11 Pro** — $100 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-precision-7520-i7-6th-gen-windows-11-pro
+- **Lot of 5 Spraying Equipment** — $50 — buy now — tools_equipment — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/lot-of-5-spraying-equipment
+- **Dell Latitude 3310 2-in-1 i5 8th Gen Windows Pro** — $150 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-3310-2-in-1-i5-8th-gen-windows-pro
+- **Dell Latitude 5590 i5 7th Gen Windows 11 Pro** — $100 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/dell-latitude-5590-i5-7th-gen-windows-11-pro
+- **Apple iPad 5th Gen 32GB 9.7" Wifi + Cellular A1823** — $65 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-ipad-5th-gen-32gb-9-7-wifi-cellular-a1823
+- **Apple iPad Pro 2nd Gen 64GB 10.5" WiFi Only Black A1701** — $160 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-ipad-pro-2nd-gen-64gb-10-5-wifi-only-black-a1701
+- **Apple iPad Pro 1st Gen 512GB 11" Unlocked Gray A2013** — $250 — buy now — electronics — MSU Surplus Store — NEW
+  https://msusurplusstore.com/products/apple-ipad-pro-1st-gen-512gb-11-unlocked-gray-a2013-1
 - **Dell Precision 5560 i7 11th Gen Nvidia T1200 Laptop GPU Windows 11 Pro** — $425 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/dell-precision-5560-i7-11th-gen-nvidia-t1200-laptop-gpu-windows-11-pro
 - **Dell Precision 5560 i7 11th Gen Windows 11 Pro** — $350 — buy now — electronics — MSU Surplus Store
@@ -331,12 +497,8 @@
   https://msusurplusstore.com/products/dell-latitude-7400-i7-8th-gen-windows-11-pro-some-screen-spots
 - **Dell Latitude 5520 i5 10th Gen Windows 11 Pro** — $225 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/dell-latitude-5520-i5-10th-gen-windows-11-pro
-- **Dell Latitude E5470 i7 6th Gen Windows 11 Pro** — $75 — buy now — electronics — MSU Surplus Store
-  https://msusurplusstore.com/products/dell-latitude-e5470-i7-6th-gen-windows-11-pro
 - **Dell Latitude E5570 i7 6th Gen Windows 11 Pro *Damage to Shell Corner*** — $70 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/dell-latitude-e5570-i7-6th-gen-windows-11-pro-damage-to-shell-corner
-- **Dell Latitude 7200 2-in-1 i5 8th Gen Windows 11 Pro *Fair Battery*** — $150 — buy now — electronics — MSU Surplus Store
-  https://msusurplusstore.com/products/dell-latitude-7200-2-in-1-i5-8th-gen-windows-11-pro-fair-battery
 - **Juniper Networks EX3400-48T Ethernet Switch 2** — $110 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/juniper-networks-ex3400-48t-ethernet-switch-2
 - **Redlake Camera Motion Scope 500 Digital Video Camera Monitor with Accessories *Parts*** — $180 — buy now — electronics — MSU Surplus Store
@@ -563,10 +725,6 @@
   https://msusurplusstore.com/products/hp-laserjet-4250n-laser-printer
 - **Apple MacBook Air 13" 1.6 GHz i5 8th Gen 16GB 500GB 2019** — $250 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/apple-macbook-air-13-1-6-ghz-i5-8th-gen-16gb-500gb-2019
-- **Apple MacBook Pro 15.4" 2018 i7 8th Gen 16GB 250GB** — $270 — buy now — electronics — MSU Surplus Store
-  https://msusurplusstore.com/products/apple-macbook-pro-15-4-2018-i7-8th-gen-16gb-250gb
-- **Dell Pro KM5221W Wireless Keyboard and Mouse *New*** — $20 — buy now — electronics — MSU Surplus Store
-  https://msusurplusstore.com/products/dell-pro-km5221w-keyboard-and-mouse
 - **Wollensak Model 73 Camera *Untested*** — $30 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/canon-vixia-hf200-high-definition-camcorder-copy
 - **Apple Gray iPad Mini 3 16GB 7.9" A1599 WiFi Only** — $60 — buy now — electronics — MSU Surplus Store
@@ -699,8 +857,6 @@
   https://msusurplusstore.com/products/dell-latitude-5490-i5-8th-gen-windows-11-pro-bad-ethernet-port-poor-battery
 - **Dell Latitude 3500 i3 8th Gen Windows 11 Pro** — $125 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/dell-latitude-3500-i3-8th-gen-windows-11-pro
-- **Epson PowerLite Pro G6050W 3LCD Digital Projector (501 - 1000 Hours)** — $225 — buy now — electronics — MSU Surplus Store
-  https://msusurplusstore.com/products/epson-powerlite-pro-g6050w-3lcd-digital-projector-501-1000-hours-1
 - **Epson PowerLite Pro G6070W 3LCD Digital Projector (0 - 500 Hours)** — $275 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/epson-powerlite-pro-g6070w-3lcd-digital-projector-0-500-hours
 - **Dell Latitude 5490 i5 8th Gen Windows 11 Pro *Worn Keys*** — $145 — buy now — electronics — MSU Surplus Store
@@ -751,8 +907,6 @@
   https://msusurplusstore.com/products/apple-macbook-pro-15-4-2-7ghz-i7-3rg-gen-no-os
 - **Dell Latitude 5400 i5 8th Gen Windows 11 Pro *Screen Hot Spots*** — $125 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/dell-latitude-5400-i5-8th-gen-windows-11-pro-screen-hot-spots
-- **Agilent 33220A 20MHz Function and Arbitrary Waveform Generator *Untested*** — $350 — buy now — tools_equipment — MSU Surplus Store
-  https://msusurplusstore.com/products/agilent-33220a-20mhz-and-arbitrary-waveform-generator
 - **Nikon KeyMission 360 Camera** — $200 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/unbranded-subwoofer-copy
 - **Apple MacBook Pro 15.4" 2.3 GHz i7 3rd Gen 2012 8GB DDR3 256G SSD *No OS*** — $80 — buy now — electronics — MSU Surplus Store
@@ -863,8 +1017,6 @@
   https://msusurplusstore.com/products/pfeiffer-mvp-030-3dc-diaphragm-dry-vacuum-pump-untested
 - **Agilent Roche/ACEA xCELLigence RTCA System *Untested*** — $500 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/agilent-roche-acea-xcelligence-rtca-system
-- **Apple MacBook Pro 15" 2.6GHz i7 8th Gen 2018 16GB RAM 500 Gig SSD** — $300 — buy now — vehicles — MSU Surplus Store
-  https://msusurplusstore.com/products/apple-macbook-pro-15-2-6ghz-i7-8th-gen-2018-16gb-ram-500-gig-ssd
 - **Apple MacBook Pro 13.3" 2.3GHz i5 8th Gen 2018 8GB RAM 250 Gig SSD** — $200 — buy now — vehicles — MSU Surplus Store
   https://msusurplusstore.com/products/apple-macbook-pro-13-3-2-3ghz-i5-8th-gen-2018
 - **Apple MacBook Pro 13" 3.1GHz i5 7th Gen 2017 16GB RAM 500GB SSD** — $235 — buy now — vehicles — MSU Surplus Store
@@ -951,8 +1103,6 @@
   https://msusurplusstore.com/products/esun-black-3d-printer-filament-copy
 - **Philips 00T214AG-GA03 TV Magnavox Remote Control** — $8 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/sony-rm-d757-remote-control-copy
-- **InterTek HC010050200USB USB-C Power supply** — $10 — buy now — electronics — MSU Surplus Store
-  https://msusurplusstore.com/products/hp-65w-20v-3a-usb-c-power-supply-copy
 - **Dell 042T1 Magenta High Yield Toner Cartridge** — $30 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/dell-042t1-magenta-high-yield-toner-cartridge
 - **Dell 2RF0R Yellow High Yield Toner Cartridge** — $30 — buy now — electronics — MSU Surplus Store
