@@ -11,7 +11,7 @@
       "\\b(ups|uninterruptible|battery backup|back-?ups|smart-?ups|cyberpower)\\b",
       "\\b(gpus?|graphics cards?|video cards?|rtx ?\\d{4}|gtx ?\\d{3,4}|radeon|rx ?\\d{4}|quadro|geforce|nvidia)\\b",
       "\\b(ddr4|ddr5|rdimm|ecc ram|ram kit|\\d+ ?gb ram|ryzen|core i[3579]|i[3579]-\\d{4,5}[a-z]*)\\b",
-      "\\b(optiplex|thinkcentre|elitedesk|prodesk|mini ?pc|nuc|mac mini|mac studio|micro desktop|sff desktop|tiny desktop)\\b",
+      "\\b(optiplex|thinkcentre|elitedesk|prodesk|elite mini|pro mini|lenovo tiny|mini ?pc|nuc|mac mini|mac studio|micro desktop|sff desktop|tiny desktop|small form factor|beelink|minisforum|gmktec|geekom|firebat|acemagic|aoostar|bosgame|n100|n150)\\b",
       "\\b(network switch|poe switch|gigabit switch|managed switch|\\d+.?port switch|2\\.5 ?g(be)?|10 ?gbe|sfp\\+?|ubiquiti|unifi|meraki|aruba|sonicwall|fortinet|firewall|pfsense|cisco)\\b"
     ],
     "vehicles": [
@@ -77,7 +77,13 @@
     "thinkcentre",
     "mini pc",
     "network switch",
-    "computer lot"
+    "computer lot",
+    "small form factor",
+    "elitedesk",
+    "lenovo tiny",
+    "intel nuc",
+    "beelink",
+    "minisforum"
   ],
   "server_pc_not": [
     "\\b(laptop|notebook|latitude|macbook|surface|imac|chromebook|zbook|probook|elitebook|thinkpad|all.in.one|aio|ipad)\\b",
