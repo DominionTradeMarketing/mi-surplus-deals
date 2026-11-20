@@ -1,7 +1,7 @@
-# MI surplus shortlist — 2026-11-20T04:22+00:00 UTC
-683 candidates from 3588 Michigan listings (68 server/PC parts, listed first)
+# MI surplus shortlist — 2026-11-20T06:51+00:00 UTC
+687 candidates from 3591 Michigan listings (68 server/PC parts, listed first)
 
-- **New APC Back-UPS Pro 700 420W UPS System** — $0 — 2d 22h 4m — server_pc — HiBid
+- **New APC Back-UPS Pro 700 420W UPS System** — $0 — 2d 19h 35m — server_pc — HiBid
   https://hibid.com/michigan/lot/329468089/new-apc-back-ups-pro-700-420w-ups-system
 - **Large Divided Oval Buffet Server** — ? — closes/opens 11/23/2026 — server_pc — HiBid
   https://hibid.com/michigan/lot/331788051/large-divided-oval-buffet-server
@@ -137,23 +137,23 @@
   https://msusurplusstore.com/products/dell-desktop-mff-i5-9th-gen-16gb-ram-with-windows-11-pro-with-wireless
 - **Cisco Catalyst 9120AXI-B Wireless Access Point *Recovery Mode*** — $56 — buy now — server_pc — MSU Surplus Store
   https://msusurplusstore.com/products/cisco-catalyst-9120axi-b-wireless-access-point-recovery-mode
-- **6'x10' Enclosed trailer** — $520 — 14 hours 37 mins — vehicles — Public Surplus
+- **6'x10' Enclosed trailer** — $520 — 12 hours 8 mins — vehicles — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125299
-- **2015 Kubota BX5455HD Snowblower & Subframe** — $625 — 14 hours 37 mins — tools_equipment — Public Surplus
+- **2015 Kubota BX5455HD Snowblower & Subframe** — $625 — 12 hours 8 mins — tools_equipment — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125292
-- **11' Landscape Trailer** — $202 — 14 hours 37 mins — vehicles — Public Surplus
+- **11' Landscape Trailer** — $202 — 12 hours 8 mins — vehicles — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125296
-- **2014 Ram 1500 4x4 Pickup** — $4,000 — 14 hours 37 mins — vehicles — Public Surplus
+- **2014 Ram 1500 4x4 Pickup** — $4,000 — 12 hours 8 mins — vehicles — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125297
-- **1995 Club Car DS** — $76 — 14 hours 37 mins — vehicles — Public Surplus
+- **1995 Club Car DS** — $76 — 12 hours 8 mins — vehicles — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125290
-- **Ladder Rack for Pickup Truck** — $20 — 14 hours 37 mins — vehicles — Public Surplus
+- **Ladder Rack for Pickup Truck** — $20 — 12 hours 8 mins — vehicles — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125291
-- **Pentair Aurora Electric Powered Centrifugal Pump** — $50 — 14 hours 37 mins — tools_equipment — Public Surplus
+- **Pentair Aurora Electric Powered Centrifugal Pump** — $50 — 12 hours 8 mins — tools_equipment — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125287
-- **Pentair Aurora Electric Powered Centrifugal Pump** — $50 — 14 hours 37 mins — tools_equipment — Public Surplus
+- **Pentair Aurora Electric Powered Centrifugal Pump** — $50 — 12 hours 8 mins — tools_equipment — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4125288
-- **2016 Ford Explorer SUV** — $1,000 — 16 hours 37 mins — vehicles — Public Surplus
+- **2016 Ford Explorer SUV** — $1,000 — 14 hours 8 mins — vehicles — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4111704
 - **2009 Gmc Sierra 1500 Truck** — ? — closes/opens 11/20/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/331170619/2009-gmc-sierra-1500-truck
@@ -169,8 +169,8 @@
   https://hibid.com/michigan/lot/330802413/unused-3pt-trailer-mover
 - **Unused 3 Point Trailer Mover** — ? — closes/opens 11/20/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/329621506/unused-3-point-trailer-mover
-- **100 Gallon Fuel Tank And Tool Box** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330802445/100-gallon-fuel-tank-and-tool-box
+- **Unused 6 Bolt Trailer Rim** — ? — closes/opens 11/20/2026 — vehicles — HiBid
+  https://hibid.com/michigan/lot/331576982/unused-6-bolt-trailer-rim
 - **MOWER WOLVERINE 2026 Unused D-RC72** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329621589/mower-wolverine-2026-unused-d-rc72
 - **6 Ft Tractor Roto Tiller** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
@@ -180,27 +180,15 @@
 - **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329621497/unused-2026-mini-skid-steer-loader
 - **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/331170621/unused-2026-mini-skid-steer-loader
-- **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329621637/unused-2026-mini-skid-steer-loader
 - **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331170618/unused-2026-mini-skid-steer-loader
+- **Unused 2026 Mini Skid Steer Loader** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331170621/unused-2026-mini-skid-steer-loader
 - **UNUSED SKIDSTEER TO 3PT** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330802405/unused-skidsteer-to-3pt
 - **Skid Steer Tiller** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329621493/skid-steer-tiller
-- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/329621858/unused-skid-steer-plate
-- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/329621812/unused-skid-steer-plate
-- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/329621842/unused-skid-steer-plate
-- **Unused Skid Steer Forks** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/329621599/unused-skid-steer-forks
-- **Unused Skid Steer Grapple** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/329621634/unused-skid-steer-grapple
-- **Unused Skid Steer Grapple** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/329621621/unused-skid-steer-grapple
 - **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329621784/unused-skid-steer-plate
 - **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
@@ -221,10 +209,22 @@
   https://hibid.com/michigan/lot/329621780/unused-skid-steer-ripper
 - **Unused Skid Steer Grapple** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329621809/unused-skid-steer-grapple
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621858/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621812/unused-skid-steer-plate
+- **Unused Skid Steer Plate** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621842/unused-skid-steer-plate
+- **Unused Skid Steer Forks** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621599/unused-skid-steer-forks
+- **Unused Skid Steer Grapple** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621634/unused-skid-steer-grapple
+- **Unused Skid Steer Grapple** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/329621621/unused-skid-steer-grapple
 - **Unused Skid Steer Fork Mast** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/329621787/unused-skid-steer-fork-mast
+  https://hibid.com/michigan/lot/329621597/unused-skid-steer-fork-mast
 - **Unused Skid Steer Telescopic Boom** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/329621622/unused-skid-steer-telescopic-boom
+  https://hibid.com/michigan/lot/329621840/unused-skid-steer-telescopic-boom
 - **Generac 3500XL Generator, Good Compression** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330950397/generac-3500xl-generator--good-compression
 - **Gas Air Compressor** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
@@ -245,189 +245,195 @@
   https://hibid.com/michigan/lot/330216844/dewalt-dw705-12--compound-miter-saw-
 - **DeWALT MC Metal Connector Nails 1-1/2" x .131"** — ? — closes/opens 11/20/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330582805/dewalt-mc-metal-connector-nails-1-1-2--x--131-
-- **2005 GMC 3500 - DURAMAX DUMP** — $2,200 — 1d 16h 37m — vehicles — HiBid
-  https://hibid.com/michigan/lot/331438403/2005-gmc-3500---duramax-dump
-- **2015 FORD F250 PICKUP- 4 X 4** — $3,200 — 1d 16h 38m — vehicles — HiBid
+- **2015 FORD F250 PICKUP- 4 X 4** — $3,200 — 1d 14h 9m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438406/2015-ford-f250-pickup--4-x-4
-- **2007 CHEVY 2500- 4 X 4 PICKUP** — $1,100 — 1d 16h 39m — vehicles — HiBid
+- **2005 GMC 3500 - DURAMAX DUMP** — $2,200 — 1d 14h 9m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438403/2005-gmc-3500---duramax-dump
+- **2007 CHEVY 2500- 4 X 4 PICKUP** — $1,100 — 1d 14h 10m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438411/2007-chevy-2500--4-x-4-pickup
-- **2010 GMC 2500 HD-4 X 4 PICKUP** — $2,900 — 1d 16h 39m — vehicles — HiBid
-  https://hibid.com/michigan/lot/331438413/2010-gmc-2500-hd-4-x-4-pickup
-- **2014 FORD F150 4 X 4PICKUP** — $1,500 — 1d 16h 40m — vehicles — HiBid
-  https://hibid.com/michigan/lot/331438419/2014-ford-f150-4-x-4pickup
-- **2012 FORD F250 TRUCK- 4 x 4- PLOW** — $3,300 — 1d 16h 40m — vehicles — HiBid
+- **2012 FORD F250 TRUCK- 4 x 4- PLOW** — $3,300 — 1d 14h 11m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438416/2012-ford-f250-truck--4-x-4--plow
-- **2010 GMC 2500 4 x 4 PICKUP** — $1,600 — 1d 16h 41m — vehicles — HiBid
+- **2010 GMC 2500 HD-4 X 4 PICKUP** — $2,900 — 1d 14h 11m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438413/2010-gmc-2500-hd-4-x-4-pickup
+- **2010 GMC 2500 4 x 4 PICKUP** — $1,600 — 1d 14h 12m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438420/2010-gmc-2500-4-x-4-pickup
-- **2010 GMC 2500 4 X 4 PICKUP** — $2,500 — 1d 16h 41m — vehicles — HiBid
-  https://hibid.com/michigan/lot/331438421/2010-gmc-2500-4-x-4-pickup
-- **2005 GMC PICKUP** — $1,000 — 1d 16h 42m — vehicles — HiBid
+- **2014 FORD F150 4 X 4PICKUP** — $1,500 — 1d 14h 12m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438419/2014-ford-f150-4-x-4pickup
+- **2005 GMC PICKUP** — $1,000 — 1d 14h 13m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438424/2005-gmc-pickup
-- **2019 CHEVY TAHOE** — $4,400 — 1d 16h 42m — vehicles — HiBid
-  https://hibid.com/michigan/lot/331438427/2019-chevy-tahoe
-- **2016 FORD EXPEDITION** — $1,700 — 1d 16h 43m — vehicles — HiBid
-  https://hibid.com/michigan/lot/331438429/2016-ford-expedition
-- **2016 FORD EXPLORER INTERCEPTOR** — $2,000 — 1d 16h 44m — vehicles — HiBid
-  https://hibid.com/michigan/lot/331438433/2016-ford-explorer-interceptor
-- **2018 FORD EXPLORER INTERCEPTOR** — $1,200 — 1d 16h 45m — vehicles — HiBid
+- **2010 GMC 2500 4 X 4 PICKUP** — $2,500 — 1d 14h 13m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438421/2010-gmc-2500-4-x-4-pickup
+- **2015 FORD EXPLORER INTERCEPTOR** — $2,100 — 1d 14h 14m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438431/2015-ford-explorer-interceptor
+- **2018 FORD EXPLORER INTERCEPTOR** — $1,500 — 1d 14h 15m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438436/2018-ford-explorer-interceptor
+- **2017 FORD EXPLORER INTERCEPTOR** — $3,000 — 1d 14h 16m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438439/2017-ford-explorer-interceptor
+- **2018 FORD EXPLORER INTERCEPTOR** — $1,200 — 1d 14h 16m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438438/2018-ford-explorer-interceptor
-- **2017 FORD EXPLORER INTERCEPTOR** — $3,200 — 1d 16h 46m — vehicles — HiBid
+- **2016 FORD EXPLORER INTERCEPTOR** — $1,600 — 1d 14h 17m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438440/2016-ford-explorer-interceptor
+- **2017 FORD EXPLORER INTERCEPTOR** — $3,200 — 1d 14h 17m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438441/2017-ford-explorer-interceptor
-- **2015 FORD EXPLORER INTERCEPTOR** — $1,300 — 1d 16h 47m — vehicles — HiBid
+- **2020 FORD EXPLORER INTERCEPTOR** — $5,000 — 1d 14h 18m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438443/2020-ford-explorer-interceptor
+- **2015 FORD EXPLORER INTERCEPTOR** — $1,300 — 1d 14h 18m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438442/2015-ford-explorer-interceptor
-- **2016 FORD EXPLORER INTERCEPTOR** — $2,000 — 1d 16h 48m — vehicles — HiBid
+- **2016 FORD EXPLORER INTERCEPTOR** — $2,000 — 1d 14h 19m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438444/2016-ford-explorer-interceptor
-- **2018 FORD EXPLORER XLT 4 X 4** — $1,600 — 1d 16h 48m — vehicles — HiBid
+- **2018 FORD EXPLORER XLT 4 X 4** — $1,600 — 1d 14h 19m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438446/2018-ford-explorer-xlt-4-x-4
-- **1985 FORD 2910 TRACTOR** — $2,800 — 1d 16h 50m — vehicles — HiBid
+- **2020 FORD ESCAPE** — $2,200 — 1d 14h 20m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331438449/2020-ford-escape
+- **1985 FORD 2910 TRACTOR** — $2,800 — 1d 14h 21m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438455/1985-ford-2910-tractor
-- **1998 NEW HOLLAND 4630 TRACTOR** — $2,900 — 1d 16h 51m — tools_equipment — HiBid
+- **1998 NEW HOLLAND 4630 TRACTOR** — $2,900 — 1d 14h 22m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438457/1998-new-holland-4630-tractor
-- **2004 TORO WORKMAN 1100** — $1,100 — 1d 16h 55m — tools_equipment — HiBid
+- **2004 TORO WORKMAN 1100** — $1,100 — 1d 14h 26m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438469/2004-toro-workman-1100
-- **1999 TORO TRUCKSTER W/141** — $1,000 — 1d 16h 55m — tools_equipment — HiBid
+- **1999 TORO TRUCKSTER W/141** — $1,000 — 1d 14h 26m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438471/1999-toro-truckster-w-141
-- **1994 TORO WORKMAN TRUCKSTER** — $600 — 1d 16h 56m — tools_equipment — HiBid
+- **1994 TORO WORKMAN TRUCKSTER** — $600 — 1d 14h 27m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438476/1994-toro-workman-truckster
-- **2004 TORO Z ZERO TURN MOWER** — $700 — 1d 17h 36m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/331438602/2004-toro-z-zero-turn-mower
-- **2006 TORO Z TURN MOWER** — $900 — 1d 17h 36m — tools_equipment — HiBid
+- **2006 TORO Z TURN MOWER** — $1,200 — 1d 15h 7m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438603/2006-toro-z-turn-mower
-- **2015 EXMARK ZERO TURN MOWER** — $2,300 — 1d 17h 37m — tools_equipment — HiBid
+- **2004 TORO Z ZERO TURN MOWER** — $700 — 1d 15h 7m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331438602/2004-toro-z-zero-turn-mower
+- **2015 EXMARK ZERO TURN MOWER** — $2,300 — 1d 15h 8m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438605/2015-exmark-zero-turn-mower
-- **2001 HUSTLER ZERO TURN MOWER** — $800 — 1d 17h 37m — tools_equipment — HiBid
+- **2001 HUSTLER ZERO TURN MOWER** — $800 — 1d 15h 8m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438604/2001-hustler-zero-turn-mower
-- **2016 TORO GROUNDMASTER 44700D MOWER** — $1,200 — 1d 17h 38m — tools_equipment — HiBid
+- **2016 TORO GROUNDMASTER 44700D MOWER** — $1,200 — 1d 15h 9m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438606/2016-toro-groundmaster-44700d-mower
-- **2010 TORO GROUNDSMASTER 4000D MOWER** — $1,100 — 1d 17h 38m — tools_equipment — HiBid
+- **2010 TORO GROUNDSMASTER 4000D MOWER** — $1,100 — 1d 15h 9m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438607/2010-toro-groundsmaster-4000d-mower
-- **2018 TORO GROUNDSMASTERSS 4000D MOWER** — $700 — 1d 17h 39m — tools_equipment — HiBid
+- **2018 TORO GROUNDSMASTERSS 4000D MOWER** — $700 — 1d 15h 10m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438608/2018-toro-groundsmasterss-4000d-mower
-- **2008 TORO MOWER 54110** — $250 — 1d 17h 39m — tools_equipment — HiBid
+- **2008 TORO MOWER 54110** — $250 — 1d 15h 10m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438609/2008-toro-mower-54110
-- **2008 TORO FAIRWAY MOWER** — $250 — 1d 17h 40m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/331438610/2008-toro-fairway-mower
-- **2006 TORO FAIRWAY MOWER 6700D** — $250 — 1d 17h 40m — tools_equipment — HiBid
+- **2006 TORO FAIRWAY MOWER 6700D** — $250 — 1d 15h 11m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438611/2006-toro-fairway-mower-6700d
-- **2017 TORO GROUNDSMASTERS 4000D** — $500 — 1d 17h 41m — tools_equipment — HiBid
+- **2008 TORO FAIRWAY MOWER** — $250 — 1d 15h 11m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331438610/2008-toro-fairway-mower
+- **2017 TORO GROUNDSMASTERS 4000D** — $500 — 1d 15h 12m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438612/2017-toro-groundsmasters-4000d
-- **2008 TORO MOWER 580D** — $600 — 1d 17h 42m — tools_equipment — HiBid
+- **2008 TORO MOWER 580D** — $600 — 1d 15h 13m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438614/2008-toro-mower-580d
-- **2017 TORO GROUNDSMASTERS 4000D** — $500 — 1d 17h 43m — tools_equipment — HiBid
+- **2015 TORO GROUNDSMASTERS 4000D** — $600 — 1d 15h 13m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331438615/2015-toro-groundsmasters-4000d
+- **2017 TORO GROUNDSMASTERS 4000D** — $500 — 1d 15h 14m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438616/2017-toro-groundsmasters-4000d
-- **2013 JACOBSON GREENS MOWER** — $250 — 1d 17h 43m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/331438617/2013-jacobson-greens-mower
-- **2009 JOHN DEERE GREENS MOWER** — $250 — 1d 17h 46m — tools_equipment — HiBid
+- **2009 JOHN DEERE GREENS MOWER** — $250 — 1d 15h 17m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438622/2009-john-deere-greens-mower
-- **2016 JOHN DEERE MOWER** — $300 — 1d 17h 46m — tools_equipment — HiBid
+- **2016 JOHN DEERE MOWER** — $300 — 1d 15h 17m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438623/2016-john-deere-mower
-- **2002 KAUFMAN TRAILER** — $1,500 — 1d 18h 8m — vehicles — HiBid
+- **2002 KAUFMAN TRAILER** — $1,500 — 1d 15h 39m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438667/2002-kaufman-trailer
-- **MILITARY GENERATOR ON TRAILER** — $1,100 — 1d 18h 11m — vehicles — HiBid
+- **MILITARY GENERATOR ON TRAILER** — $1,100 — 1d 15h 42m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438673/military-generator-on-trailer
-- **1986 EDWARDS FORD LIFT 3 POINT** — $25 — 1d 18h 11m — vehicles — HiBid
+- **1986 EDWARDS FORD LIFT 3 POINT** — $25 — 1d 15h 42m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438672/1986-edwards-ford-lift-3-point
-- **MILITARY TRAILER** — $80 — 1d 18h 12m — vehicles — HiBid
+- **MILITARY TRAILER** — $80 — 1d 15h 43m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438674/military-trailer
-- **2004 DEMCO WATER TANK ON TRAILER** — $650 — 1d 18h 13m — vehicles — HiBid
+- **2004 DEMCO WATER TANK ON TRAILER** — $650 — 1d 15h 44m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438677/2004-demco-water-tank-on-trailer
-- **2000 HOOSIER 23FT PONTOON TRAILER** — $650 — 1d 18h 14m — vehicles — HiBid
+- **2000 HOOSIER 23FT PONTOON TRAILER** — $650 — 1d 15h 45m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438678/2000-hoosier-23ft-pontoon-trailer
-- **TRAILER** — $160 — 1d 18h 15m — vehicles — HiBid
+- **TRAILER** — $160 — 1d 15h 46m — vehicles — HiBid
   https://hibid.com/michigan/lot/331438681/trailer
-- **2002 DEWALT 857 COMPRESSOR** — $45 — 1d 18h 17m — tools_equipment — HiBid
+- **2002 DEWALT 857 COMPRESSOR** — $45 — 1d 15h 49m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438686/2002-dewalt-857-compressor
-- **HONDA PUSH MOWER** — $45 — 1d 18h 20m — tools_equipment — HiBid
+- **HONDA PUSH MOWER** — $45 — 1d 15h 51m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438691/honda-push-mower
-- **JOHN DEERE SNOWBLOWER** — $180 — 1d 18h 35m — tools_equipment — HiBid
+- **JOHN DEERE SNOWBLOWER** — $180 — 1d 16h 6m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438721/john-deere-snowblower
-- **LARGE ASSORTED LOT OF DEWALT TOOLS AND CHARGERS** — $180 — 1d 18h 35m — tools_equipment — HiBid
+- **LARGE ASSORTED LOT OF DEWALT TOOLS AND CHARGERS** — $180 — 1d 16h 6m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438722/large-assorted-lot-of-dewalt-tools-and-chargers
-- **DEWALT DC800 IMPACT-MAMYBOTHER DRILLS AND DRIVERS** — $19 — 1d 18h 36m — tools_equipment — HiBid
+- **DEWALT DC800 IMPACT-MAMYBOTHER DRILLS AND DRIVERS** — $19 — 1d 16h 7m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438723/dewalt-dc800-impact-mamybother-drills-and-drivers
-- **TRACTOR WHEEL** — $7 — 1d 18h 41m — tools_equipment — HiBid
+- **TRACTOR WHEEL** — $7 — 1d 16h 12m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331438733/tractor-wheel
-- **Patriotic Pickup Truck decoration lighted** — $1 — 1d 19h 12m — vehicles — HiBid
+- **Patriotic Pickup Truck decoration lighted** — $1 — 1d 16h 43m — vehicles — HiBid
   https://hibid.com/michigan/lot/329722905/patriotic-pickup-truck-decoration-lighted
-- **Honda HS 520 Snowblower WORKS GREAT!** — $12 — 1d 19h 55m — tools_equipment — HiBid
+- **Honda HS 520 Snowblower WORKS GREAT!** — $12 — 1d 17h 27m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330439590/honda-hs-520-snowblower-works-great-
-- **Vintage Van Halen 1984 Authentic Tour Shirt Raglan** — $65 — 2d 19h 34m — vehicles — HiBid
+- **Vintage Van Halen 1984 Authentic Tour Shirt Raglan** — $65 — 2d 17h 5m — vehicles — HiBid
   https://hibid.com/michigan/lot/331308657/vintage-van-halen-1984-authentic-tour-shirt-raglan
-- **NEW MILWAUKEE CORDLESS DRILL** — $2 — 2d 19h 50m — tools_equipment — HiBid
+- **NEW MILWAUKEE CORDLESS DRILL** — $2 — 2d 17h 22m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331471930/new-milwaukee-cordless-drill
-- **ELECTRIC CAR WASHING MACHINE** — $1 — 2d 19h 52m — vehicles — HiBid
+- **ELECTRIC CAR WASHING MACHINE** — $1 — 2d 17h 23m — vehicles — HiBid
   https://hibid.com/michigan/lot/331471940/electric-car-washing-machine
-- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — $1 — 2d 20h 38m — tools_equipment — HiBid
+- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — $1 — 2d 18h 9m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472214/new-milwaukee-18-bullet-point-chisel
-- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — $0 — 2d 20h 39m — tools_equipment — HiBid
+- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — $0 — 2d 18h 10m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472223/new-milwaukee-18-bullet-point-chisel
-- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — $0 — 2d 20h 39m — tools_equipment — HiBid
+- **NEW MILWAUKEE 18'' BULLET POINT CHISEL** — $0 — 2d 18h 10m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472220/new-milwaukee-18-bullet-point-chisel
-- **NEW MILWAUKEE BULL POINT CHISEL** — $0 — 2d 20h 42m — tools_equipment — HiBid
+- **NEW MILWAUKEE BULL POINT CHISEL** — $0 — 2d 18h 13m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472249/new-milwaukee-bull-point-chisel
-- **NEW MILWAUKEE BULL POINT CHISEL** — $1 — 2d 20h 42m — tools_equipment — HiBid
+- **NEW MILWAUKEE BULL POINT CHISEL** — $1 — 2d 18h 13m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472245/new-milwaukee-bull-point-chisel
-- **NEW MILWAUKEE SLOTTING TOOL SDS PLUS** — $0 — 2d 20h 44m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/331472272/new-milwaukee-slotting-tool-sds-plus
-- **MILWAUKEE CHISELS** — $0 — 2d 20h 45m — tools_equipment — HiBid
+- **MILWAUKEE CHISELS** — $0 — 2d 18h 16m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331472275/milwaukee-chisels
-- **Qty 3 Snap On St Patricks Day Shot Glass Necklaces** — $0 — 2d 21h 19m — tools_equipment — HiBid
+- **NEW MILWAUKEE SLOTTING TOOL SDS PLUS** — $0 — 2d 18h 16m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331472272/new-milwaukee-slotting-tool-sds-plus
+- **Qty 3 Snap On St Patricks Day Shot Glass Necklaces** — $0 — 2d 18h 50m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329468069/qty-3-snap-on-st-patricks-day-shot-glass-necklaces
-- **Westinghouse iGen 2500 2200W Inverter Generator** — $36 — 2d 21h 51m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/328594949/westinghouse-igen-2500-2200w-inverter-generator
-- **Toro 421 Two Stage 21" Snowblower** — $13 — 2d 21h 51m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/328594946/toro-421-two-stage-21--snowblower
-- **Craftsman Two Stage 27" Electric Start Snowblower** — $3 — 2d 21h 51m — tools_equipment — HiBid
+- **Craftsman Two Stage 27" Electric Start Snowblower** — $3 — 2d 19h 22m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328594947/craftsman-two-stage-27--electric-start-snowblower
-- **New Sceptre X405BV-FMDU 40" LCD HD Television** — $2 — 2d 21h 52m — electronics — HiBid
+- **Toro 421 Two Stage 21" Snowblower** — $13 — 2d 19h 22m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/328594946/toro-421-two-stage-21--snowblower
+- **Westinghouse iGen 2500 2200W Inverter Generator** — $36 — 2d 19h 23m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/328594949/westinghouse-igen-2500-2200w-inverter-generator
+- **New Sceptre X405BV-FMDU 40" LCD HD Television** — $2 — 2d 19h 23m — electronics — HiBid
   https://hibid.com/michigan/lot/328594954/new-sceptre-x405bv-fmdu-40--lcd-hd-television
-- **NEW MILWAUKEE COLD CHISEL** — $0 — 2d 21h 57m — tools_equipment — HiBid
+- **NEW MILWAUKEE COLD CHISEL** — $0 — 2d 19h 28m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331513246/new-milwaukee-cold-chisel
-- **New Dewalt DWST590014 Gel Flooring Knee Pads** — $0 — 2d 21h 59m — tools_equipment — HiBid
+- **New Dewalt DWST590014 Gel Flooring Knee Pads** — $0 — 2d 19h 30m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328594981/new-dewalt-dwst590014-gel-flooring-knee-pads
-- **NEW WIRELESS TABLET KEYBOARD** — $0 — 2d 22h 5m — electronics — HiBid — NEW
+- **NEW WIRELESS TABLET KEYBOARD** — $0 — 2d 19h 37m — electronics — HiBid — NEW
   https://hibid.com/michigan/lot/331513272/new-wireless-tablet-keyboard
-- **CAT RIDE ON TRACTOR FRONT END LOADER** — $0 — 2d 22h 15m — tools_equipment — HiBid
+- **CAT RIDE ON TRACTOR FRONT END LOADER** — $0 — 2d 19h 46m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331513299/cat-ride-on-tractor-front-end-loader
-- **GREEN WORKS ELECTRIC SNOW BLOWER WORKS GOOD** — $1 — 2d 22h 15m — tools_equipment — HiBid
+- **GREEN WORKS ELECTRIC SNOW BLOWER WORKS GOOD** — $1 — 2d 19h 46m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331513300/green-works-electric-snow-blower-works-good
-- **New Dewalt DXCMSAC260 Electric Air Compressor** — $131 — 2d 22h 16m — tools_equipment — HiBid
+- **New Dewalt DXCMSAC260 Electric Air Compressor** — $131 — 2d 19h 47m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329468135/new-dewalt-dxcmsac260-electric-air-compressor
-- **New Dewalt DCK227D2 20V 2-Tool Combo Kit** — $91 — 2d 22h 21m — tools_equipment — HiBid
+- **New Dewalt DCK227D2 20V 2-Tool Combo Kit** — $91 — 2d 19h 52m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329468154/new-dewalt-dck227d2-20v-2-tool-combo-kit
-- **Speedaire 35WC42 80 Gallon 2-Stage Air Compressor** — $21 — 2d 22h 22m — tools_equipment — HiBid
+- **Speedaire 35WC42 80 Gallon 2-Stage Air Compressor** — $21 — 2d 19h 53m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/329660990/speedaire-35wc42-80-gallon-2-stage-air-compressor
-- **New Lot of 2 Rolair Synthetic Blend Compressor Oil** — $0 — 2d 22h 29m — tools_equipment — HiBid
+- **New Lot of 2 Rolair Synthetic Blend Compressor Oil** — $0 — 2d 20h 1m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330638137/new-lot-of-2-rolair-synthetic-blend-compressor-oil
-- **New Blue Maxx 3000 Electric High Pressure Washer** — $7 — 2d 22h 36m — tools_equipment — HiBid
+- **New Blue Maxx 3000 Electric High Pressure Washer** — $7 — 2d 20h 7m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330638162/new-blue-maxx-3000-electric-high-pressure-washer
-- **Sanborn Red Rubber Air Compressor With Bracket** — $0 — 2d 22h 46m — tools_equipment — HiBid
+- **Sanborn Red Rubber Air Compressor With Bracket** — $0 — 2d 20h 17m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330638202/sanborn-red-rubber-air-compressor-with-bracket
-- **Dewalt DC970 1/2" VSR Cordless Drill (No Battery)** — $0 — 2d 22h 48m — tools_equipment — HiBid
+- **Dewalt DC970 1/2" VSR Cordless Drill (No Battery)** — $0 — 2d 20h 19m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330638213/dewalt-dc970-1-2--vsr-cordless-drill--no-battery-
-- **Samsung Digital Color Security Camera SCC-131B** — $2 — 2d 22h 48m — electronics — HiBid
+- **Samsung Digital Color Security Camera SCC-131B** — $2 — 2d 20h 19m — electronics — HiBid
   https://hibid.com/michigan/lot/330638214/samsung-digital-color-security-camera-scc-131b
-- **Milwaukee 48-22-7213 10" Aluminum Pipe Wrench** — $7 — 2d 22h 53m — tools_equipment — HiBid
+- **Milwaukee 48-22-7213 10" Aluminum Pipe Wrench** — $7 — 2d 20h 24m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330638231/milwaukee-48-22-7213-10--aluminum-pipe-wrench
-- **New Snap On SSX16R2 Socket Style Thermos** — $2 — 2d 22h 53m — tools_equipment — HiBid
+- **New Snap On SSX16R2 Socket Style Thermos** — $2 — 2d 20h 24m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330638233/new-snap-on-ssx16r2-socket-style-thermos
-- **New Snap On SSX16R2 Socket Style Thermos** — $0 — 2d 22h 54m — tools_equipment — HiBid
+- **New Snap On SSX16R2 Socket Style Thermos** — $0 — 2d 20h 25m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330638237/new-snap-on-ssx16r2-socket-style-thermos
-- **Milwaukee 48-22-7213 10" Aluminum Pipe Wrench** — $16 — 2d 22h 56m — tools_equipment — HiBid
+- **Milwaukee 48-22-7213 10" Aluminum Pipe Wrench** — $16 — 2d 20h 27m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330795597/milwaukee-48-22-7213-10--aluminum-pipe-wrench
-- **New Lot Of 3 Snap On Snap Back Baseball Hats** — $2 — 2d 22h 57m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330795604/new-lot-of-3-snap-on-snap-back-baseball-hats
-- **New Lot Of 7 Assorted Snap On Sports Balls** — $2 — 2d 22h 57m — tools_equipment — HiBid
+- **New Lot Of 7 Assorted Snap On Sports Balls** — $2 — 2d 20h 28m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330795602/new-lot-of-7-assorted-snap-on-sports-balls
-- **New Lot Of 3 Assorted Snap On Koozies** — $0 — 2d 22h 58m — tools_equipment — HiBid
+- **New Lot Of 3 Snap On Snap Back Baseball Hats** — $2 — 2d 20h 29m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330795604/new-lot-of-3-snap-on-snap-back-baseball-hats
+- **New Lot Of 3 Assorted Snap On Koozies** — $0 — 2d 20h 29m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330795607/new-lot-of-3-assorted-snap-on-koozies
-- **New Snap On 2022 Powerhouse Gym Beach Towel** — $0 — 2d 22h 58m — tools_equipment — HiBid
-  https://hibid.com/michigan/lot/330795608/new-snap-on-2022-powerhouse-gym-beach-towel
-- **Qty 3 New Snap On Green St Patricks Day Sunglasses** — $0 — 2d 22h 58m — tools_equipment — HiBid
+- **Qty 3 New Snap On Green St Patricks Day Sunglasses** — $0 — 2d 20h 29m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330795605/qty-3-new-snap-on-green-st-patricks-day-sunglasses
-- **Qty 4 New Dewalt 8mm Ratcheting Combination Wrench** — $0 — 2d 23h 1m — tools_equipment — HiBid
+- **New Snap On 2022 Powerhouse Gym Beach Towel** — $0 — 2d 20h 30m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330795608/new-snap-on-2022-powerhouse-gym-beach-towel
+- **Qty 4 New Dewalt 8mm Ratcheting Combination Wrench** — $0 — 2d 20h 32m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330966273/qty-4-new-dewalt-8mm-ratcheting-combination-wrench
-- **Dewalt PA6-GF50 Right Angle Drill Attachment** — $0 — 2d 23h 5m — tools_equipment — HiBid
+- **Dewalt PA6-GF50 Right Angle Drill Attachment** — $0 — 2d 20h 36m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330966289/dewalt-pa6-gf50-right-angle-drill-attachment
 - **Carry-On Trailer Hitchpacker 20X60HP** — ? — closes/opens 11/23/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/330673599/carry-on-trailer-hitchpacker-20x60hp
@@ -437,15 +443,15 @@
   https://hibid.com/michigan/lot/331787955/wall-mounted-samsung-tv-w-remote-42-
 - **55inch Samsung Tv W Sonos Sound bar** — ? — closes/opens 11/23/2026 — electronics — HiBid
   https://hibid.com/michigan/lot/330673510/55inch-samsung-tv-w-sonos-sound-bar
-- **Toro Recycler Personal Pace Auto-drive Gas Mower** — $17 — 3d 20h 37m — tools_equipment — HiBid
+- **Toro Recycler Personal Pace Auto-drive Gas Mower** — $17 — 3d 18h 8m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/331206161/toro-recycler-personal-pace-auto-drive-gas-mower
-- **Milwaukee Nexgen Motorcycle Womens Jacket** — $7 — 3d 21h 17m — vehicles — HiBid
+- **Milwaukee Nexgen Motorcycle Womens Jacket** — $7 — 3d 18h 48m — vehicles — HiBid
   https://hibid.com/michigan/lot/331206405/milwaukee-nexgen-motorcycle-womens-jacket
-- **Milwaukee Leather Motorcycle Jacket Size: Large *** — $7 — 3d 21h 17m — vehicles — HiBid
+- **Milwaukee Leather Motorcycle Jacket Size: Large *** — $7 — 3d 18h 48m — vehicles — HiBid
   https://hibid.com/michigan/lot/331206404/milwaukee-leather-motorcycle-jacket-size--large--
-- **Portable  air compressor** — $0 — 3d 21h 31m — tools_equipment — HiBid — NEW
+- **Portable  air compressor** — $0 — 3d 19h 2m — tools_equipment — HiBid — NEW
   https://hibid.com/michigan/lot/332154801/portable--air-compressor
-- **Vintage Hp100lx Palmtop Pc & More** — $0 — 3d 21h 41m — electronics — HiBid
+- **Vintage Hp100lx Palmtop Pc & More** — $0 — 3d 19h 13m — electronics — HiBid
   https://hibid.com/michigan/lot/331206560/vintage-hp100lx-palmtop-pc-and-more
 - **Challenger MR6 6,000-lb Mid-Rise Portable Lift** — $985 — n/a — tools_equipment — Municibid
   https://municibid.com/listing/86220777/challenger-mr6-6-000-lb-mid-rise-portable-lift
@@ -453,6 +459,8 @@
   https://municibid.com/listing/87180286/2015-chevrolet-tahoe
 - **Van Dell Gold-Filled Amber Neclace & Earrings** — $10 — n/a — vehicles — HiBid
   https://hibid.com/michigan/lot/330453835/van-dell-gold-filled-amber-neclace-and-earrings
+- **2012 Jeep Wrangler Unlimited Sahara** — $0 — n/a — vehicles — HiBid — NEW
+  https://hibid.com/michigan/lot/332087492/2012-jeep-wrangler-unlimited-sahara
 - **John Deere 3020 Gas WIde Front Low hours** — $0 — n/a — tools_equipment — HiBid — NEW
   https://hibid.com/michigan/lot/332087490/john-deere-3020-gas-wide-front-low-hours
 - **Ford 340 Tractor Loader** — $0 — n/a — tools_equipment — HiBid — NEW
