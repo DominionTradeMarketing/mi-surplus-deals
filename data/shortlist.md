@@ -1,7 +1,7 @@
-# MI surplus shortlist — 2026-11-26T05:30+00:00 UTC
-551 candidates from 3532 Michigan listings (60 server/PC parts, listed first)
+# MI surplus shortlist — 2026-11-27T05:26+00:00 UTC
+562 candidates from 3523 Michigan listings (60 server/PC parts, listed first)
 
-- **Lot of Samsung 850 EVO SSD's** — $150 — 1 day 8 hours — server_pc — Public Surplus
+- **Lot of Samsung 850 EVO SSD's** — $200 — 9 hours 3 mins — server_pc — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4134273
 - **NVIDIA Quadro K620 2GB DDR3 Video Graphics Card** — $10 — buy now — server_pc — MSU Surplus Store
   https://msusurplusstore.com/products/nvidia-quadro-k620-2gb-ddr3-video-graphics-card
@@ -121,47 +121,47 @@
   https://msusurplusstore.com/products/dell-desktop-mff-i5-9th-gen-16gb-ram-with-windows-11-pro-with-wireless
 - **Cisco Catalyst 9120AXI-B Wireless Access Point *Recovery Mode*** — $56 — buy now — server_pc — MSU Surplus Store
   https://msusurplusstore.com/products/cisco-catalyst-9120axi-b-wireless-access-point-recovery-mode
-- **DUAL AXLE TRAILER** — $212 — 9 hours 29 mins — vehicles — Public Surplus
-  https://www.publicsurplus.com/sms/auction/view?auc=4132792
-- **City of Milwaukee DIETZ Cast Red Globe Lantern** — $0 — 1d 16h 36m — tools_equipment — HiBid
+- **City of Milwaukee DIETZ Cast Red Globe Lantern** — $0 — 16h 41m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330215848/city-of-milwaukee-dietz-cast-red-globe-lantern
-- **Milwaukee Road unusual GREEN RR Lantern w/bracket** — $0 — 1d 16h 39m — tools_equipment — HiBid
+- **Milwaukee Road unusual GREEN RR Lantern w/bracket** — $0 — 16h 44m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330215854/milwaukee-road-unusual-green-rr-lantern-w-bracket
-- **Milwaukee Road Railroad Oil Can C.M St. P & P RR** — $5 — 1d 16h 54m — tools_equipment — HiBid
+- **Milwaukee Road Railroad Oil Can C.M St. P & P RR** — $5 — 16h 58m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330215883/milwaukee-road-railroad-oil-can-c-m-st--p-and-p-rr
-- **C.M. St.P & P Railroad BLACK Oil Can Milwaukee Rd** — $5 — 1d 16h 55m — tools_equipment — HiBid
+- **C.M. St.P & P Railroad BLACK Oil Can Milwaukee Rd** — $5 — 16h 59m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330215885/c-m--st-p-and-p-railroad-black-oil-can-milwaukee-rd
-- **Dietz City of Milwaukee RED GLOBE Tubular Lantern** — $0 — 1d 17h 10m — tools_equipment — HiBid
+- **Dietz City of Milwaukee RED GLOBE Tubular Lantern** — $0 — 17h 15m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330215915/dietz-city-of-milwaukee-red-globe-tubular-lantern
-- **Dietz Tubular City of Milwaukee REG GLOBE Lantern** — $0 — 1d 17h 19m — tools_equipment — HiBid
+- **Dietz Tubular City of Milwaukee REG GLOBE Lantern** — $0 — 17h 24m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330215933/dietz-tubular-city-of-milwaukee-reg-globe-lantern
-- **Adlake Chicago Milwaukee St. Paul Railway lantern** — $50 — 1d 17h 44m — tools_equipment — HiBid
+- **Milwaukee Road CAST Clear Globe Adlake RR Lantern** — $10 — 17h 33m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/330215951/milwaukee-road-cast-clear-globe-adlake-rr-lantern
+- **Adlake Chicago Milwaukee St. Paul Railway lantern** — $50 — 17h 48m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330215982/adlake-chicago-milwaukee-st--paul-railway-lantern
-- **Milwaukee Road CAST RED Globe Brass Top Lantern** — $105 — 1d 17h 56m — tools_equipment — HiBid
+- **Milwaukee Road CAST RED Globe Brass Top Lantern** — $105 — 18h — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330216006/milwaukee-road-cast-red-globe-brass-top-lantern
-- **The Milwaukee Road retirement certificate 1956** — $5 — 1d 18h 5m — tools_equipment — HiBid
+- **The Milwaukee Road retirement certificate 1956** — $5 — 18h 9m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330216024/the-milwaukee-road-retirement-certificate-1956
-- **Adlake No. 250 Milwaukee Road Railroad Lantern** — $10 — 1d 18h 8m — tools_equipment — HiBid
+- **Adlake No. 250 Milwaukee Road Railroad Lantern** — $10 — 18h 12m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/330216030/adlake-no--250-milwaukee-road-railroad-lantern
-- **1995 Chevrolet 4x4 2500 with Meyer plow. 168,910.** — ? — closes/opens 11/27/2026 — vehicles — HiBid — NEW
+- **1995 Chevrolet 4x4 2500 with Meyer plow. 168,910.** — ? — closes/opens 11/27/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/333115439/1995-chevrolet-4x4-2500-with-meyer-plow--168-910-
-- **1993 Ford F250 with 1995 7.3L powerstroke sawp 5** — ? — closes/opens 11/27/2026 — vehicles — HiBid — NEW
+- **1993 Ford F250 with 1995 7.3L powerstroke sawp 5** — ? — closes/opens 11/27/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/333103207/1993-ford-f250-with-1995-7-3l-powerstroke-sawp-5
 - **Cardboard fleetside pickup truck advertisement.** — ? — closes/opens 11/27/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/332975208/cardboard-fleetside-pickup-truck-advertisement-
-- **1981 Silverado pickup advertisement. Measures:** — ? — closes/opens 11/27/2026 — vehicles — HiBid — NEW
+- **1981 Silverado pickup advertisement. Measures:** — ? — closes/opens 11/27/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/332975210/1981-silverado-pickup-advertisement--measures-
-- **1998 WW 18' x 8' dual axle enclosed trailer. 2** — ? — closes/opens 11/27/2026 — vehicles — HiBid — NEW
+- **1998 WW 18' x 8' dual axle enclosed trailer. 2** — ? — closes/opens 11/27/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/333103209/1998-ww-18-x-8-dual-axle-enclosed-trailer--2
-- **8' L x 5' W Single axle utility trailer with drop** — ? — closes/opens 11/27/2026 — vehicles — HiBid — NEW
+- **8' L x 5' W Single axle utility trailer with drop** — ? — closes/opens 11/27/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/333103213/8-l-x-5-w-single-axle-utility-trailer-with-drop
-- **Trailer levelers.** — ? — closes/opens 11/27/2026 — vehicles — HiBid
-  https://hibid.com/michigan/lot/332977367/trailer-levelers-
 - **Trailer jacks.** — ? — closes/opens 11/27/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/332977732/trailer-jacks-
-- **2011 Chevrolet HHR 4-door hatchback with 193,000** — ? — closes/opens 11/27/2026 — vehicles — HiBid — NEW
+- **Trailer levelers.** — ? — closes/opens 11/27/2026 — vehicles — HiBid
+  https://hibid.com/michigan/lot/332977367/trailer-levelers-
+- **2011 Chevrolet HHR 4-door hatchback with 193,000** — ? — closes/opens 11/27/2026 — vehicles — HiBid
   https://hibid.com/michigan/lot/333103200/2011-chevrolet-hhr-4-door-hatchback-with-193-000
-- **Traveller lawn mower battery U1-340 part# CCA** — ? — closes/opens 11/27/2026 — tools_equipment — HiBid — NEW
+- **Traveller lawn mower battery U1-340 part# CCA** — ? — closes/opens 11/27/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/333046759/traveller-lawn-mower-battery-u1-340-part--cca
 - **Troybilt 21" cut push mower.** — ? — closes/opens 11/27/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/332977767/troybilt-21--cut-push-mower-
@@ -177,50 +177,74 @@
   https://hibid.com/michigan/lot/332976931/dewalt-model-dxv09p-shop-vac-
 - **DeWalt model DW303M corded recip saw with hard** — ? — closes/opens 11/27/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/332977570/dewalt-model-dw303m-corded-recip-saw-with-hard
-- **Ryobi battery operated hand tools includes caulk** — ? — closes/opens 11/27/2026 — tools_equipment — HiBid — NEW
+- **Ryobi battery operated hand tools includes caulk** — ? — closes/opens 11/27/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/332977987/ryobi-battery-operated-hand-tools-includes-caulk
-- **Propane torch, chainsaw safety chaps, tire** — ? — closes/opens 11/27/2026 — tools_equipment — HiBid — NEW
+- **Propane torch, chainsaw safety chaps, tire** — ? — closes/opens 11/27/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/332977963/propane-torch--chainsaw-safety-chaps--tire
-- **1998 GMC 3500 4X4 Snow Plow Truck** — $2,521 — 1d 18h 59m — vehicles — HiBid
+- **Vizio 32" TV, 25" Vizio.** — ? — closes/opens 11/27/2026 — electronics — HiBid
+  https://hibid.com/michigan/lot/332976879/vizio-32--tv--25--vizio-
+- **1998 GMC 3500 4X4 Snow Plow Truck** — $2,521 — 19h 3m — vehicles — HiBid
   https://hibid.com/michigan/lot/328007173/1998-gmc-3500-4x4-snow-plow-truck
-- **JVC Memory Card Camera Recorder** — $60 — 1 day 19 hours — electronics — Public Surplus
-  https://www.publicsurplus.com/sms/auction/view?auc=4126927
-- **2011 John Deere Gator 625i - Blown Motor** — $810 — 1 day 19 hours — vehicles — Public Surplus
-  https://www.publicsurplus.com/sms/auction/view?auc=4116030
-- **2005 Chevy Colorado - Will Not Start - Bad Fuel Pump** — $1,350 — 1 day 19 hours — vehicles — Public Surplus
-  https://www.publicsurplus.com/sms/auction/view?auc=4115971
-- **1994 Featherlite 8546 Aluminum 20' Horse Trailer** — $3,020 — 1d 19h — vehicles — HiBid
+- **1994 Featherlite 8546 Aluminum 20' Horse Trailer** — $3,040 — 19h 4m — vehicles — HiBid
   https://hibid.com/michigan/lot/328007174/1994-featherlite-8546-aluminum-20-horse-trailer
-- **Tandem-Axle Utility Trailer with Rear Ramp Gate** — $290 — 1d 19h 4m — vehicles — HiBid
+- **Tandem-Axle Utility Trailer with Rear Ramp Gate** — $290 — 19h 8m — vehicles — HiBid
   https://hibid.com/michigan/lot/328007178/tandem-axle-utility-trailer-with-rear-ramp-gate
-- **Bad Boy ZT Elite 60" Zero-Turn Riding Mower** — $660 — 1d 19h 10m — tools_equipment — HiBid
+- **Bad Boy ZT Elite 60" Zero-Turn Riding Mower** — $660 — 19h 14m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328007183/bad-boy-zt-elite-60--zero-turn-riding-mower
-- **Huskee Supreme 26.0 HP / 54" Riding Mower- PARTS** — $10 — 1d 19h 27m — tools_equipment — HiBid
+- **Huskee Supreme 26.0 HP / 54" Riding Mower- PARTS** — $10 — 19h 31m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328007198/huskee-supreme-26-0-hp---54--riding-mower--parts
-- **International Harvester 340 Utility Tractor** — $343 — 1d 19h 28m — tools_equipment — HiBid
+- **International Harvester 340 Utility Tractor** — $343 — 19h 32m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328007199/international-harvester-340-utility-tractor
-- **Campbell Hausfeld 13-Gallon Wheeled Air Compressor** — $0 — 1d 19h 31m — tools_equipment — HiBid
+- **JVC Memory Card Camera Recorder** — $60 — 19 hours 33 mins — electronics — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4126927
+- **2011 John Deere Gator 625i - Blown Motor** — $810 — 19 hours 33 mins — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4116030
+- **2005 Chevy Colorado - Will Not Start - Bad Fuel Pump** — $1,350 — 19 hours 33 mins — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4115971
+- **Campbell Hausfeld 13-Gallon Wheeled Air Compressor** — $0 — 19h 35m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328007202/campbell-hausfeld-13-gallon-wheeled-air-compressor
-- **Simpson MegaShot 3100 PSI Gas Pressure Washer** — $10 — 1d 19h 32m — tools_equipment — HiBid
+- **Simpson MegaShot 3100 PSI Gas Pressure Washer** — $10 — 19h 36m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328007203/simpson-megashot-3100-psi-gas-pressure-washer
-- **Air Compressor, Bench Grinder with Wire Wheel etc** — $10 — 1d 19h 57m — tools_equipment — HiBid
+- **Asst Auto, Trailer, Chainsaw, Tractor, etc. Bins** — $10 — 19h 54m — vehicles — HiBid
+  https://hibid.com/michigan/lot/328055948/asst-auto--trailer--chainsaw--tractor--etc--bins
+- **Air Compressor, Bench Grinder with Wire Wheel etc** — $10 — 20h 1m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328055955/air-compressor--bench-grinder-with-wire-wheel-etc
-- **Campbell Hausfeld 30-Gallon Air Compressor** — $35 — 1d 20h 10m — tools_equipment — HiBid
+- **Campbell Hausfeld 30-Gallon Air Compressor** — $35 — 20h 14m — tools_equipment — HiBid
   https://hibid.com/michigan/lot/328055967/campbell-hausfeld-30-gallon-air-compressor
-- **1990 Chevrolet Corvette Coupe –PARTS / SALVAGE CAR** — $610 — 1d 20h 17m — vehicles — HiBid
+- **1990 Chevrolet Corvette Coupe –PARTS / SALVAGE CAR** — $610 — 20h 21m — vehicles — HiBid
   https://hibid.com/michigan/lot/328055973/1990-chevrolet-corvette-coupe--parts---salvage-car
-- **Stainless Steel Commercial kitchen equipment** — $500 — 3 days 14 hours — tools_equipment — Public Surplus
+- **Stainless Steel Commercial kitchen equipment** — $500 — 2 days 14 hours — tools_equipment — Public Surplus
   https://www.publicsurplus.com/sms/auction/view?auc=4132034
-- **$253 Milwaukee M12 Stick Transfer Pump Tool-Only** — $253 — 3d 17h 25m — tools_equipment — HiBid — NEW
-  https://hibid.com/michigan/lot/333201765/-253-milwaukee-m12-stick-transfer-pump-tool-only
-- **$77 Milwaukee TrapSnake 6 Ft. Toilet Auger** — $77 — 3d 17h 45m — tools_equipment — HiBid — NEW
-  https://hibid.com/michigan/lot/333201811/-77-milwaukee-trapsnake-6-ft--toilet-auger
-- **2 H50 50W Plastic Welder Hot Stapler Kits Yellow** — ? — closes/opens 11/29/2026 — tools_equipment — HiBid — NEW
+- **$77 Milwaukee TrapSnake 6 Ft. Toilet Auger** — $77 — 2d 17h 12m — tools_equipment — HiBid — NEW
+  https://hibid.com/michigan/lot/333363510/-77-milwaukee-trapsnake-6-ft--toilet-auger
+- **$110 Car DVD Player, WONNIE 12" Headrest DVD...** — $110 — 2d 18h 15m — vehicles — HiBid — NEW
+  https://hibid.com/michigan/lot/333363583/-110-car-dvd-player--wonnie-12--headrest-dvd---
+- **2 H50 50W Plastic Welder Hot Stapler Kits Yellow** — ? — closes/opens 11/29/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/333089112/2-h50-50w-plastic-welder-hot-stapler-kits-yellow
-- **EGO Power+ 530 CFM Cordless Electric Leaf Blower** — ? — closes/opens 11/29/2026 — tools_equipment — HiBid — NEW
+- **EGO Power+ 530 CFM Cordless Electric Leaf Blower** — ? — closes/opens 11/29/2026 — tools_equipment — HiBid
   https://hibid.com/michigan/lot/333088938/ego-power--530-cfm-cordless-electric-leaf-blower
-- **$27 for iPhone 17 Pro Max - Magnetic Wallet...** — $27 — 3d 19h 7m — electronics — HiBid — NEW
-  https://hibid.com/michigan/lot/333208839/-27-for-iphone-17-pro-max---magnetic-wallet---
+- **Tandem axle double reel cable trailer** — $500 — 3 days 11 hours — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4134999
+- **Used Wheelchair School Bus w/AC #16** — $4,650 — 3 days 14 hours — vehicles — Public Surplus
+  https://www.publicsurplus.com/sms/auction/view?auc=4128097
+- **1950s buddy L ATLAS VAN** — $140 — 3d 17h 40m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331128926/1950s-buddy-l-atlas-van
+- **Antique cast iron deliver van marked champion on** — $7 — 3d 18h 14m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331129203/antique-cast-iron-deliver-van-marked-champion-on
+- **First Gear 1957 Atlas International R-200 Moving** — $17 — 3d 18h 17m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331129234/first-gear-1957-atlas-international-r-200-moving
+- **Greyhound van lines inc glass advertising Trey** — $2 — 3d 18h 38m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331129424/greyhound-van-lines-inc-glass-advertising-trey
+- **Matchbox yesteryear model #1 steam tractor** — $2 — 3d 18h 49m — tools_equipment — HiBid
+  https://hibid.com/michigan/lot/331129523/matchbox-yesteryear-model--1-steam-tractor
+- **Cast aluminum fruehauf Smith -miller inc trailer** — $21 — 3d 19h 42m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331129979/cast-aluminum-fruehauf-smith--miller-inc-trailer
+- **Vtg Panasonic Color Video Printer Pv-mp10** — $5 — 3d 19h 42m — electronics — HiBid
+  https://hibid.com/michigan/lot/332316315/vtg-panasonic-color-video-printer-pv-mp10
+- **Vtg Citizen M329 Mark Ii Lcd Color Video Monitor** — $0 — 3d 19h 48m — electronics — HiBid
+  https://hibid.com/michigan/lot/332316352/vtg-citizen-m329-mark-ii-lcd-color-video-monitor
+- **Vintage International D-2 Pickup** — $0 — 3d 21h 49m — vehicles — HiBid
+  https://hibid.com/michigan/lot/331629657/vintage-international-d-2-pickup
 - **1986 GMC Brigadier 2000 Gallon Tanker with 1250 GPM Hale Pump** — $500 — n/a — vehicles — Municibid
   https://municibid.com/listing/87284128/1986-gmc-brigadier-2000-gallon-tanker-with-1250-gpm-hale-pump
 - **Volvo Semi ProStar Premium 6×4 sleeper truck** — $0 — n/a — vehicles — HiBid
@@ -231,7 +255,7 @@
   https://hibid.com/michigan/lot/332087490/john-deere-3020-gas-wide-front-low-hours
 - **Ford 340 Tractor Loader** — $0 — n/a — tools_equipment — HiBid
   https://hibid.com/michigan/lot/332087507/ford-340-tractor-loader
-- **TYM T254 Tractor Loader Back Hoe** — $225 — n/a — tools_equipment — HiBid
+- **TYM T254 Tractor Loader Back Hoe** — $275 — n/a — tools_equipment — HiBid
   https://hibid.com/michigan/lot/332087491/tym-t254-tractor-loader-back-hoe
 - **welder** — $0 — n/a — tools_equipment — HiBid
   https://hibid.com/michigan/lot/332087502/welder
@@ -397,8 +421,6 @@
   https://msusurplusstore.com/products/dell-latitude-7290-i5-8th-gen-16gb-ddr4-windows-pro
 - **Apple iMac 27" 3.6Ghz i9 9th Gen 2019 32GB DDR4 1TB SSD HDD *Cracked Screeen*** — $400 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/apple-imac-27-3-6ghz-i9-9th-gen-2019-32gb-ddr4-1tb-ssd-hdd-cracked-screeen
-- **Apple iMac 27" 3.3Ghz i5 6th Gen 2015 8GB DDR3 2TB Fusion *No OS*** — $90 — buy now — electronics — MSU Surplus Store
-  https://msusurplusstore.com/products/apple-imac-27-3-3ghz-i5-6th-gen-2015-8gb-ddr3-2tb-fusion
 - **Juniper QFX5100-24Q AFI Ethernet Switch #4** — $140 — buy now — electronics — MSU Surplus Store
   https://msusurplusstore.com/products/juniper-qfx5100-24q-ethernet-switch-4
 - **Dell Latitude 5310 i5 10th Gen Windows 11 Pro** — $200 — buy now — electronics — MSU Surplus Store
